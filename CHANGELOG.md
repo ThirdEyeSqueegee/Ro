@@ -46,7 +46,6 @@
 - Move JS Helm of Yngol to Necessary Overwrites separator
 - Move JS Daggers to Necessary Overwrites separator
 - Move Windhelm Bridge Stairs to Necessary Overwrites separator
-
 - Remove FYX - 3D Whiterun Castle Bridge
 - Remove Solitude Objects SMIMed - festival ropes
 
