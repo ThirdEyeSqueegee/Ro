@@ -2,7 +2,9 @@
 
 ## Simple, Stable(?), Sensible, Sexy
 
----
+### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md)
+
+<br>
 
 Less is more. More is also more. Requires Anniversary Edition.
 
