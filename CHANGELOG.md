@@ -1,3 +1,11 @@
+# v0.1.2
+
+- UPDATE SIZE: SMALL
+- Add Ro - Character Presets
+- Add Ro - IED Preset
+- Add Ro - SmoothCam Preset
+- Add several custom patches
+
 # v0.1.1
 
 - Update NPCs with Faces.esp (missing master after removing Animated Armoury)
