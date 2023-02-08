@@ -1,9 +1,14 @@
+<div align="center">
+
+![Ro](assets/Ro.png)
+
 # Ro - A Balanced Modlist
 
 ## Simple, Stable(?), Sensible, Sexy
 
-### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md)
+### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/7PRfhRdedF) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
 
+</div>
 <br>
 
 Less is more. More is also more. Requires Anniversary Edition.
