@@ -1,4 +1,8 @@
-# 0.1.0
+# v0.1.1
+
+- Update NPCs with Faces.esp (missing master after removing Animated Armoury)
+
+# v0.1.0
 
 - Add Pilgrim - Daedric Shrines AIO Patch
 - Add Civil War Intro Scenes Only Play Once
@@ -24,7 +28,7 @@
 - Remove Ro -- Animated Armoury Megapatch
 - Scale trees to 1.5x size
 
-# 0.0.5
+# v0.0.5
 
 - Update Bash Bug Fix
 
