@@ -1,3 +1,10 @@
+# v0.1.3
+
+- Add Press H to Horse - Custom Keybind
+- Add Rain Extinguishes Fires
+- Update Fluffworks - Bellyaches Horses
+- Update Bash Bug Fix
+
 # v0.1.2
 
 - UPDATE SIZE: SMALL
