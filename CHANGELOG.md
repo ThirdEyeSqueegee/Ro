@@ -1,4 +1,4 @@
-# v0.1.5
+# v0.2.0
 
 - UPDATE SIZE: SMALL
 - Add Ro - Completionist Profile
