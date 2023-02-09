@@ -1,3 +1,11 @@
+# 0.2.1
+
+- UPDATE SIZE: MEDIUM
+- Fix Azura statue not appearing on world map
+- Update Completionist
+- Update TexGen Output
+- Update DynDOLOD Output
+
 # v0.2.0
 
 - UPDATE SIZE: SMALL
