@@ -1,3 +1,16 @@
+# v0.1.5
+
+- UPDATE SIZE: SMALL
+- Add Ro - Completionist Profile
+- Add Silence Is Golden
+- Add Dwemer Gates Don't Reset
+- Add Cooking Pots in Inns
+- Add Natura
+- Add Lunaris
+- Add Abyss
+- Add Brewer - An Alcohol Brewing Mod
+- Add Pelts - Complex Parallax Occlusion
+
 # v0.1.4
 
 - UPDATE SIZE: SMALL
