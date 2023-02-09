@@ -19,6 +19,8 @@ Ro is an attempt to bring together the latest and greatest graphics mods and foc
 
 Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-balanced-modlist-beta) if you'd like a closer look. Join the [Discord server](https://discord.gg/7PRfhRdedF) for questions, bug reports, mod suggestions, or just to come hang out!
 
+Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds used in this modlist.
+
 ### Technical notes:
 
 - Installation size: ~100 GB

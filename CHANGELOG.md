@@ -1,3 +1,11 @@
+# v0.1.4
+
+- UPDATE SIZE: SMALL
+- Add Survival Mode - Cloaks of Skyrim Patch
+- Disable Completionist UI additions by default
+- Misc. configuration tweaks
+- Fix potions in inventory menu appearing too large
+
 # v0.1.3
 
 - UPDATE SIZE: SMALL
