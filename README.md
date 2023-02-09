@@ -6,7 +6,7 @@
 
 ## Simple, Stable(?), Sensible, Sexy
 
-### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/7PRfhRdedF) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
+### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/7PRfhRdedF) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
 
 </div>
 <br>
