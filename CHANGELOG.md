@@ -1,3 +1,12 @@
+# v0.2.4
+
+- UPDATE SIZE: MEDIUM
+- Add misc. patches
+- Fix water color mismatch issue (LODs)
+- Update Artifacts - Resurgence
+- Update TexGen Output
+- Update DynDOLOD Output
+
 # v0.2.3
 
 - UPDATE SIZE: SMALL
