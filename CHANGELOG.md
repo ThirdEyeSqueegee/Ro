@@ -1,3 +1,12 @@
+# v0.2.5
+
+- UPDATE SIZE: SMALL
+- Add Gladys the Corgi
+- Add Merlin the Corgi
+- Tweak BethINI settings
+- Update Completionist
+- Update Unique Map Weathers
+
 # v0.2.4
 
 - UPDATE SIZE: MEDIUM
