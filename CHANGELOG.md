@@ -1,3 +1,11 @@
+# v0.2.9
+
+- UPDATE SIZE: SMALL
+- Fix compass units
+- Fix dynamic loot menu not appearing
+- Fix loot menu icons not appearing
+- Remove Lit Road Signs.esp
+
 # v0.2.8
 
 - UPDATE SIZE: SMALL
