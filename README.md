@@ -62,6 +62,8 @@ Followers:
 
 - Inigo
 - Lucien
+- Gladys the Corgi
+- Merlin the Corgi
 
 Improved Questlines:
 
