@@ -1,3 +1,14 @@
+# v0.2.7
+
+- UPDATE SIZE: MEDIUM
+- Add Modular Armory
+- Add Modular Armory - Female Savior's Hide Crash Fix
+- Add Armor Mesh Fixes
+- Update Hand to Hand
+- Update Blade and Blunt
+- Update Infinity UI
+- Update Compass Navigation Overhaul
+
 # v0.2.6
 
 - UPDATE SIZE: SMALL
