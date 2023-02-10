@@ -1,3 +1,8 @@
+# v0.2.8
+
+- UPDATE SIZE: SMALL
+- Fix load order
+
 # v0.2.7
 
 - UPDATE SIZE: MEDIUM
