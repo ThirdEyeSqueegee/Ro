@@ -1,4 +1,15 @@
-# 0.2.1
+# v0.2.2
+
+- UPDATE SIZE: MEDIUM
+- Add Orcish Armors and Weapons Retexture
+- Add Daedric Armors and Weapons Retexture
+- Add Dragon Armors and Weapons Retexture
+- Add Ebony Armors and Weapons Retexture
+- Add Icy Windhelm
+- Fix Solitude manhole mesh bug
+- Reduce main menu volume
+
+# v0.2.1
 
 - UPDATE SIZE: MEDIUM
 - Fix Azura statue not appearing on world map
