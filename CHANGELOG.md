@@ -1,3 +1,10 @@
+# v0.2.6
+
+- UPDATE SIZE: SMALL
+- Add Custom Window
+- Minimize water seam issue, should be much less noticeable now (not fully fixable)
+- Update Misc Dialogue Edits
+
 # v0.2.5
 
 - UPDATE SIZE: SMALL
