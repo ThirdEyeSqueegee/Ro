@@ -1,3 +1,17 @@
+# v0.2.3
+
+- UPDATE SIZE: SMALL
+- Add 3D Juniper - Trees and Berries
+- Add Missing Follower Dialogue Edit
+- Add CC Pets Addon - Spiders Spin Webs
+- Add Erandur Dialogue Edits
+- Add Moving Ships Resource
+- Add Vittorias Alternate Wedding
+- Add Delphine's Map Reveals Dragon Mounds
+- Add Clouds in the Cloud District
+- Update Skyland Common and Upper Furniture
+- Update Animated Forge Water
+
 # v0.2.2
 
 - UPDATE SIZE: MEDIUM
