@@ -1,3 +1,9 @@
+# v0.3.2
+
+- UPDATE SIZE: SMALL
+- Add JS Torture Tools
+- Update ENBSeries
+
 # v0.3.1
 
 - UPDATE SIZE: SMALL
