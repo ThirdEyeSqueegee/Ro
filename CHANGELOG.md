@@ -1,3 +1,18 @@
+# v0.3.0
+
+- UPDATE SIZE: LARGE
+- Add misc. patches
+- Add dunFolgunthurBossBattle Script Fix
+- Add Extended Cut - Saints and Seducers
+- Add ECSS - Mysticism Rebalance
+- Add optional "Comedy" section
+- Add Inigo Loadscreen Quote Fixer
+- Add Lore-Based Loading Screens
+- Update Facegen Output
+- Update Terrain LOD
+- Update TexGen Output
+- Update DynDOLOD Output
+
 # v0.2.9
 
 - UPDATE SIZE: SMALL
