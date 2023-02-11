@@ -1,3 +1,9 @@
+# v0.3.1
+
+- UPDATE SIZE: SMALL
+- Temporarily move Compass Navigational Overhaul ahead of Untarnished UI (awaiting update)
+- Tweak BethINI settings (should reduce tree pop-in)
+
 # v0.3.0
 
 - UPDATE SIZE: LARGE
