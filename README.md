@@ -68,6 +68,7 @@ Followers:
 Improved Questlines:
 
 - All of jayserpa's stuff
+- Extended Cut - Saints and Seducers
 
 CC Content:
 
