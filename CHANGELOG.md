@@ -1,3 +1,14 @@
+# v0.3.4
+
+- UPDATE SIZE: SMALL
+- Fix optional Comedy mods not appearing
+
+# v0.3.3
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Cities - Winterhold
+- Update Happy Little Trees - Ivy on Trees
+
 # v0.3.2
 
 - UPDATE SIZE: SMALL
