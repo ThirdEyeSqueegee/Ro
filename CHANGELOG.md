@@ -1,3 +1,19 @@
+# v0.3.6
+
+- UPDATE SIZE: SMALL
+- Add 4thUnknown's Dwemer Armor
+- Add Leviathan Animations (optional)
+- Add Goetia Animations (optional)
+- Add Vanargand Animations (optional)
+
+# v0.3.5
+
+- UPDATE SIZE: SMALL
+- Add Bloodmoon
+- Add No Spinning Death Animations
+- Add Simple Wearable Lanterns
+- Replace Spaghetti's Cities individual mods with AIO version
+
 # v0.3.4
 
 - UPDATE SIZE: SMALL
