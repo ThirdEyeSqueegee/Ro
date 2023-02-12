@@ -1,3 +1,9 @@
+# v0.4.2
+
+- UPDATE SIZE: SMALL
+- Add Rally's Solstheim Landscapes
+- Add Rally's Solstheim Landscapes Complex Terrain Parallax Edition
+
 # v0.4.1
 
 - UPDATE SIZE: SMALL
