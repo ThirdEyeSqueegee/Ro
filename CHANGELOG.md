@@ -1,3 +1,8 @@
+# v0.4.1
+
+- UPDATE SIZE: SMALL
+- Fix load order (Compass Navigation Overhaul/Untarnished UI)
+
 # v0.4.0
 
 - UPDATE SIZE: MEDIUM
