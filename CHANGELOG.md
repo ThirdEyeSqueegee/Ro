@@ -1,3 +1,35 @@
+# v0.4.0
+
+- UPDATE SIZE: MEDIUM
+- Add Forget Spell
+- Add Ethereal Immunity
+- Add JS Circlet Replacer
+- Add Praedy's Staves AIO
+- Add Bard Instrumentals Mostly - Sing Rarely
+- Add Bard's College Bedroom
+- Add Headhunter - Bounties Redone
+- Add Dovahkiin's Vault
+- Add Dovahkiin's Vault - Earlier Start
+- Add Vampire Feeding Tweaks
+- Add Dynamic Things Alternative
+- Add Instincts - Animal Taming in Skyrim
+- Add Simple CC Backpack Rebalance
+- Add CC's Camping Expansion
+- Add Armor Rating Adjustment for Adamant
+- Add Dark Brotherhood Revengeance
+- Add Lord's Mail - Reduced Cut
+- Add Arms of Chaos - Reduced Cut
+- Add The Gray Cowl Returns - Reduced Cut
+- Add The Staff of Hasedoki - Reduced Cut
+- Add Spells of the Madgod - Summonable ECSS Creatures
+- Add Reanimated NPC Animations
+- Add Look Around - Searching Animations For NPCs
+- Update Untarnished UI
+- Update Unmarked Locations Pack - Lux Via Patch
+- Replace custom Dareni's Spells/Mysticism integration patches (see readme)
+- Fix patches
+- Thanks to Dax88 and Aosana for help with various things!
+
 # v0.3.7
 
 - UPDATE SIZE: MEDIUM
