@@ -1,3 +1,18 @@
+# v0.3.7
+
+- UPDATE SIZE: MEDIUM
+- Add Conditional Armor Type Animations
+- Add Markarth Fixed AF
+- Add Markarth Mossy AF
+- Add Stony AF Markarth and Dwemer Ruins
+- Add Gravunlom - a Riften Texture Overhaul
+- Add Royal Armory
+- Add New Armory Series - Ash Spawn Weapons
+- Add New Armory Series - Dragon Cult Weapons
+- Add New Armory Series - Elven Steel Weapons
+- Add New Armory Series - Lunar Weapons
+- Activate Leviathan, Goetia, and Vanargand animations by default
+
 # v0.3.6
 
 - UPDATE SIZE: SMALL
