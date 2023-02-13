@@ -1,3 +1,13 @@
+# v0.4.3
+
+- UPDATE SIZE: SMALL
+- Add Environs - The Greenwood Shack
+- Add Environs - The Shrines of Talos
+- Add Environs - Kolskeggr
+- Add Environs - Whiterun Watchtower Doesn't Stay Broken
+- Add Environs - The Ruined Tundra Farmhouse
+- Update Untarnished UI
+
 # v0.4.2
 
 - UPDATE SIZE: SMALL
