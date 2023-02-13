@@ -1,3 +1,10 @@
+# v0.4.4
+
+- UPDATE SIZE: SMALL
+- Add Fluffworks Patches for Bellyache's Animals and Creatures
+- Add Rich Discord Presence
+- Add Custom Window icon for Ro
+
 # v0.4.3
 
 - UPDATE SIZE: SMALL
