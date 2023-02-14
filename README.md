@@ -15,7 +15,7 @@ Less is more. More is also more. Requires Anniversary Edition + Creation Club co
 
 NOTE: This is a **beta release**. As such, bugs and issues are to be expected and will be dealt with swiftly and with great prejudice. Please report any issues/bugs and help me make this modlist even more amazing than it already is!
 
-**Q**: "Why Ro and not {some modlist}"? <br>
+**Q**: "Why Ro and not {some modlist}?" <br>
 **A**: Ro is focused on providing the best possible visual experience for Skyrim coupled with sensible gameplay overhauls that work together to make Ro a pleasure to look at and play.
 
 Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, tons of beautiful new complex parallax textures, and Rudy's ENB for Cathedral Weathers. All this with great performance—tuned out of the box to run smoothly with minimal frame drops. Made with modding in mind: for those of you that want to build on top of this list, I tried to minimize the time it takes to regenerate LODs etc. To this end, there are no mods in this list that add new worldspaces.
