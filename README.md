@@ -6,7 +6,7 @@
 
 ## Simple, Stable, Sensible, Sexy
 
-### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/7PRfhRdedF) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
+### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
 
 </div>
 <br>
@@ -20,7 +20,7 @@ NOTE: This is a **beta release**. As such, bugs and issues are to be expected an
 
 Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, tons of beautiful new complex parallax textures, and Rudy's ENB for Cathedral Weathers. All this with great performance—tuned out of the box to run smoothly with minimal frame drops. Made with modding in mind: for those of you that want to build on top of this list, I tried to minimize the time it takes to regenerate LODs etc. To this end, there are no mods in this list that add new worldspaces.
 
-Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-balanced-modlist-beta) if you'd like a closer look. Join the [Discord server](https://discord.gg/7PRfhRdedF) for questions, bug reports, mod suggestions, or just to come hang out!
+Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-balanced-modlist-beta) if you'd like a closer look. Join the [Discord server](https://discord.gg/WF66mMu) for questions, bug reports, mod suggestions, or just to come hang out!
 
 Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds used in this modlist.
 

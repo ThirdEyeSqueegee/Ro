@@ -1,3 +1,31 @@
+# v0.5.0
+
+- UPDATE SIZE: LARGE
+- New name!
+- New home! Thanks Lost Outpost!
+- Fix remaining few water seams
+- Fix tree pop-in(?)
+- Add The Eyes of Beauty - AI Remastered
+- Add Chewing Sounds for Spell Tomes (Optional - Comedy)
+- Add WiZkiD Parallax Farmhouses
+- Add Royal Armory - New Artifacts Plugin Replacer
+- Add Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+- Add PrivateEye's Royal Armory - Reforged
+- Update Bash Bug Fix
+- Update Untarnished UI
+- Update Compass Navigation Overhaul
+- Update Discord Rich Presence
+- Update Huntsman - A Hunting Expansion
+- Update Unmarked Locations Pack - Lux Via Patch
+- Update Facegen Output
+- Update Terrain LOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove HD Reworked Blended Roads
+- Remove some optional Comedy mods
+- Remove Far Object LOD Improvement Project
+- Tweak BethINI settings
+
 # v0.4.4
 
 - UPDATE SIZE: SMALL
