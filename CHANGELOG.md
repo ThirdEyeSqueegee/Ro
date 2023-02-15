@@ -1,3 +1,14 @@
+# v0.5.4
+
+- UPDATE SIZE: SMALL
+- Add Somewhat Faithful Lucien Replacer
+- Add Vanilla Hairs Fixes
+- Add High Poly Vanilla Hair Fixes
+- Add Draco's 3D Plants and Shrub Replacer
+- Add Configurable Commentary Rate Slider
+- Add Improved Follower Dialogue - Lydia
+- Update Facegen output
+
 # v0.5.3
 
 - UPDATE SIZE: SMALL
