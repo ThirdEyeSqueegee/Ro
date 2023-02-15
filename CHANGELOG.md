@@ -1,3 +1,14 @@
+# v0.5.3
+
+- UPDATE SIZE: SMALL
+- Fix Press H to Horse custom keybind (default is H)
+
+# v0.5.2
+
+- UPDATE SIZE: SMALL
+- Remove redundant patch
+- Fix modlist name in MO2
+
 # v0.5.1
 
 - UPDATE SIZE: LARGE
