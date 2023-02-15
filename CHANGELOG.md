@@ -1,3 +1,14 @@
+# v0.5.9
+
+- Misc. minor fixes (barely even fixes tbh)
+
+# v0.5.8
+
+- UPDATE SIZE: SMALL
+- Add modlist version to MO2 title separator
+- Add Katana Crafting
+- Fix Cathedral 3D Clovers/Draco's Shrubs overwrite
+
 # v0.5.7
 
 - UPDATE SIZE: SMALL
