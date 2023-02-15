@@ -1,3 +1,12 @@
+# v0.5.6
+
+- UPDATE SIZE: SMALL
+- Add Gravunlom - Less Shiny Ratway
+- Add Dwemer Armor SE - My patches and fixes
+- Add Widescreen with Padding Patches
+- Add Constructible Object Custom Keyword System - Ultrawide Aspect Ratio - 32x9 Patch
+- Misc. load order fixes
+
 # v0.5.5
 
 - UPDATE SIZE: SMALL
