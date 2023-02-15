@@ -1,3 +1,16 @@
+# v0.5.7
+
+- UPDATE SIZE: SMALL
+- Add Glorious Gradients
+- Add QUI
+- Add Ro - QUI Config
+- Add Rumble Additions (disabled by default)
+- Update Rumble
+- Update FYX - SMIM Barrels
+- Update Root Builder
+- Update Cooking Categories Improvement
+- Update Natura (pre-release version, reduced Spriggan spawns)--thanks Dareni!
+
 # v0.5.6
 
 - UPDATE SIZE: SMALL
