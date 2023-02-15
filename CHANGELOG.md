@@ -1,3 +1,36 @@
+# v0.5.1
+
+- UPDATE SIZE: LARGE
+- Add Toggle Compass Hotkey
+- Add Bosmer Armor Pack
+- Add Bosmer Armor Pack Retexture
+- Add Iron Armors and Weapons Retexture
+- Add Obsidian Weathers
+- Add Rudy ENB for Obsidian Weathers
+- Add True Nordic Farmhouses
+- Add Taarengrav Barrow
+- Add Far Object LOD Improvement Project
+- Add Vitruvia
+- Add Reverie
+- Add True Teacher Durnehviir
+- Add ReSaver
+- Add Cooking Categories Improvements
+- Remove Cathedral Weathers
+- Remove Rudy ENB for Cathedral Weathers
+- Remove WiZkiD Parallax Farmhouses
+- Remove Tempered Skins
+- Remove Happy Little Trees - Ivy on Trees
+- Update Natura (thanks Dareni!) - reduced Spriggan spawns
+- Update dunFolgunthurBossBattle Script Fix
+- Update Root Builder
+- Update Discord Rich Presence
+- Update FaceGen Output
+- Update Terrain LOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Fix tree pop-in
+- Include CK/Synthesis Output mods by default
+
 # v0.5.0
 
 - UPDATE SIZE: LARGE
