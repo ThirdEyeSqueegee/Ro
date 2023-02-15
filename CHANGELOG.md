@@ -20,7 +20,6 @@
 - Remove WiZkiD Parallax Farmhouses
 - Remove Tempered Skins
 - Remove Happy Little Trees - Ivy on Trees
-- Update Natura (thanks Dareni!) - reduced Spriggan spawns
 - Update dunFolgunthurBossBattle Script Fix
 - Update Root Builder
 - Update Discord Rich Presence
