@@ -1,3 +1,11 @@
+# v0.5.5
+
+- UPDATE SIZE: SMALL
+- Add Improved Follower Dialogue - Lydia - Lipsync Minor Fix
+- Add Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+- Add Improved Follower Dialogue - Lydia and Lucien (Minor Patch)
+- Update Discord Rich Presence config
+
 # v0.5.4
 
 - UPDATE SIZE: SMALL
