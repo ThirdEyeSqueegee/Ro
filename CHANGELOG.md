@@ -1,5 +1,10 @@
 # v0.5.9
 
+- UPDATE SIZE: SMALL
+- Add KS Hairdos Lite
+- Update Discord Rich Presence
+- Update Facegen Output
+- Remove High Poly Vanilla Hair Fixes
 - Misc. minor fixes (barely even fixes tbh)
 
 # v0.5.8
