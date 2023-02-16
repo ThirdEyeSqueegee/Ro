@@ -57,9 +57,10 @@ Locations:
 
 Gameplay, Physics, and Animations:
 
+- SimonRim (+ complimentary mods)
 - Precision
 - EVG Conditional Idles + Animation Variance
-- SimonRim (+ complimentary mods)
+- Goetia, Vanargand, and Leviathan Animations
 
 Followers:
 

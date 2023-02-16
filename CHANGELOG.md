@@ -1,3 +1,55 @@
+# v0.7.0
+
+- UPDATE SIZE: LARGE
+- Add Vampire Lines Expansion
+- Add Helgen Express
+- Add Helgen Express Spell and Archetype Expansion
+- Add Autorun
+- Add Grass Fixes for Creation Club Mods
+- Add Clouds over Cloud District
+- Add Clouds over Markarth
+- Add Clouds over Bonestrewn Crest
+- Add Skyrim Remastered - Glaciers and Ice
+- Add Skyrim Remastered - Glaciers and Ice - 4K Textures
+- Add Icy Mesh Remaster
+- Add Sons of Skyrim
+- Add Sons of Skyrim - Battle Ready
+- Add RMB SPIDified - Core
+- Add RMB SPIDified - Guard Armor Replacer
+- Add RMB SPIDified - Sons of Skyrim
+- Add New Legion
+- Add Just Blood - Dirt and Blood Lite
+- Add Immersive Dragons
+- Add GoT Dragons
+- Add GoT Dragons - Fixed Soul Absorb And Optimized
+- Add GoT Dragons - Undead Viserion as Durnehviir
+- Add Even More Undead GoT Durnehviir
+- Add HotD and GoT Dragons
+- Add HotD Dragons - Syrax
+- Add HotD Dragons - Conquest Trio
+- Add GoT HotD - Skeletal Dragon and Underskin
+- Add Dead Shrub Be Gone
+- Add Sun Affects NPC Vampires
+- Add Peltapalooza - Parallax Occlusion
+- Add Configurable Commentary Rate Slider - Settings Loader
+- Add Sforzinda Imitations
+- Add Sforzinda Imitations Stripped Down
+- Update Katana Crafting
+- Update Bash Bug Fix
+- Update Bandit Lines Expansion
+- Update Civil War Lines Expansion
+- Update Terrain LOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Skyrim Unbound Reborn
+- Remove Clouds in the Cloud District
+- Remove Environs mods (sus)
+- Replace True Teacher Durnehviir
+- Make Inigo less OP (Autorun)
+- Misc. load order tweaks
+- Misc. INI tweaks
+- Attempt to fix weird grass collisions
+
 # v0.6.0
 
 - UPDATE SIZE: SMALL

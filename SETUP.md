@@ -2,8 +2,6 @@
 
 ## Do this BEFORE you launch the game
 
-- This modlist uses [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962). Please skim through the modpage and familiarize yourself with the mod to avoid any confusion about starting your adventure.
-- I have included a basic preset for Skyrim Unbound, you might like to load it when you begin a new save and use it as a starting point.
 - The default key to summon your horse is H. If you would like to change the binding to a different key or a controller button, navigate to `H2Horse.ini` in the `[NoDelete] Press H to Horse - Custom Keybind` mod to change the keybind. Note that the keybind **cannot** be changed once you have started a save.
 - There are several optional mods under the Comedy separator. If you'd like to use them:
   1. In the right pane of ModOrganizer, click on the "plugins" tab and scroll all the way to the bottom. You should see `Occlusion.esp` at the end of this list.
