@@ -1,3 +1,14 @@
+# v0.6.0
+
+- UPDATE SIZE: SMALL
+- Add Fashions of the Fourth Era
+- Add Animated Small Nordic Tent Replacer
+- Add Smash Open SKSE (optional)
+- Update Facegen Output
+- Remove High Poly Vanilla Hair
+- Remove The Eyes of Beauty
+- Fix Compass Navigation Overhaul units
+
 # v0.5.9
 
 - UPDATE SIZE: SMALL
