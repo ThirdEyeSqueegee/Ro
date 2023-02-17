@@ -1,3 +1,11 @@
+# v0.7.4
+
+- UPDATE SIZE: SMALL
+- Add Animated Small Nordic Tent Replacer - Rally's Version
+- Update Vampire Lines Expansion
+- Update powerofthree's Tweaks
+- Fix Morthal guard armor distribution (thanks Shakes!)
+
 # v0.7.3
 
 - UPDATE SIZE: SMALL
