@@ -1,3 +1,9 @@
+# v0.7.3
+
+- UPDATE SIZE: SMALL
+- Add Guards Armor Replacer
+- _Actually_ fix invisible guards issue
+
 # v0.7.2
 
 - UPDATE SIZE: SMALL
