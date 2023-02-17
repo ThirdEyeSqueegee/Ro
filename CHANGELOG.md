@@ -1,3 +1,15 @@
+# v0.7.5
+
+- UPDATE SIZE: SMALL
+- Add Recipe Auto-Learn
+- Add Alchemy Recipe Expansion
+- Add 2k-4k Executioner's Block
+- Add Salmon Retex - Realistic Salmon
+- Add Forsworn Fashions
+- Add RMB SPIDified - Forsworn Fashions
+- Update RMB SPIDified - Core
+- Misc. load order fixes
+
 # v0.7.4
 
 - UPDATE SIZE: SMALL
