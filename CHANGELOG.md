@@ -1,3 +1,13 @@
+# v0.7.2
+
+- UPDATE SIZE: SMALL
+- Add Garlic - A Garlic Mod
+- Add Cabbage - A Cabbage Mod
+- Add Scallions of Skyrim
+- Update Draco's 3D Plants and Shrub Replacer
+- Remove "Clouds over" mods
+- Fix guard outfits not appearing for some guards
+
 # v0.7.1
 
 - UPDATE SIZE: MEDIUM
