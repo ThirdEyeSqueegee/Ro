@@ -1,3 +1,18 @@
+# v0.7.1
+
+- UPDATE SIZE: MEDIUM
+- Amogus (optional)
+- Add Better Windhelm Ground Meshes - Parallaxed
+- Add No More Dead Shrub
+- Update Cooking Categories Improvement
+- Update RMB SPIDified - Sons of Skyrim
+- Update Unaggressive Dragon Priests Fix
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Dead Shrub Be Gone
+- Remove Icy Windhelm
+- Remove Animated Small Nordic Tent Replacer
+
 # v0.7.0
 
 - UPDATE SIZE: LARGE
