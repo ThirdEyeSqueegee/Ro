@@ -1,3 +1,40 @@
+# v0.9.0
+
+- UPDATE SIZE: LARGE
+- Add Markarth Mossy Lite
+- Add Subdivide and Smooth - Unique Trees
+- Add SmoothCam - Octavian's Preset (optional)
+- Add Crash Log Tools for Mod Organizer
+- Add Better Third Person Selection (optional)
+- Add Dynamic Armor Variants
+- Add Dynamic Lowered Hoods
+- Add Dragon Claws Auto-Unlock (optional)
+- Add Reading Is Good
+- Add Lock Related Loot
+- Add Farmhouse Stonewalls 4K by CleverCharff - Complex Parallax
+- Add WiZkiD Signs
+- Add WiZkiD Specific Signs
+- Add Northfire's Windhelm
+- Add Northfire's Windhelm - Parallax
+- Add Higher Quality Shadowmarks
+- Add Serene Shores
+- Update DynDOLOD
+- Update DynDOLOD Resources
+- Update Helgen Express Spell and Archetype Expansion
+- Update Embers XD
+- Update Discord Rich Presence
+- Update Abyss
+- Update Bloodmoon
+- Update Natura
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Markarth Mossy AF
+- Remove Daedric Shrines AIO (replaced by Iconic Statues)
+- Remove Daedric Shrines AIO - Patches by Xtudo
+- Remove Pilgrim - Daedric Shrines AIO Patch
+- Reinstall Lux and Lux Orbis to fix missing/outdated patches
+- Misc. load order fixes
+
 # v0.8.2
 
 - UPDATE SIZE: MEDIUM
