@@ -1,3 +1,19 @@
+# v0.8.0
+
+- UPDATE SIZE: SMALL
+- Add First Person Combat Animations Overhaul - Dagger and Shield Fix
+- Add LeanWolf's Better-Shaped Talos Statue with Greatsword
+- Add ElSopa - Talos HD
+- Add OIL - My HD version
+- Remove Optional - Widescreen mods (the list has native widescreen support lol)
+- Remove Skyland Watercolor
+- Remove Forsworn Fashions
+- Remove RMB SPIDified - Forsworn Fashions
+- Remove Infinite Dragon Variants
+- Fix Huntsman Apothecary Patch load order
+- Fix GoT dragons appearing before killing Mirmulnir (thanks Delta!)
+- Fix dragon soul absorption script not triggering (also thanks Delta!)
+
 # v0.7.6
 
 - UPDATE SIZE: MEDIUM
