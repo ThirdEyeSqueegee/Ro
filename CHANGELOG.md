@@ -1,3 +1,11 @@
+# v0.8.2
+
+- UPDATE SIZE: MEDIUM
+- Add Iconic Statues
+- Fix Pilgrim/Daedric Shrines activator issue for Shrine of Mephala
+- Fix LeanWolf/ElSopa Talos order
+- Create Optional Mods separator
+
 # v0.8.1
 
 - UPDATE SIZE: SMALL
