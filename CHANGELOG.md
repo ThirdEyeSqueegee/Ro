@@ -1,3 +1,10 @@
+# v0.7.6
+
+- UPDATE SIZE: MEDIUM
+- Add Northfire's Dungeons
+- Add Northfire's Rustic Clever Underground Nordic Ruins
+- Update Recipe Auto-Learn
+
 # v0.7.5
 
 - UPDATE SIZE: SMALL
