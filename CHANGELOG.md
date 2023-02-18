@@ -1,3 +1,9 @@
+# v0.8.1
+
+- UPDATE SIZE: SMALL
+- Add back Environs mods (not sus)
+- Fix GDOS being overwritten
+
 # v0.8.0
 
 - UPDATE SIZE: SMALL
