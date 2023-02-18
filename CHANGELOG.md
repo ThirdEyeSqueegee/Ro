@@ -11,7 +11,7 @@
 - Remove RMB SPIDified - Forsworn Fashions
 - Remove Infinite Dragon Variants
 - Fix Huntsman Apothecary Patch load order
-- Fix GoT dragons appearing before killing Mirmulnir (thanks Delta!)
+- Fix GoT dragons appearing before killing Sahloknir (thanks Delta!)
 - Fix dragon soul absorption script not triggering (also thanks Delta!)
 
 # v0.7.6

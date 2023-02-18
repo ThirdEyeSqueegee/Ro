@@ -90,7 +90,7 @@ Audio:
 Dialogue:
 
 - Guard Dialogue Overhaul
-- Forsworn, Thalmor, Bandit, Carriage etc. dialogue expansions
+- Vampire, Forsworn, Thalmor, Bandit, Carriage etc. dialogue expansions
 - Serana Dialogue Edit (yes, Edit, not Add-On)
 
 World Map:
