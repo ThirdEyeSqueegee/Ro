@@ -1,3 +1,15 @@
+# v0.9.1
+
+- UPDATE SIZE: SMALL
+- Add MMM Watcha SAYYY - Death Sound Replacer (Optional - Comedy)
+- Add Spiffed Up Tundra Scrubs
+- Add Centered Blue Palace Throne
+- Add Thrones of Skyrim
+- Add Thrones of Skyrim - Myrwatch Compatibility Patch
+- Add New Windhelm Throne
+- Update Alchemy Recipe Expansion
+- Fix Iconic Statues overwriting ElSopa Talos
+
 # v0.9.0
 
 - UPDATE SIZE: LARGE
