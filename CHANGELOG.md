@@ -1,3 +1,8 @@
+# v1.0.0-RC3
+
+- UPDATE SIZE: SMALL
+- Disable Survival Mode by default (sorry!)
+
 # v1.0.0-RC2
 
 - UPDATE SIZE: SMALL
