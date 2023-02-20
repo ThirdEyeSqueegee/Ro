@@ -1,3 +1,13 @@
+# v1.0.0-RC5
+
+- UPDATE SIZE: SMALL
+- Add ECPLW -ENB Complex Particle Lights for Windows-
+- Add Steel Armors and Weapons Retexture
+- Add Delta's Repository mods
+- Update Talking Trains Speechcraft
+- Remove Native EditorID Fix (CTD!)
+- Tweak Alternate Conversation Camera (thanks Foamimi!)
+
 # v1.0.0-RC4
 
 - UPDATE SIZE: LARGE
