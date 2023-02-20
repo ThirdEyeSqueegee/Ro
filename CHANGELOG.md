@@ -1,5 +1,13 @@
+# v1.0.0-RC2
+
+- UPDATE SIZE: SMALL
+- Update Cooking Categories Improvement
+- Update Parallax Bridges and Roads
+- Remove patch with missing master
+
 # v1.0.0-RC1
 
+- UPDATE SIZE: LARGE
 - Add ProjectedDiffuse Patches
 - Add Majestic Mountains Darkside
 - Add Skyrim - A Mountainous Experience
