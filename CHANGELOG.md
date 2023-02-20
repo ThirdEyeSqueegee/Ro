@@ -1,3 +1,9 @@
+# v1.0.0-RC6
+
+- UPDATE SIZE: SMALL
+- Update Huntsman - A Hunting Expansion
+- Remove old Delta's repository mod
+
 # v1.0.0-RC5
 
 - UPDATE SIZE: SMALL
