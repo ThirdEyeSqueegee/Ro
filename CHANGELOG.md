@@ -1,3 +1,69 @@
+# v1.0.0-RC1
+
+- Add ProjectedDiffuse Patches
+- Add Majestic Mountains Darkside
+- Add Skyrim - A Mountainous Experience
+- Add Majestic Mountains Double-Sided Patch
+- Add Majestic Mountains - Simplicity of Snow Patch
+- Add Deadly Spell Impacts
+- Add Parallax Spell Impacts
+- Add Tempered Skins for Males - Vanilla
+- Add Tempered Skins for Females - Vanilla
+- Add Tempered Racial Textures
+- Add Dragon Priest Retexture
+- Add Skaal Kid Coat
+- Add Frankly HD Nightingale Armor and Weapons
+- Add Frankly HD Dawnguard Armor and Weapons
+- Add Frankly HD Miraak
+- Add Frankly HD Masque of Clavicus Vile
+- Add Frankly HD Imperial Armor and Weapons
+- Add Frankly HD Stormcloak and City Guards
+- Add Frankly HD Thieves Guild Armors
+- Add Frankly HD Shrouded Armor
+- Add Praedy's Soul Cairn
+- Add Praedy's College of Winterhold
+- Add Praedy's Fort Dawnguard
+- Add Praedy's Castle Volkihar
+- Add Daedric Shrines - All in One
+- Add Daedric Shrines - All in One - My Patches by Xtudo
+- Add Pilgrim - Daedric Shrines AIO Tweaks
+- Add Stendarr Rising
+- Add Beards of Power
+- Add Gordon Ramsay Unrelenting Force Shout (Optional - Comedy)
+- Add Parallax Bridges
+- Add Practical Female Armors
+- Add Moon Monk's Robes
+- Add Lunar Guard Armor
+- Add Improved Alternate Conversation Camera (optional)
+- Add Spaghetti's Towns - Riverwood
+- Add Locational Encounter Zones
+- Add Native EditorID Fix
+- Add Rally's Solstheim AIO
+- Add Rally's Solstheim - Parallax
+- Add Skyrim Skill Uncapper for SE and AE
+- Add Dagoth Ur Throw Voice Replacer (Optional - Comedy)
+- Add Artifacts - The Ice Blade of the Monarch
+- Add Stones of Solitude
+- Add Better Blended Mushrooms
+- Add Talking Trains Speechcraft
+- Update Recipe Auto-Learn
+- Update Survival Mode Improved - SKSE
+- Update Abyss
+- Update Bloodmoon
+- Update Lunaris
+- Update Modular Armory
+- Update DynDOLOD
+- Update Synthesis
+- Update Facegen Output
+- Update Terrain LOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Nordic Mountains Parallaxed
+- Remove No Sunlight Through Mountains
+- Remove Rally's Solstheim Landscapes
+- Tweak Dynamic Lowered Hoods json
+- Fix SmoothCam presets/Contextual Crosshair compatibility
+
 # v0.9.1
 
 - UPDATE SIZE: SMALL
