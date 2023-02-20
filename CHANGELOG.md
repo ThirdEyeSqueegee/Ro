@@ -1,3 +1,25 @@
+# v1.0.0-RC4
+
+- UPDATE SIZE: LARGE
+- Add Simple Snow Improvements - Snow Forts
+- Add Simple Snow Improvements - Skyrim
+- Add Simple Snow Improvements - Giant Obelisks
+- Add WeldingMans Enchanting Table Variants
+- Add WeldingMans Smelter
+- Add WiZkiD Hagraven Clutter and Bones
+- Add Moon Monk Robes - Dareni Spells integration patch (thanks Dax88!)
+- Update Locational Encounter Zones
+- Update Unofficial eFPS patches
+- Update Dwemer Armor SE - My patches and fixes
+- Update Majestic Mountains - Simplicity of Snow Patch
+- Update Alchemy Recipe Expansion
+- Update Aetherius - A Race Overhaul
+- Update Huntsman - A Hunting Expansion
+- Update Native EditorID Fix
+- Update TexGen Output
+- Update DynDOLOD Output
+- Tweak Completionist profile
+
 # v1.0.0-RC3
 
 - UPDATE SIZE: SMALL
