@@ -1,3 +1,15 @@
+# v1.0.1
+
+- UPDATE SIZE: LARGE
+- Add Equus - Horses Sounds Redesigned - Riley's Edit
+- Add Rudy HQ - Standing Stones
+- Update Taarengrav Barrow
+- Update Parallax Spell Impacts
+- Update Skyland AIO
+- Remove Ro - IED Preset (see first-time setup guide)
+- Fix Survival Mode Improved overwriting Untarnished UI
+- Fix MCM Helper load order
+
 # v1.0.0
 
 - Official 1.0.0 release!
