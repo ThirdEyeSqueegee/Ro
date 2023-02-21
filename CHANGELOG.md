@@ -1,3 +1,24 @@
+# v1.0.0
+
+- Official 1.0.0 release!
+- Special thanks to GuitarNinja, Foamimi, Aosana, Dax88, homies from SimonRim Discord, and all beta testers!
+- UPDATE SIZE: SMALL
+- Add Pi-Cho ENB - Foamimi's Preset (optional)
+- Add Rally's Bees And More
+- Add Rally's Torchbugs (High Poly)
+- Add Hanging moss by Mari
+- Add TAA Flicker Fixer
+- Add Miscellaneous Load Screen Text Fixes
+- Add House Cats - Mihail Monsters and Animals
+- Add Fluffy House Cats
+- Add Ro - RAE Quest Requirements Preset
+- Update Huntsman - A Hunting Expansion
+- Update Steel Armors and Weapons Retexture
+- Update Dirt - HD Texture Replacer with Parallax
+- Tweak Discord Rich Presence config
+- Tweak Improved Alternate Conversation Camera config
+- Tweak Untarnished UI config
+
 # v1.0.0-RC6
 
 - UPDATE SIZE: SMALL

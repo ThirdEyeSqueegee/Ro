@@ -2,7 +2,8 @@
 
 ## Do this BEFORE you launch the game
 
-- The default key to summon your horse is H. If you would like to change the binding to a different key or a controller button, navigate to `H2Horse.ini` in the `[NoDelete] Press H to Horse - Custom Keybind` mod to change the keybind. Note that the keybind **cannot** be changed once you have started a save.
+- The default key to summon your horse is H. If you'd like to change the binding to a different key or a controller button, navigate to `H2Horse.ini` in the `[NoDelete] Press H to Horse - Custom Keybind` mod to change the keybind. Note that the keybind **cannot** be changed once you have started a save.
+- There is an optional ENB preset provided under Optional Mods. If you'd like to use this, _first_ disable `Rudy ENB Obsidian Weathers Required Files` and `Rudy ENB for Obsidian Weathers`.
 - There are several optional mods under the Comedy separator. If you'd like to use them:
   1. In the right pane of ModOrganizer, click on the "plugins" tab and scroll all the way to the bottom. You should see `Occlusion.esp` at the end of this list.
   2. In the left pane of ModOrganizer, enable the optional mods you'd like to use.
