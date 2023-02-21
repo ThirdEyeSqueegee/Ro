@@ -1,3 +1,19 @@
+# v1.0.3
+
+- UPDATE SIZE: LARGE
+- Add JS Knapsacks
+- Add Fashions of the Fourth Era - Fewer Hats patch (thanks Foamimi!)
+- Add TAA Flicker Fixer MCM preset
+- Remove Ro - RAE Quest Requirements Preset (merged into MCM Presets mod)
+- Update DynDOLOD
+- Update TexGen Output
+- Update DynDOLOD Output
+
+# v1.0.2
+
+- UPDATE SIZE: SMALL
+- Add Merchant - A Trading Expansion
+
 # v1.0.1
 
 - UPDATE SIZE: LARGE
