@@ -6,7 +6,7 @@
 
 ## Simple, Stable, Sensible, Sexy
 
-### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408)
+### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408) | [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist)
 
 </div>
 <br>
@@ -20,7 +20,7 @@ Do you hate your PC? Do you want to see your CPU melt? Do you want to _truly_ be
 
 Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, **full widescreen/ultrawide support**, tons of beautiful new complex parallax textures, and Rudy's ENB for Obsidian Weathers.
 
-Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-balanced-modlist-beta) if you'd like a closer look. Join the [Discord server](https://discord.gg/WF66mMu) for questions, bug reports, mod suggestions, or just to come hang out!
+Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist) if you'd like a closer look. Join the [Discord server](https://discord.gg/WF66mMu) for questions, bug reports, mod suggestions, or just to come hang out!
 
 Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds used in this modlist.
 
