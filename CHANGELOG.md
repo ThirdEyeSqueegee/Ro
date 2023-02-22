@@ -1,3 +1,21 @@
+# v1.0.5
+
+- UPDATE SIZE: SMALL
+- Add Save Unbaker
+- Add Player Spell (and Weapon) Lighting
+- Add Rally's Bugs in Jars
+- Update Rally's Bees and More
+- Update ECPLW -ENB Complex Particle Lights for Windows-
+- Update Simple Snow Improvements - Snow Forts (BOS)
+- Update Simple Snow Improvements - Skyrim (BOS)
+- Update JS Knapsacks
+
+# v1.0.4
+
+- UPDATE SIZE: SMALL
+- Fix water reflections
+- Tweak INI settings
+
 # v1.0.3
 
 - UPDATE SIZE: LARGE
