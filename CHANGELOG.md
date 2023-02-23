@@ -1,3 +1,9 @@
+# v1.0.8
+
+- UPDATE SIZE: SMALL
+- Update Save Unbaker
+- Update Papyrus Tweaks NG
+
 # v1.0.7
 
 - UPDATE SIZE: MEDIUM
