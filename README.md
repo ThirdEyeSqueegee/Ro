@@ -58,6 +58,7 @@ Locations:
 Gameplay, Physics, and Animations:
 
 - SimonRim (+ complimentary mods)
+- Dareni's Spells (Abyss, Lunaris, Natura, Bloodmoon, Flames of Coldharbour)
 - Precision
 - EVG Conditional Idles + Animation Variance
 - Goetia, Vanargand, and Leviathan Animations

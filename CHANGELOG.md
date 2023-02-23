@@ -1,3 +1,20 @@
+# v1.0.7
+
+- UPDATE SIZE: MEDIUM
+- Add Versatile Item and Group Re-Assignment
+- Update Daedric Armors and Weapons Retexture
+- Update Ebony Armors and Weapons Retexture
+- Update Dragon Armors and Weapons Retexture
+
+# v1.0.6
+
+- UPDATE SIZE: SMALL
+- Add Flames of Coldharbour
+- Update Katana Crafting
+- Update Save Unbaker
+- Remove Coherent Inn Prices
+- Remove Lord's Mail - Reduced Cut (currently being remade)
+
 # v1.0.5
 
 - UPDATE SIZE: SMALL
