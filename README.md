@@ -26,8 +26,9 @@ Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/li
 
 ### Technical notes:
 
-- Installation size: ~100 GB
+- Installation size: ~150 GB
 - PC requirements: Probably something that was built within the last four years using parts that were released within the last four years.
+- My specs for reference: Ryzen 5950X + RX 6900 XT + 32 GB 3600CL16 RAM
 
 ### Highlights: <br>
 

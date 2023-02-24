@@ -1,3 +1,24 @@
+# v1.0.11
+
+- UPDATE SIZE: HOTFIX
+- Update ENBSeries to v0.488
+
+# 1.0.10
+
+- UPDATE SIZE: SMALL
+- Update Recipe Auto-Learn
+- Update Rally's Bees And More (High Poly)
+- Update Ryn's Dragon Mounds Collection
+- Update Bloodmoon
+- Update Abyss
+- Update Lunaris
+- Update Natura
+- Update Survival Mode Improved
+- Update Tamrielic Distribution
+- Update Skyland Happy Little Trees Bark
+- Update Versatile Item and Group Re-Assignment
+- Enable ENB Night Eye fix by default
+
 # v1.0.9
 
 - UPDATE SIZE: LARGE
