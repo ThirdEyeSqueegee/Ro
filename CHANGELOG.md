@@ -1,3 +1,23 @@
+# v1.0.9
+
+- UPDATE SIZE: LARGE
+- Add Ryn's Dragon Mounds Collection
+- Add Skyrim Landscape and Water Fixes
+- Add Caveworm Plant Retexture
+- Add Simpler Dragon Targeting - True Directional Movement
+- Add Curated Bosses for TrueHUD
+- Update QuickLoot EE
+- Update Katana Crafting
+- Update Simple Snow Improvements - Snow Forts
+- Update Simple Snow Improvements - Giant Obelisks
+- Update Simple Snow Improvements - Skyrim
+- Update QuickLoot EE - Settings Loader
+- Update WeldingMans Enchanting Table Variants with ENB Light
+- Update DynDOLOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Tweak BethINI config
+
 # v1.0.8
 
 - UPDATE SIZE: SMALL
