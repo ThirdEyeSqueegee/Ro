@@ -1,3 +1,17 @@
+# v1.0.15
+
+- UPDATE SIZE: SMALL
+- Add Resurgence Armory - Stalhrim Weapons and Armor Overhaul
+- Add Skyrim Character Sheet
+- Add Icons for Skyrim Character Sheet
+- Update Riften Gate Restored
+- Update Flames of Coldharbour
+- Update Embers XD
+- Update JS Rumpled Rugs
+- Update Cathedral - 3D Dragon's Tongue
+- Update Unofficial eFPS patches
+- Update Survival Mode Improved - SKSE
+
 # v1.0.14
 
 - UPDATE SIZE: SMALL
