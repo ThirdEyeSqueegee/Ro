@@ -1,3 +1,15 @@
+# v1.0.14
+
+- UPDATE SIZE: SMALL
+- Add Skip Bleak Falls Barrow (optional)
+- Add ElSopa - Colored SkyUI Active Effect Icons
+- Add tanningrack001
+- Add Realistic Water Two SE - Legacy Settings Loader
+- Add moreHUD SE - Legacy Settings Loader
+- Add Ro - Realistic Water Two Preset
+- Add Ro - moreHUD Preset
+- Move SmoothCam - Octavian's Preset out of Optional separator
+
 # v1.0.13
 
 - UPDATE SIZE: SMALL
