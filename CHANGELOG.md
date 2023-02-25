@@ -1,3 +1,17 @@
+# v1.0.12
+
+- UPDATE SIZE: SMALL
+- Add SB - Lightweight Economy Overhaul
+- Add C.O.I.N. - Coins of Interesting Natures
+- Add Delayed Quest Starts
+- Add Soaking Wet - Character Wetness Effect
+- Add Classic Paralysis
+- Add Flame Atronach SE
+- Add Flame Atronach SE - My optimized textures
+- Remove Player Spell Lighting
+- Fix Survival Mode Improved overwriting Untarnished UI (again)
+- Misc. patch stuff (thanks Dax88!)
+
 # v1.0.11
 
 - UPDATE SIZE: HOTFIX
