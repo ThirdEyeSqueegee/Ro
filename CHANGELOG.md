@@ -1,3 +1,11 @@
+# v1.0.13
+
+- UPDATE SIZE: SMALL
+- Add Cathedral - 3D Dragon's Tongue
+- Add Oxygen Meter 2
+- Add Master Chef - The Art of Tamrielic Cooking
+- Tweak ENB config
+
 # v1.0.12
 
 - UPDATE SIZE: SMALL
