@@ -1,3 +1,75 @@
+# v1.1.0
+
+- UPDATE SIZE: LARGE
+- Add Bethesda Archive Extractor
+- Add Cathedral - 3D Dragons Tongue with ENB Light and Glow Map
+- Add Cave Roots 4K
+- Add Deadly Nightshades - A Cathedral 3D Nightshade Recolor Set
+- Add Diverse Cathedral Dragons Tongue
+- Add Diverse Cathedral Nightshade
+- Add Gore
+- Add Happy Little Trees - Alternate Cut Stumps
+- Add HQ Fort Dawnguard 4k-2k
+- Add HQ Imperial Forts 4k-2k
+- Add Inventory Interface Information Injector
+- Add Lord's Mail - Reduced Cut
+- Add NPCs Wear Amulets of Mara
+- Add Paradigm - A Quick Start Overhaul
+- Add Rally's Lava
+- Add Ryn's Karthspire
+- Add Sanguine - Enhanced Blood Retexture
+- Add Security Overhaul SKSE - Some More Locks
+- Add Silent Horizons ENB - Foamimi's Preset (optional)
+- Add Simple Scroll Transcribing
+- Add Simple Wearable Lanterns - Toggle Hotkey
+- Add Skyrim Scenery - Main Menu Replacers
+- Add Spaghetti's Towns - Rorikstead
+- Add The Eyes of Beauty - AI Remastered
+- Add The Eyes of Beauty - Vampire Eyes Remastered
+- Add Vestige - An Artifact Overhaul
+- Add Weapons of the Cloud - Every NPC You Hit Turns Into Nazeem (Optional - Comedy)
+- Add Whiterun Forest Borealis
+- Update Arms of Chaos - Reduced Cut
+- Update Bash Bug Fix
+- Update C.O.I.N. - Coins of Interesting Natures
+- Update Canis Hysteria - The Werewolf Disease
+- Update Cathedral - 3D Dragons Tongue with Glow Map and ENB Light
+- Update Caveworm Plant Retexture
+- Update DynDOLOD
+- Update DynDOLOD Output
+- Update Environs - Kolskeggr
+- Update Environs - The Ruined Tundra Farmhouse
+- Update Environs - Whiterun Watchtower Doesn't Stay Broken
+- Update Facegen Output
+- Update FYX - Jorrvaskr
+- Update Gladys the Corgi - A Custom Dog Follower Mod
+- Update Headhunter - Bounties Redone
+- Update Mace of Aevar Stone-Singer
+- Update Master Chef - The Art of Tamrielic Cooking
+- Update Modular Armory
+- Update Natura
+- Update Press H to Horse - Creation Club Horses Reworked
+- Update QuickLoot EE
+- Update Resurgence Armory - Stalhrim Weapons and Armor Overhaul
+- Update Ryn's Dragon Mounds Collection
+- Update Save Unbaker
+- Update Sforzinda Imitations Stripped Down
+- Update Simple Snow Improvements - Skyrim
+- Update Simple Snow Improvements - Skyrim
+- Update Skyrim Extended Cut - Saints and Seducers
+- Update Skyrim Landscape and Water Fixes
+- Update Spell Perk Item Distributor (SPID)
+- Update Terrain LOD
+- Update TexGen Output
+- Update Unmarked Locations Pack
+- Remove Antiquary - Enhanced Artifacts
+- Remove BnP Eye Overhaul
+- Remove Helgen Express
+- Remove Helgen Express Spell and Archetype Expansion
+- Remove KS Hairdos Lite
+- Remove moreHUD SE - Legacy Settings Loader
+- Remove Pi-Cho - Foamimi's Preset
+
 # v1.0.15
 
 - UPDATE SIZE: SMALL
