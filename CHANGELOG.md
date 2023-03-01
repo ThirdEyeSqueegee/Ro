@@ -1,3 +1,18 @@
+# v1.1.6
+
+- UPDATE SIZE: SMALL
+- Add Dwemer Pipework Reworked
+- Add Golden Dwemer Pipeworks - Patches
+- Add Golden Dwemer Pipeworks Redone 4K - 2K
+- Add Praedy's Staves AIO Patch Hub
+- Add Real Dwemer Pipes
+- Update Embers XD
+- Update Gore
+- Update Katana Crafting
+- Update Rally's Display Cases
+- Update Sons of Skyrim - My patches and fixes
+- Fix Praedy's Staves double staff bug
+
 # v1.1.5
 
 - UPDATE SIZE: SMALL

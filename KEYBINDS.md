@@ -1,6 +1,7 @@
 # Default Keybinds
 
 - `H`: Summon horse
+- `X`: Toggle compass
 - `F3`: Where Are You? menu
 - `F5`: Quicksave
 - `F7`: ENB FPS counter

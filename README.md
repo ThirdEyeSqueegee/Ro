@@ -24,6 +24,8 @@ Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/li
 
 **Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds, and [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/BETHINI.md) for the default BethINI configuration used in this modlist.**
 
+**NEW: Foamimi whipped up an amazing NPC overhaul addon for Ro, check it out at https://github.com/Foamimi/Ro-Extended---NPC-Overhaul-Addon/blob/main/README.md!**
+
 ### Technical notes:
 
 - Installation size: ~150 GB
