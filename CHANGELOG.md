@@ -1,3 +1,12 @@
+# v1.1.4
+
+- UPDATE SIZE: SMALL
+- Update C.O.I.N. - Coins of Interesting Natures
+- Update Gore
+- Update Master Chef - The Art of Tamrielic Cooking
+- Update Paradigm - A Quick Start Overhaul
+- Remove Fashions of the Fourth Era (leveled list hell)
+
 # v1.1.3
 
 - UPDATE SIZE: SMALL
