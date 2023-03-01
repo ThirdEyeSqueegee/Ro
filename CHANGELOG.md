@@ -1,3 +1,9 @@
+# v1.1.7
+
+- UPDATE SIZE: HOTFIX
+- Update ENBSeries
+- Enable Lucien and Inigo patches (forgot to reenable after facegen)
+
 # v1.1.6
 
 - UPDATE SIZE: SMALL
