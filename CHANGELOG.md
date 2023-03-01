@@ -1,3 +1,20 @@
+# v1.1.2
+
+- UPDATE SIZE: SMALL
+- Add Sons of Skyrim - My patches and fixes
+- Add Stretched Snow Begone Definitive Edition
+- Add Better Windhelm Ground Meshes - Icy Windhelm
+- Update Mysticism - A Magic Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update CC Staves - Mysticism Consistency Patch
+- Update DynDOLOD.esp (binary patch go brrr)
+- Remove ElSopa - Colored SkyUI Active Effect Icons
+
+# v1.1.1
+
+- UPDATE SIZE: HOTFIX
+- Fix Wabbajack installation error for Environs - Kolskeggr
+
 # v1.1.0
 
 - UPDATE SIZE: LARGE
