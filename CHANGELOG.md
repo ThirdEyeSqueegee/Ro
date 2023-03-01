@@ -1,3 +1,17 @@
+# v1.1.5
+
+- UPDATE SIZE: SMALL
+- Add KS Hairdos Lite NoNPCs
+- Add Night Mother
+- Add Ro - Vanilla Controller Bindings (optional)
+- Add SB - Pressure Plate Trap Fix
+- Update Cooking Categories Improvement
+- Update Embers XD
+- Update Environs - The Shrines of Talos
+- Update Facegen output
+- Update Sons of Skyrim - My patches and fixes
+- Fix Silent Horizons ENB not appearing
+
 # v1.1.4
 
 - UPDATE SIZE: SMALL
