@@ -1,3 +1,10 @@
+# v1.1.3
+
+- UPDATE SIZE: SMALL
+- Add Menu and Load Smoke Removed for ENB
+- Add No Disarm (Unequip Instead)
+- Fix Paradigm custom start bug
+
 # v1.1.2
 
 - UPDATE SIZE: SMALL
