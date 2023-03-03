@@ -1,3 +1,35 @@
+# v1.1.10
+
+- UPDATE SIZE: SMALL
+- Add Origins Of Forest - 3D Forest Grass Reduced
+- Add Imperial Armors and Weapons Retexture
+- Update Diverse Cathedral Dragons Tongue
+- Update Sons of Skyrim - My patches and fixes
+- Update NPC Animation Remix
+- Update Modular Armory
+- Update Environs - Whiterun Watchtower Doesn't Stay Broken
+- Update C.O.I.N. - Coins of Interesting Natures
+- Tweak ENB config
+
+# v1.1.9
+
+- UPDATE SIZE: HOTFIX
+- Remove patch with missing master
+
+# v1.1.8
+
+- UPDATE INSTRUCTIONS: BEFORE UPDATING, GO TO AN INTERIOR LOCATION (HOUSE, INN, ETC.) IN-GAME AND SAVE.
+- UPDATE SIZE: LARGE
+- Add Water for ENB
+- Update DynDOLOD Output
+- Update FYX - Water Splash
+- Update Gore
+- Update Inventory Interface Information Injector
+- Update Saints and Seducers - Mysticism Rebalance
+- Update TexGen Output
+- Remove Realistic Water Two
+- Fix missing COIN textures
+
 # v1.1.7
 
 - UPDATE SIZE: HOTFIX
