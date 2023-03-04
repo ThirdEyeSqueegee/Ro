@@ -1,3 +1,8 @@
+# v1.1.13
+
+- UPDATE SIZE: HOTFIX
+- Add Headhunter - Bounty Preview Patch
+
 # v1.1.12
 
 - UPDATE SIZE: SMALL
