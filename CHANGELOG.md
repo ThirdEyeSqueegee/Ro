@@ -1,3 +1,35 @@
+# v1.1.12
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Towns - Dragon Bridge
+- Add Pi-Cho ENB - Foamimi's Preset
+- Add Skyrim Scenery - Main Menu Replacers (21x9) (optional)
+- Add Necrom
+- Add Immersive Spell Learning - DESTified (optional)
+- Add slightly Better Small Antlers
+- Add Heimskr only preaches on weekends
+- Add Vampire Feeding Tweaks Menu Addon
+- Add JS Circlet Replacer
+- Add JS Circlet Replacer - USSEP Patch
+- Add Dark Brotherhood Armor SE
+- Add 4thUnknown - Ancient Shrouded Armor Replacer
+- Add Dawnguard - Hall of Vigilant Requirement
+- Add Bounty Preview
+- Add Tavern AI fix
+- Update Skyrim Scenery - Main Menu Replacers
+- Update ERM - Enhanced Rocks and Mountains
+- Update Skyrim Landscape and Water Fixes
+- Update Flames of Coldharbour
+- Update Bloodmoon
+- Update Abyss
+- Update Lunaris
+- Update Natura
+- Update Lunar Guard Armor
+- Update Saints and Seducers - Mysticism Rebalance
+- Remove Silent Horizons ENB - Foamimi's Preset
+- Remove Gemling Queen Jewelry Circlet USSEP Fixes
+- Tweak ENB config
+
 # v1.1.11
 
 - UPDATE SIZE: SMALL
