@@ -1,5 +1,7 @@
 # Default BethINI configuration
 
+**NOTE:** This is _not_ a "recommended" configuration. Rather, it is just the default BethINI preset already included in the modlist, provided here for reference.
+
 ## Setup
 
 ![setup](assets/bethini/1.%20setup.png)

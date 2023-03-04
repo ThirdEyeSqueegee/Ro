@@ -1,3 +1,15 @@
+# v1.1.11
+
+- UPDATE SIZE: SMALL
+- Downgrade ENBSeries
+- Add ERM - Enhanced Rocks and Mountains
+- Update Gore
+- Update Saints and Seducers - Mysticism Rebalance
+- Update Forceful Tongue - Shouts Overhaul
+- Update Vestige - An Artifact Overhaul
+- Update Embers XD
+- Update Water for ENB
+
 # v1.1.10
 
 - UPDATE SIZE: SMALL
