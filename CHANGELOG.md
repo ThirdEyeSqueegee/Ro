@@ -1,3 +1,10 @@
+# v1.1.14
+
+- UPDATE SIZE: HOTFIX
+- Add Combat Music Fix SKSE
+- Add dTry Plugin Updates
+- Fix Animated Forge Water being overwritten
+
 # v1.1.13
 
 - UPDATE SIZE: HOTFIX
