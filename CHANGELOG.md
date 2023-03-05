@@ -1,3 +1,12 @@
+# v1.1.16
+
+- UPDATE SIZE: SMALL
+- Add Falmer Overhaul - New models and textures
+- Add Loki's Wade In Water
+- Add Wade In Water Redone
+- Add Enhanced Death Cam
+- Update Gore
+
 # v1.1.15
 
 - UPDATE SIZE: SMALL
