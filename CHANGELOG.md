@@ -1,3 +1,32 @@
+# v1.1.18
+
+- UPDATE SIZE: SMALL
+- Add AE Flame Atronachs give Warmth
+- Add Beyond Skyrim - Wares of Tamriel
+- Add Wares of Tamriel - Rare Curios
+- Add Lunar Guard Armor - Wares of Tamriel Integration
+- Add Wares of Tamriel Integration Expansion
+- Add Untarnished UI - Xbox Button Prompts (Optional)
+- Update Resurgence Armory - Stalhrim Weapons and Armor Overhaul
+- Update Vestige - An Artifact Overhaul
+
+# v1.1.17
+
+- UPDATE SIZE: MEDIUM
+- Add Cathedral - 3D Thicket and Dead Shrub
+- Update Merchant - A Trading Expansion
+- Update Untarnished UI
+- Update Lux Via
+- Update Lux Orbis
+- Update Lux
+- Update JS Knapsacks
+- Update Modular Armory
+- Update Necrom
+- Update Bloodmoon
+- Update Abyss
+- Update Gore
+- Remove No More Dead Shrub
+
 # v1.1.16
 
 - UPDATE SIZE: SMALL
