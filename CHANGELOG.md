@@ -1,3 +1,9 @@
+# v1.1.15
+
+- UPDATE SIZE: SMALL
+- Update Gore
+- Fix rocks appearing too shiny
+
 # v1.1.14
 
 - UPDATE SIZE: HOTFIX
