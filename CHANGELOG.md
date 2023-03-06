@@ -1,3 +1,8 @@
+# v1.1.24
+
+- UPDATE SIZE: HOTFIX
+- Remove ENB Light Inventory Fix
+
 # v1.1.23
 
 - UPDATE SIZE: MEDIUM
