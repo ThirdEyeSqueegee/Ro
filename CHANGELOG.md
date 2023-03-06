@@ -1,4 +1,12 @@
-# 1.1.20
+# v1.1.21
+
+- UPDATE SIZE: SMALL
+- Add Sconce - Replacer
+- Add Rudy's HQ Nordic Ruins Pots Addon
+- Update Gore
+- Fix Paradigm customize menu bug
+
+# v1.1.20
 
 - UPDATE SIZE: HOTFIX
 - Add moreHUD SE - Legacy Settings Loader
