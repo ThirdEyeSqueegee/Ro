@@ -1,3 +1,15 @@
+# v1.1.19
+
+- UPDATE SIZE: SMALL
+- Add Nordic Runestones
+- Add Nordic Runestones - Upscaled Textures
+- Add Housecarls - Sons of Skyrim (SPID)
+- Add Silver Armor SE
+- Add Silver Armor - My version SE
+- Add Artifacts - The Breton Paladin
+- Add HotD Dragons - Meleys as Odahviing
+- Add HotD Dragons - Caraxes
+
 # v1.1.18
 
 - UPDATE SIZE: SMALL
