@@ -1,3 +1,30 @@
+# v1.1.23
+
+- UPDATE SIZE: MEDIUM
+- Add DERP Reduced Cut (beta)
+- Add Daedric Entity Restoration Project - D.E.R.P.
+- Add HQ Vanilla Snow Elf Ruins Retexture
+- Add Simple Functional Apiary - A bee mod
+- Add Higher Poly Vanilla Cave Lamps
+- Add Soul Cairn Script Tweaks
+- Add Inquisition
+- Add Bandit Spellswords - An Unofficial Simonrim Enemy Mod
+- Add Dremora Spellswords - An Unofficial Mysticism Addon
+- Add Bandit Brawlers
+- Add Bandit Brawlers - Fearsome Fists Integration
+- Add Bandit Brawlers - Hand to Hand Integration
+- Add Redguard Elite Reintegration
+- Add Forsworn Gravesingers
+- Add Forsworn Skinchangers
+- Add Civil War Deserters
+- Add Mythic Dawn armor SE
+- Add Mythic Dawn Armor SE - My patches and fixes
+- Update Real Dwemer Pipes
+- Update Modular Armory
+- Update Lux
+- Update Facegen Output
+- Remove Modular Armory - Female Savior's Hide Crash Fix
+
 # v1.1.22
 
 - UPDATE SIZE: SMALL
