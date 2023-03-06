@@ -1,3 +1,10 @@
+# 1.1.20
+
+- UPDATE SIZE: HOTFIX
+- Add moreHUD SE - Legacy Settings Loader
+- Fix SpiderWIP being overwritten
+- Tweak ENB config
+
 # v1.1.19
 
 - UPDATE SIZE: SMALL
