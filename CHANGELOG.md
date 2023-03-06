@@ -1,3 +1,14 @@
+# v1.1.22
+
+- UPDATE SIZE: SMALL
+- Add Phoenix Compendium - Patches and Addons
+- Add Whiterun Bench - Replacer
+- Update Gore
+- Update Paradigm - A Quick Start Overhaul
+- Update Missile's Apothecary Patches
+- Remove Housecarls - Sons of Skyrim (SPID)
+- Reinstall Phoenix Compendium
+
 # v1.1.21
 
 - UPDATE SIZE: SMALL
