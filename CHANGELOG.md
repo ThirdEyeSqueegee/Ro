@@ -1,3 +1,24 @@
+# v1.1.28
+
+- UPDATE SIZE: SMALL
+- Add Armors of the Velothi Pt. I - My version SE
+- Move Dynamic Lowered Hoods to Optional Mods (causes strange bugs)
+
+# v1.1.27
+
+- UPDATE SIZE: SMALL
+- Add C.O.I.N. - Adamant and Hand to Hand Patches
+- Add Simple Block Sparks NG
+- Add Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul Redux for Good Guys Mod
+- Add FYX - Eastern Empire Company Building
+- Add Akaviri Dragonguard Armor
+- Add Ancient Nord Armo(u)ry EXTREME
+- Add Ancient Nord Armo(u)ry Lite
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update Lux
+- Update Modular Armory
+- Update Facegen Output
+
 # v1.1.26
 
 - UPDATE SIZE: HOTFIX
