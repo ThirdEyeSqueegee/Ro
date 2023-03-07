@@ -1,3 +1,12 @@
+# v1.1.25
+
+- UPDATE SIZE: SMALL
+- Add Dynamic Animal Variants (SPID)
+- Add Precision MCM preset (thanks Shakes!)
+- Fix DERP reduced cut load order
+- Fix shield on back bug (also thanks Shakes!)
+- Tweak Discord Rich Presence config
+
 # v1.1.24
 
 - UPDATE SIZE: HOTFIX
