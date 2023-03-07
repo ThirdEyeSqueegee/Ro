@@ -1,3 +1,8 @@
+# v1.1.26
+
+- UPDATE SIZE: HOTFIX
+- Fix Discord Rich Presence config
+
 # v1.1.25
 
 - UPDATE SIZE: SMALL
