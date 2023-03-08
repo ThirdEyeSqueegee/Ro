@@ -1,3 +1,18 @@
+# v1.1.32
+
+- UPDATE SIZE: SMALL
+- Add Khajiit Will Follow
+- Add eeekie's Khajiit Will Follow Replacer
+- Add Khajiit Will Follow - Unique Perks for KWF Followers
+- Add Snazzy Items for Khajiit Will Follow
+- Add Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Add Xelzaz - Apothecary Patch
+- Add Remiel - Custom Voiced Dwemer Specialist and Companion
+- Add The Practical Dwemechanic - A Remiel Replacer
+- Update Soul Cairn Script Tweaks
+- Update Occlusion.esp
+- Fix potions appearing too small in inventory preview
+
 # v1.1.31
 
 - UPDATE SIZE: SMALL

@@ -72,7 +72,10 @@ Followers:
 - Lucien
 - Gore
 - Gladys the Corgi
+- Khajiit Will Follow
 - Merlin the Corgi
+- Remiel
+- Xelzaz
 
 Improved Questlines:
 
