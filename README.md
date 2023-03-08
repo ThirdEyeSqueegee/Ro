@@ -70,6 +70,7 @@ Followers:
 
 - Inigo
 - Lucien
+- Gore
 - Gladys the Corgi
 - Merlin the Corgi
 

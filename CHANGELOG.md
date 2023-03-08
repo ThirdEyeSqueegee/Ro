@@ -1,3 +1,11 @@
+# v1.1.29
+
+- UPDATE SIZE: SMALL
+- Add NordwarUA Improved Upscaled Textures
+- Add Soul Drain SE
+- Add XPMSSE Spazzing Skeleton and Corpse Fix
+- Update Simple Dual Sheath
+
 # v1.1.28
 
 - UPDATE SIZE: SMALL
