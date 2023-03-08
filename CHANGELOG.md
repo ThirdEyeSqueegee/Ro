@@ -1,3 +1,14 @@
+# v1.1.30
+
+- UPDATE SIZE: SMALL
+- Add Blades Armors and Weapons Retexture
+- Update Necrom
+- Update FYX - Eastern Empire Company Building
+- Update Lux
+- Update Modular Armory
+- Update Flames of Coldharbour
+- Update Simple Dual Sheath
+
 # v1.1.29
 
 - UPDATE SIZE: SMALL
