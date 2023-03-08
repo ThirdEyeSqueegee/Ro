@@ -1,3 +1,10 @@
+# v1.1.31
+
+- UPDATE SIZE: SMALL
+- Add Cannibal Draugr on Solstheim
+- Add Haugbui - A Draugr Overhaul
+- Update Paradigm - A Quick Start Overhaul
+
 # v1.1.30
 
 - UPDATE SIZE: SMALL
