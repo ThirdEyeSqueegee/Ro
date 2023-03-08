@@ -1,3 +1,15 @@
+# v1.1.33
+
+- UPDATE SIZE: SMALL
+- Add Yazakh - Custom-Voiced Orc Follower
+- Add RaceCompatibility for Skyrim Special Edition
+- Add Race Compatibility Dialogue SSE
+- Add Lost Races of Aetherius
+- Add Humble Beginnings - A Lightweight Class Mod
+- Add Paradigm - Simonrim Edition - Humble Beginnings Patch
+- Add Khajiit Will Follow - No Start Up Quest (thanks Foamimi!)
+- Add Gore - No Start Up Quest
+
 # v1.1.32
 
 - UPDATE SIZE: SMALL
