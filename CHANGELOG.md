@@ -1,3 +1,15 @@
+# v1.1.35
+
+- UPDATE SIZE: SMALL
+- Add HS Solitude - The Winking Skeever
+- Add HS Whiterun - The Drunken Huntsman
+- Add HS Solitude - Temple of the Divines
+- Add HS Whiterun - Jorrvaskr
+- Add HS Markarth - Silver-Blood Inn
+- Add HS Whiterun - Arcadia's Cauldron
+- Update Lost Races of Aetherius
+- Fix Sleeping Giant Inn lighting issue
+
 # v1.1.34
 
 - UPDATE SIZE: SMALL
