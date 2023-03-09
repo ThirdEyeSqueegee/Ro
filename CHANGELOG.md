@@ -1,3 +1,15 @@
+# v1.1.34
+
+- UPDATE SIZE: SMALL
+- Add HS Resources
+- Add HS Riverwood - Riverwood Trader
+- Add HS Riverwood - Sven and Hilde's House
+- Add HS Riverwood - Sleeping Giant Inn
+- Add HS Riverwood - Alvor and Sigrid's House
+- Add HS Riverwood - Faendal's House
+- Add HS Riverwood - Hod and Gerdur's House
+- Remove Fresh Start Series - Khajiit Will Follow
+
 # v1.1.33
 
 - UPDATE SIZE: SMALL
