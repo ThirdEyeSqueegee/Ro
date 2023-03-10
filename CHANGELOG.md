@@ -1,3 +1,13 @@
+# v1.1.38
+
+- UPDATE SIZE: SMALL
+- Add Safer Spikes
+- Add Dragonborn Voice Over (optional)
+- Add Dagoth Ur VoicePack (optional)
+- Add Geralt of Rivia VoicePack (optional)
+- Add Kratos VoicePack (optional)
+- Update True Teacher Paarthurnax
+
 # v1.1.37
 
 - UPDATE SIZE: SMALL
