@@ -1,3 +1,16 @@
+# v1.1.39
+
+- UPDATE SIZE: SMALL
+- Add Fists of Fury - Skyrim
+- Update Vestige - An Artifact Overhaul
+- Update Sprint Sneak Movement Speed Fix
+- Update Real Dwemer Pipes
+- Update Lost Races of Aetherius
+- Update Saints and Seducers - Mysticism Rebalance
+- Update ENBSeries
+- Remove Save Unbaker
+- Fix Lost Races of Aetherius face clipping
+
 # v1.1.38
 
 - UPDATE SIZE: SMALL
