@@ -1,3 +1,30 @@
+# v1.1.37
+
+- UPDATE SIZE: SMALL
+- Add Shroud Hearth Barrow Script Fix
+- Update Ancient Knowledge - Automaton Summoning
+- Update Soul Drain SE
+- Enable Daedric armor glow
+
+# v1.1.36
+
+- UPDATE SIZE: SMALL
+- Add Sprint Sneak Movement Speed Fix
+- Add Fashions of the Fourth Era
+- Add Sforzinda's Fashions of the Fourth Era - NERFED
+- Add Reason and Logic - A Dwarven Artifacts Mod
+- Add JS Attunement Sphere and Lexicons SE - Glowmapped
+- Add JS Dwemer Control Cube SE - Glowmapped
+- Add JS Dwemer Puzzle Cube SE - Glowmapped
+- Add JS Dwemer Artifacts SE - Glowmapped
+- Add Defeat the Dragon Cult
+- Update Lux
+- Update Lunaris
+- Update ERM - Enhanced Rocks and Mountains
+- Update Ancient Knowledge - Automaton Summoning
+- Update Falmer Overhaul - New models and textures
+- Remove HS interiors
+
 # v1.1.35
 
 - UPDATE SIZE: SMALL
