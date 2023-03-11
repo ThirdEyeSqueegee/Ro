@@ -1,3 +1,28 @@
+# v1.1.43
+
+- UPDATE INSTRUCTIONS: GO TO AN INTERIOR LOCATION (HOUSE, INN, ETC.) IN-GAME AND SAVE BEFORE UPDATING
+- UPDATE SIZE: LARGE
+- Add Evil Dead Trees - Base Object Swapper
+- Add Riften Docks Overhaul
+- Add Fires Hurt RE
+- Add Fire Hurts NG
+- Add Akaviri Hats Pack
+- Add Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Add Beyond Skyrim - The Lost Roscrean Blade
+- Add Quiet Dog (optional)
+- Update Tamrielic Distribution
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Update TexGen Output
+- Update DynDOLOD Output
+- Tweak Talking Trains Speechcraft config
+
+# v1.1.42
+
+- UPDATE SIZE: HOTFIX
+- Fix Atlantean Landscapes load order
+
 # v1.1.41
 
 - UPDATE SIZE: SMALL
