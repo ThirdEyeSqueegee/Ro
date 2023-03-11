@@ -1,3 +1,17 @@
+# v1.1.41
+
+- UPDATE SIZE: SMALL
+- Add Atlantean Landscape -DirtCliffs-
+- Add Atlantean Landscape -The Reach-
+- Add Atlantean Landscape -Field Grass-
+- Add Atlantean Landscape -Rocks and Dirt-
+- Add Atlantean Landscape -Shores-
+- Add Atlantean Landscape -Tundra-
+- Add Atlantean Landscape -Pine Forest-
+- Add Atlantean Landscape -Frozen Marsh-
+- Add Atlantean Landscape -VolcanicTundra-
+- Add Atlantean Landscape -Fall Forest-
+
 # v1.1.40
 
 - UPDATE SIZE: MEDIUM
