@@ -1,3 +1,18 @@
+# v1.1.44
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Towns - Ivarstead
+- Add Ciri Witcher VoicePack (optional)
+- Add Traveling Mage - My version
+- Add Chrysamere and Stendarr's Hammer - Reduced Cut
+- Add Penitus Oculatus
+- Update Spaghetti's Towns - Dragon Bridge
+- Update Sunder and Wraithguard - Editable Vault Cell
+- Update Soul Drain SE
+- Update Kratos VoicePack
+- Update Bards sing in another language
+- Update FYX - Eastern Empire Company Building
+
 # v1.1.43
 
 - UPDATE INSTRUCTIONS: GO TO AN INTERIOR LOCATION (HOUSE, INN, ETC.) IN-GAME AND SAVE BEFORE UPDATING
