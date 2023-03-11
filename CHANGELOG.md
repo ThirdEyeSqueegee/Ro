@@ -1,3 +1,18 @@
+# v1.1.40
+
+- UPDATE SIZE: MEDIUM
+- Add Skyland - A Landscape Texture Overhaul
+- Add Race Compatibility Dialogue - Remiel
+- Add Race Compatibility Dialogue - Xelzaz
+- Add Race Compatibility Dialogue for Lucien
+- Add EVG Conditionals extended
+- Add Don't sheathe bound weapons DAR animations
+- Add Tools not weapons DAR animations
+- Add Ghosts float DAR animations
+- Add Bards sing in another language (Optional)
+- Update Lost Races of Aetherius
+- Remove MD's parallax landscapes
+
 # v1.1.39
 
 - UPDATE SIZE: SMALL
