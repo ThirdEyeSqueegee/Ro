@@ -1,3 +1,32 @@
+# v1.1.46
+
+- Add Fully Harvest Hanging Carcasses and Coin Purses
+- Add White Phial - Tweaks and Enhancements
+- Add Narra as Yazakh
+- Add Udefrykte. Uderfrykte. Udyrfrykte.
+- Add Karstaag - The Frost King Reborn
+- Add GRAHL - The Ice Troll
+- Add The Blood Horker
+- Add Bogmort - Mud Monsters of Morthal Swamp
+- Add Animal and Creature Loot Tweaks
+- Update DERP Reduced Cut
+- Update Stellaris
+- Update Atlantean Landscape -DirtCliffs-
+- Update Spaghetti's Cities - AIO
+- Update Geralt of Rivia VoicePack
+- Update Riften Docks Overhaul
+- Update Necrom
+- Update Flames of Coldharbour
+- Update Natura
+- Update Abyss
+- Update Bloodmoon
+- Update Lunaris
+- Update Dagoth Ur VoicePack
+- Remove EVG Conditionals extended
+- Remove Ghosts float DAR animations
+- Remove Daedric Entity Restoration Project - Winged Twilight
+- Misc. load order tweaks
+
 # v1.1.45
 
 - UPDATE SIZE: SMALL
