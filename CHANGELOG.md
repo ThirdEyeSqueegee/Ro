@@ -1,5 +1,6 @@
 # v1.1.46
 
+- UPDATE SIZE: SMALL
 - Add Fully Harvest Hanging Carcasses and Coin Purses
 - Add White Phial - Tweaks and Enhancements
 - Add Narra as Yazakh
