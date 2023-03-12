@@ -1,3 +1,12 @@
+# v1.1.45
+
+- UPDATE SIZE: SMALL
+- Add Stellaris
+- Update Spaghetti's Cities - AIO
+- Update Kratos VoicePack
+- Update Geralt of Rivia VoicePack
+- Update Ciri Witcher VoicePack
+
 # v1.1.44
 
 - UPDATE SIZE: SMALL
