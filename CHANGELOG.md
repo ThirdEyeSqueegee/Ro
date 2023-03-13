@@ -1,7 +1,7 @@
 # v1.1.47
 
 - UPDATE SIZE: MEDIUM
-- Add LamasTinyHUD (otional)
+- Add LamasTinyHUD (optional)
 - Add Untarnished LamasTinyHUD Reskin (optional)
 - Add Nordic Leather Armor
 - Add FYX - The first Rampart and Watchtower of Solitude
