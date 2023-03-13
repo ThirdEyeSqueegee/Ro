@@ -1,3 +1,13 @@
+# v1.1.48
+
+- UPDATE SIZE: SMALL
+- Add Metallurgy - Ingots Ore and Veins HD
+- Add I'm Glad You're Here - a follower and spouse appreciation mod
+- Add Fare Thee Well - Spouses and Children Give Blessings
+- Update Unmarked Locations Pack
+- Update Ciri Witcher VoicePack
+- Fix blood effects appearing too bright
+
 # v1.1.47
 
 - UPDATE SIZE: MEDIUM
