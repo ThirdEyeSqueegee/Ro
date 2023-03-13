@@ -14,7 +14,6 @@
 - Add Kanjs - Horker
 - Add Rudy HQ - Nordic Ruins
 - Add Parallax Addon for Rudy's HQ Nordic Ruins
-- Add Parallax Addon for Rudy's HQ Nordic Ruins
 - Update Quest Journal Limit Bug Fixer
 - Update Spaghetti's Cities - AIO
 - Update Delayed Quest Starts
