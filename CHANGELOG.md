@@ -1,3 +1,31 @@
+# v1.1.47
+
+- UPDATE SIZE: MEDIUM
+- Add LamasTinyHUD (otional)
+- Add Untarnished LamasTinyHUD Reskin (optional)
+- Add Nordic Leather Armor
+- Add FYX - The first Rampart and Watchtower of Solitude
+- Add Master Chief VoicePack (optional)
+- Add Yennefer Witcher VoicePack (optional)
+- Add Skyland Landscapes Parallax
+- Add Practical Female Ebony Plate Armor
+- Add Kanjs - Atronachs
+- Add Kanjs - Ash Spawn
+- Add Kanjs - Horker
+- Add Rudy HQ - Nordic Ruins
+- Add Parallax Addon for Rudy's HQ Nordic Ruins
+- Add Parallax Addon for Rudy's HQ Nordic Ruins
+- Update Quest Journal Limit Bug Fixer
+- Update Spaghetti's Cities - AIO
+- Update Delayed Quest Starts
+- Update WeldingMans Enchanting Table Variants with ENB Light
+- Update slightly Better Rock Cairns
+- Update GoT HotD - Skeletal Dragon and Underskin
+- Update Dragonborn Voice Over
+- Remove Northfire's Dungeons
+- Remove Northfire's Rustic Clever Underground Nordic Ruins
+- Misc. load order tweaks
+
 # v1.1.46
 
 - UPDATE SIZE: SMALL
