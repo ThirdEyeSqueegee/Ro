@@ -1,3 +1,34 @@
+# v1.1.49
+
+- UPDATE SIZE: SMALL
+- Add Bard Magic Overhaul - Cast Like a Bard
+- Add Reshaped Elven Hunter Armor
+- Add Dialogue Expansion - Khajiit Caravans
+- Add Standing Stones and Shrines Located
+- Add ElSopa - Skeleton Key Redone
+- Add Snippy - Droid Follower (Optional - Comedy)
+- Add ElSopa - Pepe Talos Replacer (Optional - Comedy)
+- Add ElSopa - Clavicus Pepe (Optional - Comedy)
+- Add ElSopa - Talos The Chad (Optional - Comedy)
+- Add Nazeemization (Optional - Comedy)
+- Add Rubber ducks (Optional - Comedy)
+- Add Hasbulla Moon (Optional - Comedy)
+- Add Project P.E.W. (Optional - Comedy)
+- Add Bob Ross' Happy Little Moon (Optional - Comedy)
+- Update Nemesis Output
+- Update Rally's Display Cases
+- Update Ciri Witcher VoicePack
+- Update FYX - The first Rampart and Watchtower of Solitude
+- Update Actor Limit Fix
+- Update Bug Fixes SSE
+- Update Rally's Farming Tools (Higher Poly)
+- Update Scrambled Bugs
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Dwemer Armor SE - My patches and fixes
+- Update Sil Gahrot - Improved Shouts Learning
+- Reinstall Lux Orbis (update patches)
+- Tweak Scrambled Bugs config
+
 # v1.1.48
 
 - UPDATE SIZE: SMALL
