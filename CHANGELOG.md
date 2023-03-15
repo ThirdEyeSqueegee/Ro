@@ -1,3 +1,22 @@
+# v1.1.50
+
+- UPDATE SIZE: SMALL
+- Add More Immersive Activations
+- Add Pets of Skyrim (CC) Collision Patch
+- Add Acoustic Space Improvement Fixes
+- Add Reverb Interior Sounds Expansion
+- Add Regional Sounds Expansion
+- Add Married NPCs Wear Wedding Bands
+- Add Skyrim Children Refine
+- Add Prince and The Pauper
+- Add Prince and The Pauper Refine
+- Add High Poly Sweet Rolls
+- Add Actual Sweet Roll Variants
+- Add Beating Daedra Sound Mod
+- Update Standing Stones and Shrines Located
+- Fix skeleton footsteps being too loud (thanks EndlessFields!)
+- Misc. load order tweaks
+
 # v1.1.49
 
 - UPDATE SIZE: SMALL
