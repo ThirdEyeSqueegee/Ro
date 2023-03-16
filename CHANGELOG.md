@@ -1,3 +1,15 @@
+# v1.1.52
+
+- UPDATE SIZE: SMALL
+- Add Cloth into linen wrap
+- Add Retexture for the Scroll
+- Add Unbearable Taunt Animation (Optional - Comedy)
+- Add Nirnroot Rick Roll (Optional - Comedy)
+- Add Reanimator
+- Update Safer Spikes
+- Fix floating lanterns at Riften Docks
+- Move More Immersive Activations to Optional Mods
+
 # v1.1.51
 
 - UPDATE SIZE: MEDIUM
