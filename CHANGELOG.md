@@ -1,3 +1,36 @@
+# v1.1.51
+
+- UPDATE SIZE: MEDIUM
+- Add Dunmer Scarification - New Scar Complexions
+- Add Bosmer Armor Pack Fixed and Balanced
+- Add Khajiit Has Wares - A Caravan Camp Overhaul
+- Add Axarien's Animations - Teldryn Sero
+- Add Axarien's Animations - The Companions
+- Add Immersive folded hands
+- Add Conditional tavern cheering
+- Add Lively Children Animations
+- Add Motionless Rocks Killing People Fix
+- Add Practical Female Iron Plate Armor
+- Add Jewels of the Nords - Nordic Jewelry Reintegration
+- Add Dwemer Armor SE - Golden Dwemer Pipeworks Redone Patch
+- Add Daedric Shrines - Mehrunes Dagon - FIXES
+- Add Kanjs - Falmer
+- Add Comprehensive First Person Animation Overhaul
+- Add Skyrim Remastered - Glaciers and Ice - IMR Edition
+- Update Practical Female Ebony Plate Armor
+- Update Vestige - An Artifact Overhaul
+- Update Icy Mesh Remaster
+- Update Ciri Witcher VoicePack
+- Update Fully Harvest Hanging Carcasses and Coin Purses
+- Update Diverse Cathedral Dragons Tongue
+- Update Race Compatibility Dialogue for Xelzaz
+- Remove VoicePacks
+- Remove Skyrim Remastered - Glaciers and Ice
+- Remove Skyland Icy Mesh Patch
+- Remove First Person Combat Animations Overhaul 2.0
+- Remove First Person Combat Animations Overhaul - Dagger and Sheath Fix
+- Fix missing ocean wave texture
+
 # v1.1.50
 
 - UPDATE SIZE: SMALL
