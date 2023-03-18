@@ -1,3 +1,11 @@
+# v1.1.59
+
+- UPDATE SIZE: SMALL
+- Add Simple Offence Suppression MCM - Simonrim Patch (thanks Dareni!)
+- Add Dragons Fall Down - Immersive Airborne Death
+- Add Natural Waterfalls
+- Fix Completionist config
+
 # v1.1.58
 
 - UPDATE SIZE: SMALL
