@@ -1,3 +1,40 @@
+# v1.1.54
+
+- UPDATE SIZE: SMALL
+- Add Don't Stay in The Water
+- Add A Bow's Whisper
+- Add Business Ledger HD Retexture
+- Add Frostbite Spider Courier (Optional - Comedy)
+- Add Sharpest Draugr In The Shed (Optional - Comedy)
+- Add Ring of Namira - Improved
+- Add HotD Dragons - Arrax and Vermax
+- Add Skyrim Remastered - Glaciers and Ice
+- Add Immersive Sounds - Compendium
+- Add Audio Overhaul - Immersive Sounds Integration
+- Add Atlantean Landscape -Bridges-
+- Add An enemy spawns every time you are hit (Optional - Comedy)
+- Add Skyrim World Randomizer (Optional - Comedy)
+- Add Rudy HQ - Nordic Ruins Lever
+- Update Comprehensive First Person Animation Overhaul - CFPAO
+- Update Vestige - An Artifact Overhaul
+- Update Motionless Rocks Killing People Fix
+- Update Whiterun Forest Borealis
+- Update Environs - The Shrines of Talos
+- Remove HotD and GoT Dragons
+- Remove HotD Dragons - Caraxes
+- Remove Deadeye
+- Remove Immersive Dragons
+
+# v1.1.53
+
+- UPDATE SIZE: SMALL
+- Add TB's Better Lanterns
+- Add TB's 3D Driftwood
+- Add Parallax Riften Garden Walls
+- Add Better Noble Chair
+- Fix Altmer eyes appearing too dark
+- Fix stealth meter not appearing in third person (thanks EndlessFields!)
+
 # v1.1.52
 
 - UPDATE SIZE: SMALL
