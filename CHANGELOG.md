@@ -1,3 +1,12 @@
+# v1.1.58
+
+- UPDATE SIZE: SMALL
+- Add Skyrim Remastered - Caves
+- Update Vestige - An Artifact Overhaul
+- Update Stellaris
+- Update Comprehensive First Person Animation Overhaul - CFPAO
+- Remove Parallax Caves 4K
+
 # v1.1.57
 
 - UPDATE SIZE: SMALL
