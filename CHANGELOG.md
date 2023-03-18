@@ -1,3 +1,17 @@
+# v1.1.57
+
+- UPDATE SIZE: SMALL
+- Add Simple Offence Suppression
+- Add Simple Offence Suppression MCM - Block Friendly Fire
+- Add Simply Order Summons
+- Add NL_CMD - A Console Command Framework
+- Add Papyrus Profiler
+- Update Completionist - Skyrim Completion Tracker
+- Update Atlantean Landscape -DirtCliffs-
+- Update Resurgence Armory - Stalhrim Weapons and Armor Overhaul
+- Remove No Follower Attack Collision NG
+- Fix Completionist preset not applying
+
 # v1.1.56
 
 - UPDATE SIZE: SMALL
