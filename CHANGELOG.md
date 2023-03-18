@@ -1,3 +1,18 @@
+# v1.1.55
+
+- UPDATE SIZE: SMALL
+- Add Elven Armors and Weapons Retexture
+- Add Better Pelts and Hides
+- Add Slaughterfish Eggs are Fish Eggs
+- Add Skyrim Remastered - Glaciers and Ice - 4K Alt
+- Add Spaghetti's Towns - Karthwasten
+- Update Completionist - Skyrim Completion Tracker
+- Update Sons of Skyrim - My patches and fixes
+- Update Bloodmoon
+- Update Stellaris
+- Remove Skyrim Remastered - Glaciers and Ice - IMR Edition
+- Fix Icy Mesh Remaster cracks (thanks Shakes!)
+
 # v1.1.54
 
 - UPDATE SIZE: SMALL
