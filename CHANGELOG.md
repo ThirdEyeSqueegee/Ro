@@ -1,3 +1,10 @@
+# v1.1.56
+
+- UPDATE SIZE: SMALL
+- Add Practical Female Steel Soldier Armor
+- Remove Keyboard Shortcuts Fix
+- Fix Icy Mesh Remaster again (thanks Shakes!)
+
 # v1.1.55
 
 - UPDATE SIZE: SMALL
