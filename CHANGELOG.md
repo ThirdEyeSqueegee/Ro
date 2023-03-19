@@ -1,3 +1,15 @@
+# v1.1.60
+
+- UPDATE SIZE: SMALL
+- Add Distinct Interiors
+- Add Distinct Interiors - Fixes
+- Add Distinct Interiors Patch Collection
+- Update Atlantean Landscape -Shores-
+- Update Natural Waterfalls
+- Update Stellaris
+- Update Spaghetti's Cities - AIO
+- Remove Sconces of Skyrim
+
 # v1.1.59
 
 - UPDATE SIZE: SMALL
