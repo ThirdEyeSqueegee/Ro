@@ -1,3 +1,9 @@
+# v1.1.63
+
+- UPDATE SIZE: HOTFIX
+- De-bloat Wabbajack file
+- Update DynDOLOD
+
 # v1.1.62
 
 - UPDATE SIZE: SMALL
