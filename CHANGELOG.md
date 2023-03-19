@@ -1,3 +1,33 @@
+# v1.1.62
+
+- UPDATE SIZE: SMALL
+- Add Inferno - Fire Effects Redux
+- Add NifSkope
+- Add Dremora Markynaz Armor
+- Add Dremora Markynaz Armor - My patches and fixes
+- Add Better Chests snow chest patch (thanks EndlessFields!)
+- Add Distinct Interiors - FPS Fix
+- Add Distinct Interiors Fixes - Whiterun and Player Homes Restored
+- Add Distinct Interiors Redux
+- Add Enchanted Glass Helmet Leveled List Fix
+- Add Simple Wearable Lanterns Integration
+- Add Simple Wearable Lanterns Fixes
+- Add TB's Better Foam
+- Update Tamrielic Distribution
+- Update Atlantean Landscape -Volcanic Tundra-
+- Update Simple Functional Apiary
+- Update Modular Armory
+- Update Unmarked Locations Pack
+- Update Elven Armors and Weapons Retexture
+- Update Dwemer Armor SE - Golden Dwemer Pipeworks Redone Patch
+- Update Stellaris
+- Update Reshaped Elven Hunter Armor
+- Remove Pi-Cho ENB - Foamimi's Preset
+- Remove Reanimator
+- Fix AOS - ISC Integration Patch load order (thanks sandymat101!)
+- Fix(?) missing Khajiit Will Follow weapon texture
+- Misc. load order tweaks
+
 # v1.1.61
 
 - UPDATE SIZE: SMALL
