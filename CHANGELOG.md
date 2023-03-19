@@ -1,3 +1,16 @@
+# v1.1.61
+
+- UPDATE SIZE: SMALL
+- Add Leviathan Animations II - Greatsword Low Stance
+- Add Less Bright Vvardenfell 3D Plume for ENB
+- Add Daedric Dagger from Morrowind
+- Add Daedric Dagger from Morrowind - ENB Light Patch
+- Update Completionist - Skyrim Completion Tracker
+- Update Skyrim Extended Cut - Saints and Seducers
+- Remove Skyrim Children Refine
+- Tweak Timing Is Everything config (thanks Shakes!)
+- Misc. load order tweaks
+
 # v1.1.60
 
 - UPDATE SIZE: SMALL
