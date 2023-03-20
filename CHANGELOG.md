@@ -1,3 +1,18 @@
+# v1.1.66
+
+- UPDATE SIZE: HOTFIX
+- Update Creation Club - Reintegrated
+
+# v1.1.65
+
+- UPDATE SIZE: SMALL
+- Add SMIM Woven Farm Fence Parallax
+- Add College of Winterhold HD - Parallax
+- Add Castle Volkihar HD - Parallax
+- Update Stellaris
+- Update Abyss
+- Update Natura
+
 # v1.1.64
 
 - UPDATE SIZE: MEDIUM
