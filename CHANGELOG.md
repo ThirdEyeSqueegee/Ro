@@ -1,3 +1,27 @@
+# v1.1.64
+
+- UPDATE SIZE: MEDIUM
+- Add TB's Improved Smoke
+- Add Heart of the Reach
+- Add Legends of Aetherium
+- Add Custom Skills Framework
+- Add Molag's Will - A Vampire Skill Tree
+- Add Consistency Fix - Coffins For Vampires
+- Add TB's 3D Nettles
+- Add Pigeons - Mihail Monsters and Animals
+- Add Ravens - Mihail Monsters and Animals
+- Add Kanjs - Arms of Chaos
+- Add Bright Waterfall Fix for ENB Fix - Purple wind
+- Update Atlantean Landscape -Snow-
+- Update Natural Waterfalls
+- Update Penitus Oculatus
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Rain Extinguishes Fires
+- Update Flames of Coldharbour
+- Update Skyland Landscapes Parallax
+- Update Bright Waterfall Fix for ENB
+- Remove Simply Order Summons
+
 # v1.1.63
 
 - UPDATE SIZE: HOTFIX
