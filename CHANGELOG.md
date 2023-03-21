@@ -1,3 +1,14 @@
+# v1.1.67
+
+- UPDATE SIZE: SMALL
+- Add Heavy Armory - New Weapons
+- Add Thaumaturgy - Heavy Armory Patch
+- Add Nemesis Creature Behaviour Compatibility
+- Add Some Creature Behavior Bug Fixes
+- Add Dual Wield Parrying SKSE
+- Update Skyland Landscapes Parallax
+- Update Nemesis Output
+
 # v1.1.66
 
 - UPDATE SIZE: HOTFIX
