@@ -1,3 +1,10 @@
+# v1.1.68
+
+- UPDATE SIZE: SMALL
+- Add Vision Quest - Dynamic Intoxication Effects
+- Add Unofficial Vision Quest Patch Hub
+- Fix missing textures for some Heavy Armory weapons
+
 # v1.1.67
 
 - UPDATE SIZE: SMALL
