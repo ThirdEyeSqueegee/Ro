@@ -7,7 +7,6 @@
 - Add Warming Hands
 - Add NordWarUA's Race Armor Expansion
 - Add NordWarUA's Race Armor Expansion - Plugin Replacer
-- Add Warming Hands
 - Add Unofficial Skyrim Modder's Patch
 - Add Unofficial Skyrim Modders Patch - USMP - Patch Emporium
 - Update NordwarUA Improved Upscaled Textures
