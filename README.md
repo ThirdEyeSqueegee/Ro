@@ -69,6 +69,7 @@ Locations:
 
 - Capitals and Towns of Skyrim
 - Spaghetti's Cities
+- Distinct Interiors
 - Unmarked Locations Pack
 
 Gameplay, Physics, and Animations:
