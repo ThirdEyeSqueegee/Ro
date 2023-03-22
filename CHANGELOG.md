@@ -1,3 +1,17 @@
+# v1.1.71
+
+- UPDATE SIZE: MEDIUM
+- Add NordWarUA's Vanilla Armor Replacers
+- Add NordWarUA's Vanilla Armor and Weapon Expansion - Standalone Plugin
+- Add ElSopa - Potions Redone - My patches
+- Add Warming Hands
+- Add NordWarUA's Race Armor Expansion
+- Add NordWarUA's Race Armor Expansion - Plugin Replacer
+- Add Warming Hands
+- Add Unofficial Skyrim Modder's Patch
+- Add Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+- Update NordwarUA Improved Upscaled Textures
+
 # v1.1.70
 
 - UPDATE SIZE: LARGE
