@@ -40,17 +40,30 @@ UI:
 - Untarnished UI
 - Compass Navigation Overhaul
 - Completionist
+- Constructible Object Custom Keyword System
 
 Graphics:
 
 - Skyland AIO
 - Underground + parallax
 - QW's Grass Patch 2 + complex grass
+- Happy Little Trees + addons
 - Lux + Via and Orbis
 - EVLaS
 - Embers XD
 - Rudy's ENB for Obsidian Weathers
 - ENB lights for damn near everything that glows (even some things that don't)
+
+Weapons and Armor:
+
+- Sons of Skyrim
+- New Legion
+- xavbio's retextures
+- 4thUnknown's armors
+- Lunar Guard Armor
+- Royal Armory
+- Heavy Armory
+- New Armory
 
 Locations:
 
@@ -61,10 +74,18 @@ Locations:
 Gameplay, Physics, and Animations:
 
 - SimonRim (+ complimentary mods)
-- Dareni's Spells (Abyss, Lunaris, Natura, Bloodmoon, Flames of Coldharbour)
+- Dareni's Spells (Abyss, Lunaris, Natura, etc.)
+- Paradigm - A Quick Start Overhaul
+- Haugbui - A Draugr Overhaul
 - Precision
+- Headhunter
+- Brewer - An Alcohol Brewing Mod
+- Huntsman - A Hunting Expansion
+- Press H to Horse
+- Skyrim's Paraglider
 - EVG Conditional Idles + Animation Variance
 - Goetia, Vanargand, and Leviathan Animations
+- First Person Combat Animation Overhaul 2.0
 
 Followers:
 
@@ -81,6 +102,10 @@ Improved Questlines:
 
 - All of jayserpa's stuff
 - Extended Cut - Saints and Seducers
+- Dark Brotherhood Rising Revengeance
+- Stendarr Rising
+- Penitus Oculatus
+- Skyrim's Got Talent
 
 CC Content:
 

@@ -1,3 +1,30 @@
+# v1.1.70
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION IN-GAME BEFORE UPDATING
+- Add Practical Female Vigil Armor
+- Add Glass Armors and Weapons Retexture
+- Add Vanilla Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Add Heavy Armory - New Weapons - Golden Dwemer Pipeworks Redone Patch
+- Add Katana Crafting - Golden Dwemer Pipeworks Redone Patch
+- Add Spell Organizer - Hide Remove Delete Erase Forget Spells
+- Add Shout Organizer - Hide Remove Delete Erase Forget Shouts
+- Add TB's Better Pickaxe
+- Add Dragonborn - Shouts Perk Tree
+- Update Natural Waterfalls
+- Update ENBSeries
+- Update Sons of Skyrim - My patches and fixes
+- Update Parallax Spell Impacts
+- Update Natural Waterfalls
+- Update LOD Model Library for DynDOLOD
+- Update Unmarked Locations Pack
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Forget Spell
+- Move Blade and Blunt - Vanilla Difficulty Modifiers to optional
+- Misc. load order tweaks
+- Fix tree scale (thanks Shakes!)
+
 # v1.1.69
 
 - Nice.
