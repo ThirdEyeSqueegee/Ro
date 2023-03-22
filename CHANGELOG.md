@@ -1,3 +1,39 @@
+# v1.1.69
+
+- Nice.
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS:
+- 1. SAVE IN AN INTERIOR LOCATION IN-GAME BEFORE UPDATING
+- 2. RUN COMMAND stopquest MWT_QST_Framework_UtilityQuest IN THE CONSOLE AFTER UPDATING
+- Add Practical Female Elven Hunter Armor
+- Add Catir Club - Immersive Creation Club Integration
+- Add Cultists Wear Clothes
+- Add Unarmored Jewelry Artifacts
+- Add Mysticism - USSEP Container Patch
+- Add Soups of Skyrim - Cooking Pot Containers Contain Food
+- Add A Potato Plant
+- Add KG's Elves Ear
+- Add KG's Frost Mirriam
+- Add Harvestables Cabbages Addon for High Poly Project
+- Add IED - Weapons Repositioner
+- Add LOD Mesh Fixes for DynDOLOD
+- Add LOD Model Library for DynDOLOD
+- Add First Person Combat Animations Overhaul 2.0
+- Add First Person Combat Animations Overhaul - Dagger and Shield Fix
+- Add Stones of Solitude - Majestic Mountains Rocks
+- Update Molag's Will - A Vampire Skill Tree
+- Update Spaghetti's Cities - AIO
+- Update Whiterun Bench - Replacer
+- Update Happy Little Trees Add-On - DynDOLOD 3
+- Update Natural Waterfalls
+- Update Sons of Skyrim - My patches and fixes
+- Update Vestige - An Artifact Overhaul
+- Update Reanimated NPC Animations
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Comprehensive First Person Animation Overhaul - CFPAO
+- Tweak Scrambled Bugs config
+
 # v1.1.68
 
 - UPDATE SIZE: SMALL
