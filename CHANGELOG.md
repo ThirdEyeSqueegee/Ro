@@ -1,3 +1,17 @@
+# v1.1.74
+
+- UPDATE SIZE: SMALL
+- Add Dwemer Automatons - Golden Dwemer Pipeworks Redone Patch
+- Add Natural Waterfalls Fish Patch
+- Add Tundra - HD Texture Replacer with Parallax
+- Update Natural Waterfalls
+- Update Imperial Armors and Weapons Retexture
+- Update ElSopa - Potions Redone - My patches
+- Update Practical Female Iron Armor
+- Update Steel Armors and Weapons Retexture
+- Remove Inferno - Fire Effects HD
+- Remove Atlantean Landscape -Tundra-
+
 # v1.1.73
 
 - UPDATE SIZE: SMALL
