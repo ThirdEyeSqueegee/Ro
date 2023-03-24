@@ -1,3 +1,16 @@
+# v1.1.73
+
+- UPDATE SIZE: SMALL
+- Add Skeever Tail HD
+- Add James May Says Cheese Pickup Sound (Optional - Comedy)
+- Add The Dark Brotherhood Updates Their Privacy Policy (Optional - Comedy)
+- Add Faces of Oblivion (FOO) - A facial expression tweak (Optional - Comedy)
+- Add Natural Waterfalls - Majestic Mountains Patch
+- Add Immersive Rejections
+- Add Destination Weddings
+- Update Whiterun Forest Borealis
+- Remove Natural Waterfalls Fish Patch
+
 # v1.1.72
 
 - UPDATE SIZE: LARGE
