@@ -1,3 +1,29 @@
+# v1.1.72
+
+- UPDATE SIZE: LARGE
+- Add Immersive Sounds for Mysticism - Patch
+- Add Simonrim I4 Addons
+- Add Simple Functional Apiary - A bee mod
+- Add V's Blursed RaceMenu Presets (Optional - Comedy)
+- Add ORCHESTRAL GIGACHAD MAIN MENU MUSIC REPLACER (Optional - Comedy)
+- Add Shrek's Clothes (Optional - Comedy)
+- Add Dooting Skeletons (Optional - Comedy)
+- Add Dragon Punishment for Cloud District Quips (Optional - Comedy)
+- Add Handsome Nazeem - A Replacer Mod (Optional - Comedy)
+- Add High Poly Blackreach Mushrooms
+- Add GG's High Hrothgar fixed stairs
+- Add Glass Tweaks
+- Add Solitude - PeV SSE Port
+- Add Unofficial High Definition Audio Project
+- Add Simple Offence Suppression Tweaks
+- Add Super Hi-Res Music Pack
+- Add Natural Waterfalls Fish Patch
+- Add Desktop Splash Screen
+- Update Better Pelts and Hides
+- Update Riften Docks Overhaul
+- Update ElSopa - Potions Redone - My patches
+- Spectral weapons can now only be crafted at level 20 or above
+
 # v1.1.71
 
 - UPDATE SIZE: MEDIUM
