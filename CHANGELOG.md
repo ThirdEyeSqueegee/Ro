@@ -1,3 +1,27 @@
+# v1.1.76
+
+- UPDATE SIZE: SMALL
+- Add Hired Thugs Are Not Assassins
+- Add Sharpen Other Swords II
+- Add Read the Room - Immersive and Animated Helmet Management
+- Add Read the Room - Settings Loader
+- Add Shibui Skyrim
+- Add Ro - IED Preset
+- Update Nemesis Output
+
+# v1.1.75
+
+- UPDATE SIZE: SMALL
+- Add MD's Terrain Parallax
+- Add Renthal's waterwheel HD
+- Add Apiaries Beehive - Retexture
+- Add Noble Bed - Replacer
+- Add Mill - Pfuscher
+- Add Upperclass chair - Replacer
+- Add Petty Pigeons
+- Remove Atlantean Landscapes
+- Misc. patches and load order tweaks
+
 # v1.1.74
 
 - UPDATE SIZE: SMALL
