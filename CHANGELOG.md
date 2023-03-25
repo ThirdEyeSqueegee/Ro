@@ -1,3 +1,26 @@
+# v1.1.80
+
+- UPDATE SIZE: MEDIUM
+- Add Squirrels of Skyrim
+- Add Crab Vampire (Optional - Comedy)
+- Add Mrf's Solitude
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update Iconic Statues
+- Update Natural Waterfalls
+- Fix Solitude manhole
+- Remove Solitude PeV SSE Port
+
+# v1.1.79
+
+- UPDATE SIZE: SMALL
+- Add Ancient Nord Stalhrim
+- Add Spaghetti's Towns - Shor's Stone
+- Add Wood Chopping Blocks and Axes for Orc Strongholds
+- Update FYX - RowBoat
+- Update Glass Tweaks
+- Update Nemesis Creature Behaviour Compatibility
+- Fix widescreen main menu replacer not appearing
+
 # v1.1.78
 
 - UPDATE SIZE: SMALL
