@@ -1,3 +1,13 @@
+# v1.1.77
+
+- UPDATE SIZE: SMALL
+- Add Ivy by Mari
+- Add Mari's Ivy - Nordic Ruins Addon
+- Add Animated Ivy
+- Remove Ro - IED Preset
+- Disable ENB FPS counter by default (oops)
+- Fix water seam at Halted Stream Camp
+
 # v1.1.76
 
 - UPDATE SIZE: SMALL
