@@ -1,3 +1,13 @@
+# v1.1.78
+
+- UPDATE SIZE: SMALL
+- Add Thugs Not Assassins Extended
+- Add Thugs Not Assassins
+- Update Glass Tweaks
+- Update Gladys the Corgi
+- Remove Atlantean Landscape -DirtCliffs-
+- Fix water seams
+
 # v1.1.77
 
 - UPDATE SIZE: SMALL
