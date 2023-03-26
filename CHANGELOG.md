@@ -1,3 +1,18 @@
+# v1.1.81
+
+- UPDATE SIZE: MEDIUM
+- Add Sleeping Tree Sap - My version
+- Add Sippin' lean (Optional - Comedy)
+- Add Saerileth's White Phial Replacer
+- Add Birds and Flocks
+- Add Icy Windhelm
+- Add Mrf's Windhelm
+- Update Unofficial eFPS patches
+- Update Squirrels of Skyrim
+- Update ElSopa - Potions Redone - My patches
+- Remove Northfire's Windhelm
+- Remove Northfire's Windhelm - Parallax
+
 # v1.1.80
 
 - UPDATE SIZE: MEDIUM
