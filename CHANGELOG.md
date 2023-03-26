@@ -1,3 +1,19 @@
+# v1.1.84
+
+- UPDATE SIZE: SMALL
+- Add Dragonborn Voice Over (Optional - Voicepacks)
+- Add Geralt of Rivia DBVO Pack (Optional - Voicepacks)
+- Add Dagoth Ur DBVO Pack (Optional - Voicepacks)
+- Add Kratos DBVO Pack (Optional - Voicepacks)
+- Add Master Chief DBVO Pack (Optional - Voicepacks)
+- Add Ciri DBVO Pack (Optional - Voicepacks)
+- Add Read the Room MCM preset
+- Add Wind Ruler Armor
+- Add Wind Ruler Armor - My patches
+- Add The Wind Ruler Legend - Wind Ruler Armor SE Integration
+- Update Spell Organizer - Hide Remove Delete Erase Forget Spells
+- Remove Phoenix Compendium
+
 # v1.1.83
 
 - UPDATE SIZE: MEDIUM
