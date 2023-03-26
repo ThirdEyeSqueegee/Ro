@@ -1,3 +1,18 @@
+# v1.1.83
+
+- UPDATE SIZE: MEDIUM
+- Add Weathered Dark Elf Furniture Retexture
+- Add Weathered Furniture - Common and Upper Class
+- Add Weathered Bars and Counters Retexture
+- Add Temple of Kynareth Mosaic Retexture
+- Add Bucket Enrichment
+- Add Weathered Buckets Retexture
+- Add Sit on Stuff
+- Update Glass Tweaks
+- Update ElSopa - Potions Redone - My patches
+- Update Resurgence Armory
+- Remove Skyland Common and Upper Furniture
+
 # v1.1.82
 
 - UPDATE SIZE: LARGE
