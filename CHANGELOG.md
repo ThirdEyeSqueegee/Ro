@@ -1,3 +1,21 @@
+# v1.1.82
+
+- UPDATE SIZE: LARGE
+- Add Immersive War and Violence
+- Add Vampires have Claws
+- Add ElSopa Potions - Apothecary Patch (thanks Delta!)
+- Add Immersive Interactions - Animated Actions
+- Update FYX - 3D Solitude SighPost
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Update Papyrus Profiler
+- Update GoT Dragons - Undead Viserion as Durnehviir
+- Update Modular Armory
+- Update Glass Tweaks
+- Update TexGen Output
+- Update DynDOLOD Output
+- Update Nemesis Output
+
 # v1.1.81
 
 - UPDATE SIZE: MEDIUM
