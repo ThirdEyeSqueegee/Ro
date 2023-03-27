@@ -1,3 +1,16 @@
+# v1.1.87
+
+- UPDATE SIZE: SMALL
+- Add Immersive Interactions - Legacy Settings Loader (Optional - Gameplay)
+- Add Immersive Interactions - Integration Patch (Optional - Gameplay)
+- Update The Wind Ruler Legend - Wind Ruler Armor SE Integration
+- Update Sleeping Tree Sap - My version
+- Update Skyland Alchemy and Enchanting Tables
+- Update ElSopa - Potions Redone - My patches
+- Remove Read the Room
+- Remove Happy Little Trees - Ivy on Trees
+- Move Immersive Interactions to Optional - Gameplay
+
 # v1.1.86
 
 - UPDATE SIZE: SMALL
