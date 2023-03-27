@@ -1,3 +1,9 @@
+# v1.1.85
+
+- UPDATE SIZE: HOTFIX
+- Add Vaermina's Torpor - My version
+- Misc. load order fixes (rogue masters)
+
 # v1.1.84
 
 - UPDATE SIZE: SMALL
