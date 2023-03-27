@@ -1,3 +1,18 @@
+# v1.1.86
+
+- UPDATE SIZE: SMALL
+- Add Wolf Armors and Weapons Retexture
+- Add JS Purses and Septims Load Screen and Static Patch
+- Add 3D Dwemer barriers and shelves
+- Add Happy Little Trees - Ivy on Trees
+- Add Skyland Alchemy and Enchanting Tables
+- Update Vaermina's Torpor - My version
+- Update ENBSeries
+- Update The Wind Ruler Legend - Wind Ruler Armor SE Integration
+- Update Tamrielic Distribution
+- Update Vanilla Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Update Warming Hands
+
 # v1.1.85
 
 - UPDATE SIZE: HOTFIX
