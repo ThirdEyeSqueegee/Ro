@@ -11,7 +11,6 @@
 - Update Lux
 - Update Natural Waterfalls
 - Update GG's High Hrothgar fixed stairs
-- Update Natural Waterfalls
 - Remove Whiterun Cobblestone - HD Texture Replacer
 - Remove Natural Waterfalls Fish Patch
 - Remove Farmhouse Stonewalls 4K by CleverCharff - Complex Parallax
