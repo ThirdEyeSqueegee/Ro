@@ -1,3 +1,18 @@
+# v1.2.2
+
+- UPDATE SIZE: SMALL
+- Add VioLens - A Killmove Mod
+- Add VioLens - A Killmove Mod SE - Legacy Settings Loader
+- Add Mfg Fix
+- Add Conditional Expressions - Subtle Face Animations
+- Add Irileth Unbound
+- Add Survival Control Panel
+- Update Unofficial eFPS patches
+- Update Immersive Sounds for Mysticism - Patch
+- Remove No Killmoves - No Killcams - No Killbites
+- Remove The Wind Ruler Legend
+- Remove Survival Mode - Cloaks Of Skyrim Patch
+
 # v1.2.1
 
 - UPDATE SIZE: MEDIUM
