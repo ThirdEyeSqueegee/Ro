@@ -1,3 +1,14 @@
+# v1.2.0
+
+- UPDATE SIZE: SMALL
+- Update Gore
+- Update Paradigm - A Quick Start Overhaul
+- Update Nemesis Output
+- Update ElSopa - Potions Redone - My patches
+- Fix XPMSSE
+- Remove XPMSSE script patches
+- Remove Soul Drain
+
 # v1.1.87
 
 - UPDATE SIZE: SMALL
