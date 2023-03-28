@@ -1,3 +1,37 @@
+# v1.2.1
+
+- UPDATE SIZE: MEDIUM
+- Add Encounter Zones Unlocked
+- Add Illustrious Whiterun
+- Add Lux - Illustrious Whiterun - Parallax'd
+- Add Classic HD Reworked Farmhouses - Complex Parallax
+- Add Equipment Toggle 2
+- Add Real Rabbits HD
+- Add A Tragedy In Black
+- Update Lux
+- Update Natural Waterfalls
+- Update GG's High Hrothgar fixed stairs
+- Update Natural Waterfalls
+- Remove Whiterun Cobblestone - HD Texture Replacer
+- Remove Natural Waterfalls Fish Patch
+- Remove Farmhouse Stonewalls 4K by CleverCharff - Complex Parallax
+- Remove Real 3D Walls
+- Remove True Nordic Farmhouses
+- Remove Icons for Skyrim Character Sheet
+- Remove SkyUI - Flashing Savegames Fix
+- Remove Rally's Solstheim AIO
+- Remove Rally's Solstheim - Parallax
+- Remove Rally's Solstheim Landscapes Complex Terrain Parallax Edition
+- Remove FYX - Candlehearth Hall Chimney
+- Remove Reshaped Elven Hunter Armor
+- Remove Sons of Skyrim - Battle Ready
+- Remove Rudy HQ - More Lights for ENB - Bthardamz
+- Remove Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs
+- Remove Rudy HQ - More Lights for ENB - Soul Gems
+- Remove Particle Lights for ENB - Staff Enchanter
+- Remove Practical Female Ebony Plate Armor
+- Remove Practical Female Iron Plate Armor
+
 # v1.2.0
 
 - UPDATE SIZE: SMALL
