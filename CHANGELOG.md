@@ -1,3 +1,18 @@
+# v1.2.3
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: SAVE ANYWHERE BESIDES WINTERHOLD BEFORE UPDATING
+- Add GG's Thieves Guild Headquarters
+- Add GG's Thieves Guild HQ Patch Collection
+- Add Riften of Reverie
+- Add Boreal Boats
+- Add Obscure's College of Winterhold
+- Add Obscure's College of Winterhold NPC Stuck in Staircase Fix
+- Add Obscure's College of Winterhold - Creation Club Patches
+- Add Obscure's College of Winterhold - Script Fix
+- Add Parallax Meshes for Obscure's College of Winterhold
+- Remove The College of Mages
+
 # v1.2.2
 
 - UPDATE SIZE: SMALL
