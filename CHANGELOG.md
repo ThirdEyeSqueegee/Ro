@@ -1,3 +1,61 @@
+# v1.3.0
+
+- UPDATE SIZE: MEDIUM
+- Add Lawless - A Bandit Overhaul
+- Add Dragon War - A Dragon Overhaul
+- Add Carved Nordic Armors and Weapons Retexture
+- Add Main Menu Randomizer
+- Add Skyrim Scenery - Main Menu Randomizer (16x9)
+- Add Studded Elven Armor
+- Add First Person Combat Animations Overhaul - Katanas patch for various mods
+- Add Unarmed Weapon Speed Scaling and Unlocked Movement
+- Add Lux Orbis Misc Patches
+- Add Unique Stros M'Kai Rum
+- Add Vikings Weaponry
+- Add Imperial Guard Centurion Armor
+- Add Elven Ears for Breton NPCs
+- Add Infantry Armor
+- Add Practical Female Divine Crusader Armor
+- Add Infantry Armor SE - My patches
+- Add Robber's Gorge Fixes
+- Add Potion of Blood - My version
+- Add Vanilla hair - Salt and Wind
+- Add Salt and Wind - Rough Hair for KS Hairdos
+- Add The Holy Hand Grenade (Optional - Comedy)
+- Add Skyrim Laugh Track mod (Optional - Comedy)
+- Add Gilded Doublet
+- Add Lunar Guard Arsenal - Battleaxe
+- Add VickusDickus' Khajiiti Apex Armory
+- Add Khajiit Has Wears - A Caravan Khajiit Outfit SPID Overhaul
+- Add Better Argonian Horns
+- Add Environs - Riften Warehouse
+- Add GoT HotD - Diverse Dragons
+- Add Leviathan Animations II - Greatsword Normal Attacks
+- Add Ro - VioLens Preset
+- Update Gore
+- Update Unofficial eFPS patches
+- Update Natura
+- Update Bloodmoon
+- Update Abyss
+- Update Skyrim Landscape and Water Fixes
+- Update Vampires have Claws
+- Update Natural Waterfalls
+- Update ElSopa - Potions Redone - My patches
+- Update Nemesis Output
+- Update Survival Mode Improved
+- Update ENBSeries
+- Update Wood Chopping Blocks and Axes for Orc Strongholds
+- Update Sit on Stuff
+- Update Modular Armory
+- Update Misc Dialogue Edits
+- Update Vestige - An Artifact Overhaul
+- Update Molag's Will - A Vampire Skill Tree
+- Remove Bandit Spellswords
+- Remove Bandit Brawlers
+- Remove Skyrim Scenery - Main Menu Replacers
+- Remove Rudy HQ - Nordic Ruins
+- Remove Parallax Addon for Rudy's HQ Nordic Ruins
+
 # v1.2.3
 
 - UPDATE SIZE: SMALL
