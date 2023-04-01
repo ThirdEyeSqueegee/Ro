@@ -1,3 +1,28 @@
+# v1.3.1
+
+- UPDATE SIZE: SMALL
+- Add High Poly Dwemer Bowls and Pots
+- Add Ro - IED Left Hand Mesh Fix
+- Add Unmarked Locations Pack - Sovngarde
+- Add Skyrim on Skooma
+- Add Skyrim On Skooma MCM
+- Add Xelzaz' Telvanni Spellsword Armor 2K Retexture
+- Add DLC2TribalWerebearScript Fix
+- Add Iconic's Arvak Retexture
+- Update Natural Waterfalls
+- Update Real Dwemer Pipes
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Synthesis
+- Update Unofficial Skyrim Modder's Patch
+- Update NifSkope
+- Update Lawless - A Bandit Overhaul
+- Update Delta's Repository
+- Update Acoustic Space Improvement Fixes
+- Update Sprint Sneak Movement Speed Fix
+- Remove Mount Anthor Dragon Fix
+- Remove Humble Beginnings - A Lightweight Class Mod
+- Remove Dawnguard Rewritten - Arvak
+
 # v1.3.0
 
 - UPDATE SIZE: MEDIUM
