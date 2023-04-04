@@ -1,3 +1,62 @@
+# v1.3.2
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add Iconic's Ashman Retexture
+- Add Spaghetti's Towns - Kynesgrove
+- Add Iconic's Frost - Flame - Storm Atronach Retexture
+- Add Iconic's Spriggan Retexture
+- Add Object Categorization Framework
+- Add Aura's Inventory Tweaks for SkyUI
+- Add Flies around corpses - Mihail's Shards of Immersion
+- Add Don't Sheathe Bound Weapons - Adamant Patch (Thanks Outright_Table!)
+- Add Immersive Fat Idiot Son - Rufus (Optional - Comedy)
+- Add Higher Poly Vanilla Torch Sconce
+- Add Higher Poly Vanilla Saddles
+- Add Thieves Guild Dialogue Fix
+- Add Animus Artifacts AE
+- Add Dragonactorscript infinite loop fix
+- Add Less Repetitive Farmhouse Stonewalls
+- Add slightly Better EVIL Rock Cairns
+- Add JK's Windhelm Outskirts
+- Add JK's Windhelm Outskirts Patch Collection
+- Add RedBag's Dragonsreach
+- Add RedBag's Falkreath - Half-Moon Mill Addon
+- Add A Tribute to the Kaua'i 'o'o - Immersive Easter Eggs
+- Add Mountain Flowers Renamed
+- Add NPCs Names Distributor
+- Add Ashlander Nomads Names
+- Add Daedric Names
+- Add Reachmen Tribes Names
+- Add Dovah Names
+- Add Tamrielic Names
+- Update Skyrim on Skooma
+- Update Unmarked Locations Pack - Sovngarde
+- Update Vampires have Claws
+- Update Sons of Skyrim
+- Update GoT HotD - Diverse Dragons
+- Update Fluffworks Patches
+- Update Stretched Snow Begone
+- Update LamasTinyHUD (Optional - UI)
+- Update Skyrim Skill Uncapper
+- Update Sons of Skyrim - My patches and fixes
+- Update RMB SPIDified - Sons of Skyrim
+- Update Thieves Guild Requirements SE - Settings Loader
+- Update ENBSeries
+- Update ElSopa - Potions Redone - My patches
+- Update Icy Mesh Remaster
+- Update Skyrim Remastered - Glaciers and Ice - IMR Edition
+- Update Unofficial eFPS patches
+- Update Lawless - A Bandit Overhaul
+- Update Natural Waterfalls
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Update Facegen Output
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Sconce - Replacer
+
 # v1.3.1
 
 - UPDATE SIZE: SMALL
