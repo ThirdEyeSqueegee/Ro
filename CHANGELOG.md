@@ -1,3 +1,33 @@
+# v1.3.3
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE INSIDE A HOUSE OR STORE BEFORE UPDATING
+- Add Cozy Flame Atronachs - FLM
+- Add Driftshade Refuge Unlocked
+- Add ALT - RowBoat - The Gislinge - BOS
+- Add Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
+- Add Mists of Tamriel
+- Add Mists of Tamriel - Settings Loader
+- Add MergeMapper
+- Add FormList Manipulator - FLM
+- Add Mysticism - Cleaned and Upscaled Textures
+- Add Pilgrim - Cleaned and Upscaled Textures
+- Update Thieves Guild Requirements SE - Settings Loader
+- Update Fully Harvest Hanging Carcasses and Coin Purses
+- Update Vestige - An Artifact Overhaul
+- Update Unofficial eFPS patches
+- Update Praedy's Staves AIO Patch Hub
+- Update Mysticism - A Magic Overhaul
+- Update Adamant - A Perk Overhaul
+- Update Khajiit Has Wears - A Caravan Khajiit Outfit SPID Overhaul
+- Update Skyland Alchemy and Enchanting Tables
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Update Ro - IED Left Hand Mesh Fix
+- Remove AE Flame Atronachs give Warmth
+- Remove FYX - RowBoat
+
 # v1.3.2
 
 - UPDATE SIZE: LARGE
