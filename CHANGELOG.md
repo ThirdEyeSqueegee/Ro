@@ -1,3 +1,37 @@
+# v1.3.5
+
+- UPDATE SIZE: SMALL
+- Add Silverthorn Weaponry
+- Add Pirates Wield Scurvy Cutlasses
+- Add Akaviri Katana - Blades Sword Replacer
+- Add Bloodskal Blade 3
+- Add Mage Glass Sword
+- Add Lazy Weapon Pack
+- Add Duchy Sword
+- Add Belsky Swords
+- Add Echelon
+- Add Yol Hahkun
+- Add Alik'r Dragontail
+- Add Broadsword
+- Add Sarta - Leather Wrapped Sword
+- Add Amsvartner Warhammer
+- Add Velothi Warscythe
+- Add Scorpion Scimitar
+- Add Baltimore Weapons
+- Add Falchion
+- Add Knight Sword
+- Add Voam Sword
+- Add Sugaruya Katana
+- Add Poleaxe
+- Add Evening Star
+- Add Soulgem Stand Redone
+- Add Ashlander's Vestments - An Unofficial Thaumaturgy Addon
+- Update Vestige - An Artifact Overhaul
+- Update Natural Waterfalls
+- Update Ro - IED Left Hand Mesh Fix
+- Update Synthesis
+- Update ENBSeries
+
 # v1.3.4
 
 - UPDATE SIZE: SMALL
