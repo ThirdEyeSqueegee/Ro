@@ -1,3 +1,20 @@
+# v1.3.4
+
+- UPDATE SIZE: SMALL
+- Add Esbern Voice Consistency Fix
+- Add Saints and Seducers Bugs Around Skyrim
+- Add More Plantable Plants for Creation Club
+- Add Realms of Oblivion - Survival Mode Consistency
+- Add The Cause - Atronach Forge FormList Manipulator Patch
+- Add Enemy Resistance Tweaks
+- Update Khajiit Has Wears - A Caravan Khajiit Outfit SPID Overhaul
+- Update RMB SPIDified - Sons of Skyrim
+- Update Infantry Armor SE - My patches
+- Update DLC2TribalWerebearScript Fix
+- Update Stones of Solitude - Majestic Mountains Rocks
+- Update LamasTinyHUD (Optional - UI)
+- Fix crafting menu bottom bar
+
 # v1.3.3
 
 - UPDATE SIZE: LARGE
