@@ -1,3 +1,50 @@
+# V1.3.7
+
+- UPDATE SIZE: SMALL
+- Add Narrative Gameplay Consistent Dialogue Tweaks
+- Add More plants and recipes
+- Add Rally's Textures - Shibui Skyrim Recolor
+- Add The White Phial - My version
+- Add Vigilants - Mihail Monsters and Animals
+- Add Vigilants - My optimized textures
+- Add Statue of Sithis
+- Add Pilgrim - Sithis Patch
+- Add Chicken Replacer - Mihail Monsters and Animals
+- Add More Chicken Variants - Mihail Monsters and Animals
+- Add Mihail's Chickens - Cleaned and Optimized Textures
+- Add THICCEN - A Fat Chicken Replacer (Optional - Comedy)
+- Add All Dragons All Ohio (Optional - Comedy)
+- Update Lawless - A Bandit Overhaul
+- Update Timing is Everything SE - Settings Loader
+- Update Spell Perk Item Distributor
+- Update PAPER
+- Update Delayed Quest Starts
+- Update Adamant - A Perk Overhaul
+- Update Vestige - An Artifact Overhaul
+- Update Unofficial Skyrim Modder's Patch
+- Update Papyrus Profiler
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Static Mesh Improvement Mod Improvement Mod
+- Update ALT - RowBoat - The Gislinge - BOS
+- Update Lawless - A Bandit Overhaul
+- Update Survival Mode Improved - SKSE
+- Update Ashlander's Vestments - An Unofficial Thaumaturgy Addon
+- Update Embers XD
+
+# v1.3.6
+
+- UPDATE SIZE: SMALL
+- Update Icy Mesh Remaster
+- Update Skyrim Remastered - Glaciers and Ice - IMR Edition
+- Update ENBSeries
+- Update Lawless - A Bandit Overhaul
+- Update JK's Windhelm Outskirts Patch Collection
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Object Categorization Framework
+- Remove redundant patches
+- Misc. load order fixes
+
 # v1.3.5
 
 - UPDATE SIZE: SMALL
