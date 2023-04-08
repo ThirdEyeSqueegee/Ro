@@ -1,3 +1,38 @@
+# v1.3.9
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Towns - Old Hroldan
+- Add Balthazars Books - A Markarth Bookstore Remastered
+- Add Vulcano
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Kabu's Fire Salts
+- Update Amon Textures HD
+- Update Stellaris
+- Update Necrom
+- Update Bloodmoon
+- Update Abyss
+- Update Icy Mesh Remaster
+- Remove Dirt - HD Texture Replacer with Parallax
+- Move Equipment Toggle to Optional - Gameplay
+- Tweak BethINI config
+
+# v1.3.8
+
+- UPDATE SIZE: MEDIUM
+- Add Lux Via - Repaired Whiterun Bridge Add-on
+- Add Macho Dragons - SSE Port (Optional - Comedy)
+- Add Child Vampire Fix
+- Add Kabu's Void Salts
+- Add Kabu's Frost Salts
+- Add Kabu's Fire Salts
+- Add Amon Textures HD
+- Update Lawless - A Bandit Overhaul
+- Update Fearsome Fists - Thaumaturgy Consistency Patch
+- Update Paradigm - A Quick Start Overhaul
+- Update The White Phial - My version
+- Update xLODGen
+
 # V1.3.7
 
 - UPDATE SIZE: SMALL
