@@ -7,7 +7,3 @@
 ## Q: "Where can I find my crash logs?"
 
 ### A: `Documents\My Games\Skyrim Special Edition\SKSE`
-
-## Q: "How do I use the optional ENB?"
-
-### A: First, disable the two mods with "Rudy" in their name under the Weather & ENB section. Next, enable `Pi-Cho ENB - Foamimi's Preset` in the Optional Mods section.
