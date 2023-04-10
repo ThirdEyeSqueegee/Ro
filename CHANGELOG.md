@@ -1,3 +1,28 @@
+# v1.3.10
+
+- UPDATE SIZE: SMALL
+- Add Pitbull Mastiffs - Mihail Monsters and Animals
+- Add True Nordic Mountains - HD Mountain Textures
+- Add My Aching Back - Mattresses for Dwemer Beds
+- Add Hunter's Treehouse Player Home
+- Add Hummingbirds - Mihail Monsters and Animals
+- Add Toxin Doctor Outfit - Mihail Armors and Clothes
+- Add Vampire Outfit Overhaul
+- Add Bandit Hounds Overhaul
+- Update Iconic's Arvak Retexture
+- Update Vulcano
+- Update Vestige - An Artifact Overhaul
+- Update Flames of Coldharbour
+- Update Dragon War - A Dragon Overhaul
+- Update PAPER
+- Update Abyss
+- Update The White Phial - My version
+- Update Water for ENB
+- Update Spell Perk Item Distributor
+- Update Iconic's Spriggan Retexture
+- Update Amon Textures HD
+- Remove White Phial Replacer 4K
+
 # v1.3.9
 
 - UPDATE SIZE: SMALL
