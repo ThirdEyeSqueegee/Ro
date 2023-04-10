@@ -1,3 +1,35 @@
+# v1.3.11
+
+- UPDATE SIZE: SMALL
+- Add Comprehensive First Person Animation Overhaul
+- Add DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Add Bone Wolf Shutdown Fix
+- Add The Taste of Death Improved Shutdown
+- Add Self Paralysis Spell (Optional - Comedy)
+- Add ALT - Markarth's Forge
+- Add Wait Menu Redirected AE Support
+- Add Lenin as Talos (Optional - Comedy)
+- Add Gourd Plant Mesh Fix
+- Add Landscape Identification by Terrain Texture
+- Update Leaps of Faith - A Misc Quest
+- Update Bandit Hounds Overhaul
+- Update Icy Mesh Remaster
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Object Categorization Framework
+- Update Amon Textures HD
+- Update Bow of Shadows - Reduced Cut
+- Update Vulcano
+- Update RMB SPIDified - Core
+- Update RMB SPIDified - Guard Armor Replacer
+- Update RMB SPIDified - Sons of Skyrim
+- Remove Rumble Additions
+- Remove Practical Female Elven Hunter Armor
+- Remove Practical Female Steel Soldier Armor
+- Remove First Person Combat Animations Overhaul 2.0 - SIZE MATTERS
+- Remove First Person Combat Animations Overhaul - Dagger and Shield Fix
+- Remove First Person Combat Animations Overhaul - Katanas patch for various mods
+- Misc. load order tweaks
+
 # v1.3.10
 
 - UPDATE SIZE: SMALL
