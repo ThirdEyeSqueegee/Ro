@@ -75,6 +75,8 @@ Gameplay, Physics, and Animations:
 - SimonRim (+ complimentary mods)
 - Dareni's Spells (Abyss, Lunaris, Natura, etc.)
 - Paradigm - A Quick Start Overhaul
+- Lawless - A Bandit Overhaul
+- Dragon War - A Dragon Overhaul
 - Haugbui - A Draugr Overhaul
 - Precision
 - Headhunter
