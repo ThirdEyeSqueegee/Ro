@@ -1,3 +1,21 @@
+# v1.3.12
+
+- UPDATE SIZE: SMALL
+- Add Beards
+- Add Folded Rag Diversification
+- Add Ro - Dual Wield Parrying Controller Binding (Optional - Gameplay)
+- Update DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Update Wind Ruler Armor - My patches
+- Update Improved Follower Dialogue - Lydia
+- Update Better Gourd Plant
+- Update Survival Mode Improved - SKSE
+- Update RMB SPIDified - Sons of Skyrim
+- Update Yazakh - Custom-Voiced Orc Follower
+- Update Praedy's Staves AIO Patch Hub
+- Update ENBSeries
+- Update Ryn's Dragon Mounds Collection
+- Tweak uncapper preset (1 perk per level, 2 perks at level 5, 10, 20, 30, ...)
+
 # v1.3.11
 
 - UPDATE SIZE: SMALL
