@@ -1,3 +1,22 @@
+# v1.3.13
+
+- UPDATE SIZE: SMALL
+- Add Pumpkin Plant Overhaul
+- Add Spice of Life - Orc Strongholds
+- Add Spice of Life - FYX 3D Patches
+- Add Lorkhan's Vision - Moons
+- Add Strongholds - Narzulbur
+- Add Particle Lights for ENB - Shellbug
+- Add Wizards Sell Hoods
+- Add RMB SPIDified - Misc Patch Hub
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update RMB SPIDified - Guard Armor Replacer
+- Update Xelzaz' Telvanni Spellsword Armor Enhanced
+- Update ALT - Markarth's Forge
+- Update LamasTinyHUD (Optional - UI)
+- Update Better Pelts and Hides
+- Remove Rally's Textures - Shibui Skyrim Recolor
+
 # v1.3.12
 
 - UPDATE SIZE: SMALL
