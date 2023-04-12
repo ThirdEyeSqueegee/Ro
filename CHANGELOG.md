@@ -1,3 +1,35 @@
+# v1.3.14
+
+- UPDATE SIZE: SMALL
+- Add Comprehensive Attack Speed Patch - SKSE
+- Add Better Bellows - High Poly Blacksmith Bellows
+- Add Rally's Textures - Shibui Skyrim Recolor
+- Add Immersive Blacksmith Overhaul
+- Add Sofia - The Funny Fully Voiced Follower
+- Add Pandorable's Sofia replacer
+- Add Sofia - The Funny Fully Voiced Follower - Settings Loader
+- Add Sofia Bug and Patch Hub
+- Add Cozy Molten Atronachs for Vulcano - FLM (thanks Aosana!)
+- Update Lawless - A Bandit Overhaul
+- Update RMB SPIDified - Sons of Skyrim
+- Update Amon Textures HD
+- Update Strongholds - Narzulbur
+- Update Skyrim on Skooma
+- Update Natura
+- Update Vulcano
+- Update Dual Wield Parrying SKSE
+- Update Amon Textures HD
+- Update RMB SPIDified - Sons of Skyrim
+- Update Strongholds - Narzulbur
+- Update Hunter's Treehouse Player Home
+- Update Higher Poly Vanilla Cave Lamps
+- Update ElSopa - Potions Redone - My patches
+- Update Mundus - A Standing Stone Overhaul
+- Update RMB SPIDified - Misc Patch Hub
+- Update RMB SPIDified - Guard Armor Replacer
+- Remove Underground - Complex Parallax Addon
+- Tweak BethINI config
+
 # v1.3.13
 
 - UPDATE SIZE: SMALL
