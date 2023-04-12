@@ -1,3 +1,9 @@
+# v1.3.15
+
+- UPDATE SIZE: HOTFIX
+- Update Rally's Textures - Shibui Skyrim Recolor
+- Remove Sofia
+
 # v1.3.14
 
 - UPDATE SIZE: SMALL
