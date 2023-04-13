@@ -1,3 +1,12 @@
+# v1.3.16
+
+- UPDATE SIZE: MEDIUM
+- Add Rudy HQ - More dramatic Red Mountain Plume
+- Add Markarth LOD Unlock
+- Add HD Reworked Tree Bark - Happy Little Trees
+- Add Silver Armor and Weapons Retexture
+- Update Comprehensive Attack Speed Patch - SKSE
+
 # v1.3.15
 
 - UPDATE SIZE: HOTFIX
