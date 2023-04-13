@@ -1,3 +1,38 @@
+# v1.3.18
+
+- UPDATE SIZE: MEDIUM
+- Add Nordic Metalworks
+- Add Iconic's Jurgen Windcaller Tomb And Horn Retexture
+- Add Iconic's Alduin's Wall Retexture
+- Add Iconic's Weathered Dragonstone Retexture
+- Add Dismember Those Chaurus - Mihail's Shards of Immersion
+- Add The Killer Rabbit of Caerbannog
+- Add Instantly Skip Dialogue NG
+- Add Jelidity's Ryn's Karthspire Tweaks
+- Add Survival - Resist Frost Gives Warmth
+- Update Penitus Oculatus
+- Update Embers XD
+- Update FYX - 3D Stockades - Walls and Gate
+- Update FYX - 3D Stockades - Walls and Gate
+- Update ALT - Markarth's Forge
+- Update Natural Waterfalls
+- Update Vestige - An Artifact Overhaul
+- Update Facegen Output
+- Remove Tempered Racial Textures
+- Remove HD Reworked Tree Bark - Happy Little Trees
+- Misc. load order tweaks
+
+# v1.3.17
+
+- UPDATE SIZE: MEDIUM
+- Add SkySight Skins
+- Add Reverie - Skin
+- Update Pumpkin Plant Overhaul
+- Update Facegen Output
+- Remove Tempered Skins for Females
+- Remove Tempered Skins for Males
+- Alduin is now 16K
+
 # v1.3.16
 
 - UPDATE SIZE: MEDIUM
