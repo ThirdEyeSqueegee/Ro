@@ -1,3 +1,16 @@
+# v1.3.19
+
+- UPDATE SIZE: MEDIUM
+- Add Obscure's College of Winterhold Loot Rebalancing
+- Add Staves On Self Fix
+- Add Project ja-Kha'jay - Khajiit NPC Diversity Overhaul
+- Add Unofficial Project ja-Kha'jay Patch Hub
+- Add M'aiq the Alfiq (Optional - Comedy)
+- Update RMB SPIDified - New Legion
+- Update Comprehensive Attack Speed Patch - SKSE
+- Update Amon Textures HD
+- Remove Vanilla hair - Salt and Wind
+
 # v1.3.18
 
 - UPDATE SIZE: MEDIUM
