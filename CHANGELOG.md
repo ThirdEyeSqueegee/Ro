@@ -1,3 +1,30 @@
+# v1.3.20
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: RUN THE FOLLOWING COMMANDS IN THE CONSOLE AFTER UPDATING:
+  - `player.addspell fe1af857`
+  - `player.removespell fe1af857`
+  - Fast travel to a different location
+- Add Dismember Those Mudcrabs - Mihail's Shards of Immersion
+- Add SMIM hanging rabbits shell-textured
+- Add Lego Yoda Death SFX (Optional - Comedy)
+- Add Hokoron - Enemy Overhaul
+- Add Ascension
+- Update ALT - Markarth's Forge
+- Update Untarnished LamasTinyHUD Reskin (Optional - UI)
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Object Categorization Framework
+- Update PAPER
+- Update Adamant - A Perk Overhaul
+- Update Shout Organizer
+- Update Enemy Resistance Tweaks
+- Update Warming Hands
+- Update LamasTinyHUD (Optional - UI)
+- Update Lawless - A Bandit Overhaul
+- Update Bloodmoon
+- Update Abyss
+- Remove Rustic Reliefs
+
 # v1.3.19
 
 - UPDATE SIZE: MEDIUM
