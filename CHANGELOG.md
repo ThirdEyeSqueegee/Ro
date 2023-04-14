@@ -2,8 +2,8 @@
 
 - UPDATE SIZE: SMALL
 - UPDATE INSTRUCTIONS: RUN THE FOLLOWING COMMANDS IN THE CONSOLE AFTER UPDATING:
-  - `player.addspell fe1af857`
   - `player.removespell fe1af857`
+  - `player.addspell fe1af857`
   - Fast travel to a different location
 - Add Dismember Those Mudcrabs - Mihail's Shards of Immersion
 - Add SMIM hanging rabbits shell-textured
