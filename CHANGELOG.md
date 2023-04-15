@@ -1,3 +1,17 @@
+# v1.3.21
+
+- UPDATE SIZE: SMALL
+- Add King-Priest - Enhanced Dragon Priests
+- Add Seeking Out Sneaks
+- Add WOWBAGGER AND THE FOURTH WALL (Optional - Comedy)
+- Add M.H.A.R.P.H.I.N. (Optional - Comedy)
+- Add Metallic Statue of Talos 8k
+- Add 8k CC Ruin's Edge - Retexture
+- Add Bloody Mammoth Carcasses - Mihail's Shards of Immersion
+- Update Keyword Item Distributor
+- Remove ElSopa - Talos HD
+- Nerf Rabies disease and bandit hounds
+
 # v1.3.20
 
 - UPDATE SIZE: SMALL
