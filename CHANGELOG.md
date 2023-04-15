@@ -1,3 +1,27 @@
+# v1.3.22
+
+- UPDATE SIZE: SMALL
+- Add Katana Sounds - Sound Record Distributor
+- Add Truly-Auri-El bow
+- Add Truly-Auri-El shield
+- Add Spaghetti's Towns - Stonehills
+- Add Spaghetti's Towns - Nightgate Inn
+- Add Male Player Animations
+- Add Happy Little Logs
+- Update Ro - IED Left Hand Mesh Fix
+- Update Yazakh
+- Update Comprehensive First Person Animation Overhaul
+- Update Silver Armor - My version
+- Update Hokoron - Enemy Overhaul
+- Update Immersive folded hands
+- Update NPC Animation Remix
+- Update SMIM hanging rabbits shell-textured
+- Update Modular Armory
+- Update Bloody Mammoth Carcasses - My optimized textures
+- Update Amon Textures HD
+- Misc. load order tweaks
+- Revert PAPER to v2.1.0
+
 # v1.3.21
 
 - UPDATE SIZE: SMALL
