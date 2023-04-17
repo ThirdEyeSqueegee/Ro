@@ -1,3 +1,19 @@
+# v1.3.24
+
+- UPDATE SIZE: SMALL
+- Add Ro - Less Bright Potato Plant
+- Update Completionist
+- Update Bloody Mammoth Carcasses - My optimized textures
+- Update Strongholds - Largashbur
+- Update New Armory Series - Ash Spawn Weapons
+- Update Abyss
+- Update DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- Update Truly-Auri-El bow
+- Update ENBSeries
+- Update Natural Waterfalls
+- Update Amon Textures HD
+- Remove Higher Poly Vanilla Torch Sconce
+
 # v1.3.23
 
 - UPDATE SIZE: SMALL
