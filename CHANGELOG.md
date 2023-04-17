@@ -1,3 +1,32 @@
+# v1.3.23
+
+- UPDATE SIZE: SMALL
+- Add Dynamic Bow Animation
+- Add MM - REAL ELKS
+- Add More realistic fur and antlers for wall Mounted Female Elks
+- Add Strongholds - Largashbur
+- Add Solstheim Ash Storms with Glowing Embers
+- Add Ro - Less Emissive ElSopa Potions (thanks JTK!)
+- Add Cathedral Assets Optimizer
+- Add Cock Blockula (Optional - Comedy)
+- Update Folded Rag Diversification
+- Update Amon Textures HD
+- Update Keyword Item Distributor
+- Update Untarnished LamasTinyHUD Reskin (Optional - UI)
+- Update Dragon War - A Dragon Overhaul
+- Update Strongholds - Narzulbur
+- Update FormList Manipulator - FLM
+- Update Truly-Auri-El bow
+- Update Bow of Shadows - Reduced Cut
+- Update Flames of Coldharbour
+- Update Embers XD
+- Update Sons of Skyrim - My patches and fixes
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update Animated Forge Water
+- Update Creation Club - Reintegrated
+- Remove Better Bellows - High Poly Blacksmith Bellows
+- Tweak BethINI preset
+
 # v1.3.22
 
 - UPDATE SIZE: SMALL
