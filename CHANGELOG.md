@@ -1,3 +1,21 @@
+# v1.3.25
+
+- UPDATE SIZE: SMALL
+- Add ElSopa - Potions Redone - Less Emissive Potions
+- Add Mossy Whiterun Stonefloor Redone
+- Add Carriage Drivers - New Clothing
+- Add Kezyma's Curation Club for Mod Organizer
+- Update Amon Textures HD
+- Update Keyword Item Distributor
+- Update 8k CC Ruin's Edge - Retexture
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Immersive Rejections
+- Update Embers XD
+- Update Dwemer Automatons - Golden Dwemer Pipeworks Redone Patch
+- Update Weathered Bars and Counters Retexture
+- Update Gore
+
 # v1.3.24
 
 - UPDATE SIZE: SMALL
