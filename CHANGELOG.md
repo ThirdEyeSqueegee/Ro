@@ -1,3 +1,24 @@
+# v1.3.26
+
+- UPDATE SIZE: SMALL
+- Add Simply Reduced Loot
+- Add Skyrim Anniversary Edition Content - Golden Dwemer Pipeworks Redone Patch
+- Update Natural Waterfalls
+- Update Strongholds - Largashbur
+- Update Strongholds - Narzulbur
+- Update Embers XD
+- Update Vulcano
+- Update Sons of Skyrim - My patches and fixes
+- Update Stones of Solitude - Majestic Mountains Rocks
+- Update LOD Model Library for DynDOLOD
+- Update Chapter II - Jeremy Soule Inspired Music
+- Update ElSopa - Potions Redone - My patches
+- Update Carriage Drivers - New Clothing
+- Update Amon Textures HD
+- Update Embers XD
+- Update Ro - IED Left Hand Mesh Fix
+- Update Elven Ears for Breton NPCs
+
 # v1.3.25
 
 - UPDATE SIZE: SMALL
