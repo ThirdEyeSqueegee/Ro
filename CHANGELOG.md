@@ -1,3 +1,16 @@
+# v1.3.27
+
+- UPDATE SIZE: SMALL
+- Add First Person Target Locking Fix
+- Add Footprints
+- Add SPID for Footprints
+- Add SPID for Footprints fix
+- Add SPID for Footprints - Player Footprints Fix
+- Add More Realistic Antlers for Female Elk
+- Update Unofficial eFPS patches
+- Disable King-Priest dragon priest in Bleak Falls Barrow
+- Reduce hummingbird sfx volume
+
 # v1.3.26
 
 - UPDATE SIZE: SMALL
@@ -15,7 +28,6 @@
 - Update ElSopa - Potions Redone - My patches
 - Update Carriage Drivers - New Clothing
 - Update Amon Textures HD
-- Update Embers XD
 - Update Ro - IED Left Hand Mesh Fix
 - Update Elven Ears for Breton NPCs
 
