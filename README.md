@@ -35,5 +35,3 @@ Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/li
 - [biggie_boss &ndash; YouTube](https://www.youtube.com/watch?v=loFsLilC1UY)
 - [Digital Dreams &ndash; YouTube](https://www.youtube.com/watch?v=5OabYOmb05I)
 - [Deep Voice Gamer &ndash; YouTube](https://www.youtube.com/watch?v=PgYoI4yKRr8)
-
-This description is a work in progress.
