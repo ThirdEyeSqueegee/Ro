@@ -1,3 +1,21 @@
+# v1.3.28
+
+- UPDATE SIZE: SMALL
+- Add Khopesh
+- Add DLC2dunSeekerInvisScript Fix
+- Add Unique Towns - Base Object Swapper
+- Add Argonian Reptilian Feet
+- Add BSL - 4K Male Argonian Retexture
+- Update Embers XD
+- Update Skyrim Anniversary Edition Content - Golden Dwemer Pipeworks Redone Patch
+- Update Lawless - A Bandit Overhaul
+- Update Hokoron - Enemy Overhaul
+- Update Strongholds - Narzulbur
+- Update Truly-Auri-El bow
+- Update Folded Rag Diversification
+- Update SkySight Skins
+- Remove Masculine Argonian Textures
+
 # v1.3.27
 
 - UPDATE SIZE: SMALL
