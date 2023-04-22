@@ -1,3 +1,9 @@
+# v1.4.1
+
+- UPDATE SIZE: HOTFIX
+- Add Spaghetti's Towns - AIO
+- Remove individual Spaghetti's Towns mods
+
 # v1.4.0
 
 - UPDATE SIZE: LARGE
