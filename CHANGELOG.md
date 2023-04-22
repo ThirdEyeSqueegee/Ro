@@ -1,3 +1,32 @@
+# v1.4.0
+
+- UPDATE SIZE: LARGE
+- Add The Dragon Cult - A Draugr Overhaul
+- Add ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
+- Add Rum Induced Mountains
+- Add Console Commands Extender - Anniversary Edition Update
+- Update ERM - Enhanced Rocks and Mountains
+- Update slightly Better Rock Cairns
+- Update Animus Artifacts AE
+- Update Mannequin Management
+- Update Dragonborn Voice Over
+- Update Happy Little Logs
+- Update Weathered Furniture - Common and Upper Class
+- Update First Person Target Locking Fix
+- Update Facegen Output
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Majestic Mountains
+- Remove Majestic Mountains Double-Sided Patch
+- Remove Skyrim - A Mountainous Experience
+- Remove Majestic Mountains - More Accurate Collision
+- Remove Stones of Solitude - Majestic Mountains Rocks
+- Remove True Nordic Mountains - HD Mountain Textures - Grey 8K
+- Remove Majestic Mountains - Simplicity of Snow Patch
+- Remove Haugbui - A Draugr Overhaul
+- Remove Dovahkiin's Vault - Earlier Start
+
 # v1.3.28
 
 - UPDATE SIZE: SMALL
