@@ -6,10 +6,6 @@
 
 - The default key to summon your horse is H. If you'd like to change the binding to a different key or a controller button, navigate to `H2Horse.ini` in the `[NoDelete] Press H to Horse - Custom Keybind` mod to change the keybind. Note that the keybind **cannot** be changed once you have started a save.
 
-### Optional ENB
-
-- There is an optional ENB preset provided under Optional Mods. If you'd like to use this, _first_ disable `Rudy ENB Obsidian Weathers Required Files` and `Rudy ENB for Obsidian Weathers`.
-
 ### Optional mods
 
 - There are several optional mods under the Optional and Optional - Comedy separators. If you'd like to use them:
