@@ -1,3 +1,19 @@
+# v1.4.2
+
+- UPDATE SIZE: MEDIUM
+- Add Spear of Skyrim
+- Add Archery Rebalance
+- Add Vampire Lord Overhaul
+- Add British Swearing Mudcrabs (Optional - Comedy)
+- Add Bards Sing Rarely - Bards Go the F to Sleep Patch
+- Add Immersive Armors
+- Add Immersive Armors Retexture and Mesh Fixes
+- Add Immersive Armors - Asdasfa Tweaks and Fixes
+- Add Immersive Armors Replacer ESP and Patches
+- Add Immersive Armors SPID for the Replacer ESP
+- Add Hibernus - Frost Magic Sounds Overhaul
+- Remove Bosmer Armor Pack Retexture
+
 # v1.4.1
 
 - UPDATE SIZE: HOTFIX
