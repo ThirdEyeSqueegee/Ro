@@ -1,3 +1,16 @@
+# v1.5.0
+
+- UPDATE SIZE: SMALL
+- Add Natura - Spriggans
+- Update Ascension
+- Update Natura
+- Update Dragonborn Voice Over
+- Update Flames of Coldharbour
+- Update Abyss
+- Update Icy Mesh Remaster
+- Update Bloodmoon
+- Update PAPER
+
 # v1.4.3
 
 - UPDATE SIZE: SMALL
