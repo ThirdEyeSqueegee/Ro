@@ -1,3 +1,17 @@
+# v1.4.3
+
+- UPDATE SIZE: SMALL
+- Add Lux Orbis - Riverwood Street Lights addon
+- Add Sundials and Moondials - Immersive Clocks
+- Add Hammer and Whetstone - Portable Tempering
+- Add Mortar and Pestle - Portable Alchemy
+- Add Northern God Armor
+- Add Northern God Armor - My patches
+- Add Crimson Ranger Armor
+- Update Amon Textures HD
+- Update Nemesis Output
+- Misc. load order fixes
+
 # v1.4.2
 
 - UPDATE SIZE: MEDIUM
