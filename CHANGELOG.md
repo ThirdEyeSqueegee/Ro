@@ -1,3 +1,91 @@
+# v1.5.2
+
+- UPDATE SIZE: MEDIUM
+- Add DLC2MiraakScript Fix
+- Add Natura - Stone Atronach Retexture
+- Add Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
+- Add Kanjs - Bird Nests and Eggs
+- Add Kanjs Nests Egg Harvesting Fix
+- Add Realistic HD Mushrooms Remastered
+- Add Realistic HD Mushrooms Remastered - Rock Texture Integration
+- Add Slaughterfisheggs - Retexture
+- Add SkyFix SE - HD Blacksmith Signs
+- Add ElSopa HD - Workbench
+- Add Lore Friendly Goat Cheese HQ Retexture
+- Add Cheese Wedge - Replacer
+- Add Better Honey Nut Treats
+- Add Rally's Mead Barrels
+- Add Butterfly Improved by zzjay
+- Add Realistic Paper Parchment and Scroll Texture
+- Add Dovahnique's Diverse Decaying Fungal Pods
+- Add Rudy HQ - Hay
+- Add Iconic's Vampire Lord Retexture
+- Add Iconic's Spiders of Skyrim Retexture
+- Add Iconic's Gargoyle and Death Hound Retexture
+- Add HAGRAVEN
+- Add 4K Hagraven House
+- Add Subdivide and Smooth with complementary mesh fixes - Hagraven
+- Add GIANT
+- Add Burnt Corpses 2k-4k Textures Redone
+- Add ElSopa HD - Dirt Blast
+- Add ElSopa HD - Glorious Dummies
+- Add ElSopa - Papers HD
+- Add ElSopa HD - Dragonborn Skull Variants
+- Add ElSopa HD - Briar Heart
+- Add ElSopa HD - Remade Better Dust Piles
+- Add ElSopa HD - Meridias Beacon
+- Add ElSopa - HD Better Bloody Rags
+- Add Elsopa - Big Backpack
+- Add ElSopa HD - Ants
+- Add ElSopa HD - Organic Burial Urns
+- Add ElSopa - HD Giant Mortars Redone
+- Add ElSopa HD - Giant Paintings Variants
+- Add DRAUGR
+- Add TROLL
+- Add Rally's Quill and Inkwell
+- Add High Poly Dragonborn Ingredients Retextured
+- Add WiZkiD Carriages
+- Add Improved Dragonfly
+- Add ElSopa HD - Strider And Netches
+- Add ElSopa HD - Bristleback
+- Add Canis Root 2k-4k Textures Redone
+- Add Rally's Fishing Poles
+- Add Clams HD
+- Add Better Reach Trees
+- Add Fish Rack
+- Add SlaughterFish RTX
+- Update Strongholds - Narzulbur
+- Update Amon Textures HD
+- Update Paradigm - A Quick Start Overhaul
+- Update Simplicity of Snow
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update Adamant - A Perk Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update Unofficial eFPS patches
+- Update Vampire Lord Overhaul
+- Update Better Chests
+- Update Apothecary - An Alchemy Overhaul
+- Update Thaumaturgy - An Enchanting Overhaul
+- Update Royal Armory Plugin Replacer - Adjustments and Rebalancing for Thaumaturgy
+- Update CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
+- Update Lawless - A Bandit Overhaul
+- Update Paradigm - A Quick Start Overhaul
+- Update Whose Quest Is It Anyway
+
+# v1.5.1
+
+- UPDATE SIZE: SMALL
+- Add Higher Poly Vanilla Torch Sconce
+- Add YAR - Yuril's Additional Resources
+- Add Whiterun Defensive Stockade Walls
+- Add Obsidian Weathers and Seasons MCM Patch
+- Add Obsidian Weathers and Seasons MCM Patch - Settings Loader
+- Update Amon Textures HD
+- Update Embers XD
+- Update Animated Forge Water
+- Update Survival Mode Improved - SKSE
+- Remove Unofficial Project ja-Kha'jay Patch Hub
+
 # v1.5.0
 
 - UPDATE SIZE: SMALL
