@@ -18,7 +18,6 @@
 - Add Butterfly Improved by zzjay
 - Add Realistic Paper Parchment and Scroll Texture
 - Add Dovahnique's Diverse Decaying Fungal Pods
-- Add Rudy HQ - Hay
 - Add Iconic's Vampire Lord Retexture
 - Add Iconic's Spiders of Skyrim Retexture
 - Add Iconic's Gargoyle and Death Hound Retexture
