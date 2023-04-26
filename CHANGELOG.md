@@ -1,3 +1,56 @@
+# v1.5.4
+
+- UPDATE SIZE: SMALL
+- Add More-Truly-Auri-El set
+- Add Angi's Target Sounds
+- Add Vittorias Alternate Wedding - Patches
+- Add Ro - New Legion - Optimized Meshes
+- Add Ro - Sons of Skyrim - Optimized Meshes
+- Add Infernorum - Fire Magic Sounds Overhaul
+- Add More Hircinic Aspects of Hircine - Mihail's Shards of Immersion
+- Add Rudy HQ - Miscellaneous
+- Add Optimized meshes for ENB lights Rustic Rudy Misc Silverware
+- Add Praedy's repository
+- Add ENB IMOD Separator
+- Update Amon Textures HD
+- Update RaceCompatibility for Skyrim Special Edition
+- Update Dragonborn Voice Over
+- Update JS Purses and Septims Load Screen and Static Patch
+- Update Iconic's Vampire Lord Retexture
+- Update Whiterun Defensive Stockade Walls
+- Update Skyrim Landscape and Water Fixes
+- Update Paradigm - A Quick Start Overhaul
+- Update Fluffworks Patches
+- Update Ro - IED Left Hand Mesh Fix
+- Update YAR - Yuril's Additional Resources
+- Update Thaumaturgy - An Enchanting Overhaul
+- Remove Truly-Auri-El Bow
+- Remove Truly-Auri-El Shield
+
+# v1.5.3
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: ENSURE THAT YOU ARE NOT IN COMBAT WHILE USING RUEFUL AXE OR AEGISBANE BEFORE UPDATING
+- Add Renthal's workbench
+- Add RUSTIC FORSWORN
+- Add Rally's Werewolf Totems
+- Add Mora Tapinella 4k
+- Add Amy's Replacement Spell Runes
+- Add Spiky grass by Mari
+- Add Spiky Grass Mesh Improvements
+- Add Nordic Barnacle Redone
+- Add Dusty Vampire Dust
+- Add Frankly HD Dragon Bones
+- Add 4K HQ Cowhide Yeehaw
+- Add Dragon Bones and Scales
+- Add Immersive HD Banners
+- Add Sigils of Skyrim
+- Update Vestige - An Artifact Overhaul
+- Update Hibernus - Frost Magic Sounds Overhaul
+- Update Skyrim Landscape and Water Fixes
+- Update Iconic's Vampire Lord Retexture
+- Remove ElSopa HD - Workbench
+
 # v1.5.2
 
 - UPDATE SIZE: MEDIUM
