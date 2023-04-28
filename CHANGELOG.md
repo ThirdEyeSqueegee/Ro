@@ -1,3 +1,33 @@
+# v1.5.5
+
+- UPDATE SIZE: LARGE
+- Add Leather Armors Retexture
+- Add Northern Farmhouses
+- Add Northern Farmhouses Patched
+- Add High Quality Food and Ingredients
+- Add RUSTIC COOKING
+- Add Thunder Sounds - WiZkiD Mix
+- Add Dust Adept Armor
+- Add Dust Adept Armor - Tweaks and Edits
+- Add Dust Adept Armor Weight Fix
+- Add Flames of Coldharbour - Deadly Spell Impacts Decals Patch
+- Add Ferrum Nibenis
+- Add Ferrum Nibenis - My Patches
+- Add Ferrum Nibenis SPID
+- Add Vocaris - Conjuration Sounds Overhaul
+- Add Fulminis - Shock Magic Sounds Overhaul
+- Add Underground 4K
+- Update DLC2dunSeekerInvisScript Fix
+- Update Unofficial eFPS patches
+- Update Spell Perk Item Distributor
+- Update Iconic's Spiders of Skyrim Retexture
+- Update More-Truly-Auri-El set
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Remove Lore Friendly Goat Cheese HQ Retexture
+- Remove Nordic Metalworks
+- Remove Underground - a dungeon texture overhaul
+
 # v1.5.4
 
 - UPDATE SIZE: SMALL
