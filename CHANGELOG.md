@@ -1,3 +1,20 @@
+# v1.5.6
+
+- UPDATE SIZE: SMALL
+- Add Female Player Animations
+- Add Guardian Shield - God of War
+- Add Kratos Guardian Shield Animated
+- Add Spaghetti's Towns AIO - Northern Farmhouses Patch
+- Update Vampire Lord Overhaul
+- Update Icy Mesh Remaster
+- Update Strongholds - Narzulbur
+- Update DynDOLOD
+- Update Whiterun Defensive Stockade Walls
+- Update Paradigm - A Quick Start Overhaul
+- Remove Dragonborn Voice Over and voicepacks
+- Remove Gravunlom - a Riften Texture Overhaul
+- Fix sleeping NPCs being invulnerable to damage
+
 # v1.5.5
 
 - UPDATE SIZE: LARGE
