@@ -1,3 +1,49 @@
+# v1.5.10
+
+- UPDATE SIZE: MEDIUM
+- Add CC's Enhanced Ore Veins
+- Update Vulcano
+- Remove Dynamic Animation Casting - NG
+
+# v1.5.9
+
+- UPDATE SIZE: HOTFIX
+- Update Thaumaturgy - An Enchanting Overhaul
+
+# v1.5.8
+
+- UPDATE SIZE: SMALL
+- Add Arclight
+- Add Dynamic Animation Casting - NG
+- Add Taunt Your Enemies - Taunting Matters
+- Add Remote Interactions
+- Add Remote Interactions - Settings Loader
+- Add Thunderbolt - HD Lightning
+- Add CC's HQ Mines Redone
+- Add CC's HQ Mines Redone Parallax
+- Add Comfy Ragged Flagon
+- Add ElSopa - New Enchantment Textures
+- Add Mammoth Cheese Retexture
+- Add Medieval Spirits
+- Add Needled Tundra Shrub Take Two
+- Add Sowables of Skyrim - Scrumptious Cabbages
+- Add Sowables of Skyrim - Leeks
+- Add Visage of Mzund - My version
+- Add Weapon Styles - Draw-Sheathe animations
+- Add Arctic - Frost Effects Redux
+- Add 4K HQ Puddles
+- Add EVG Conditional Idles - Settings Loader
+- Add Skyland Animated Mead and Ale Bottles
+- Update Paradigm - A Quick Start Overhaul
+- Update Vampire Lord Overhaul
+- Update Daedric Shrines - All in One - My Patches
+- Update Paarthurnax - Quest Expansion
+- Update Vulcano
+- Update Nemesis Output
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Remove Harvestables Cabbages Addon for High Poly Project
+
 # v1.5.7
 
 - UPDATE SIZE: MEDIUM
