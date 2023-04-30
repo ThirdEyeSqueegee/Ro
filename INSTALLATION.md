@@ -19,3 +19,7 @@
 - Read the [first-time setup guide](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md)
 - Find `ModOrganizer.exe` in the folder you installed the modlist to
 - Click the "Run" button on the top right in MO2 to launch Ro
+
+## Reinstallation
+
+In case something goes wrong during installation, reinstall the list by exiting Wabbajack, launching it again, and starting the installation again **with the addition of checking the `Overwrite` box**.
