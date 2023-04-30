@@ -1,6 +1,9 @@
 # Preinstallation
 
-Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022).
+- Clean install Skyrim to a location _outside_ `Program Files`. Make sure you delete the `Skyrim Special Edition` folder in `Appdata\Local` before reinstalling
+- Launch Skyrim through Steam and download the Creation Club content
+- Exit Skyrim after the Creation Club content has been downloaded
+- Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 # Installation
 
