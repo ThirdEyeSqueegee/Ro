@@ -1,3 +1,31 @@
+# v1.5.7
+
+- UPDATE SIZE: MEDIUM
+- Add Dovahnique's Diverse Dark Elf Lanterns
+- Add Dovahnique's Diverse Vendor Carts
+- Add Dovahnique's Diverse Deadly Nightshade
+- Add Dovahnique's Diverse Deathbells
+- Add Better Dirt Cliffs and Alphas
+- Add Dremora Sets - Mihail Armors and Clothes
+- Add Netch Leather Armor - Mihail Armors and Clothes
+- Add Handicapped Citizens - Mihail NPCs and Followers
+- Add Vanilla Texture Paths for Mihail's Disabled Citizens
+- Add AnimalPajamaSE (Optional - Comedy)
+- Add Spaghetti's Solstheim - Raven Rock
+- Add Detailed Carriages 2.0
+- Add SFS Ghost Goop - Ectoplasm
+- Add Sun Reworked
+- Add Ro - IED Preset
+- Update Resurgence Armory
+- Update Guardian Shield - God of War
+- Update Kratos Guardian Shield Animated
+- Update Iconic's Vampire Lord Retexture
+- Update Skyrim on Skooma
+- Update Skyrim On Skooma MCM
+- Update Paradigm - A Quick Start Overhaul
+- Remove Cheese Wedge - Replacer
+- Fix grass flickering in Shadowgreen Cavern
+
 # v1.5.6
 
 - UPDATE SIZE: SMALL
