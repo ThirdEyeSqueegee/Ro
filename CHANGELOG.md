@@ -762,7 +762,7 @@
 - Update The White Phial - My version
 - Update xLODGen
 
-# V1.3.7
+# v1.3.7
 
 - UPDATE SIZE: SMALL
 - Add Narrative Gameplay Consistent Dialogue Tweaks
