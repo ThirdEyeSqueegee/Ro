@@ -1,3 +1,25 @@
+# v1.5.11
+
+- UPDATE SIZE: MEDIUM
+- Add Icy Caves
+- Add Dovah Nord Weapons
+- Add Unique Thane Weapons
+- Add todd armor (Optional - Comedy)
+- Update Skyrim Scenery - Main Menu Replacers
+- Update ENBSeries
+- Update Remote Interactions - Settings Loader
+- Update Unique Towns - Base Object Swapper
+- Update Vulcano
+- Update The Dragon Cult - A Draugr Overhaul
+- Update Gore
+- Update Lux Orbis - Riverwood Street Lights addon
+- Update Skyland Animated Mead and Ale Bottles
+- Update Remiel-Custom Voiced Dwemer Specialist and Companion
+- Update Spear of Skyrim - Thaumaturgy patch
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Less Repetitive Farmhouse Stonewalls
+- Fix Heavy Armory first person animations (thanks Star!)
+
 # v1.5.10
 
 - UPDATE SIZE: MEDIUM
