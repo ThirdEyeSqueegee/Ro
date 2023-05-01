@@ -2,6 +2,7 @@
 
 - `H`: Summon horse
 - `L`: Toggle lantern
+- `V`: Dual wield parry (`Back/Wait` button on controller)
 - `X`: Toggle compass
 - `Y`: Remote Interaction
 - `F3`: Where Are You? menu
