@@ -1,7 +1,9 @@
 # Default Keybinds
 
 - `H`: Summon horse
+- `L`: Toggle lantern
 - `X`: Toggle compass
+- `Y`: Remote Interaction
 - `F3`: Where Are You? menu
 - `F5`: Quicksave
 - `F7`: ENB FPS counter
