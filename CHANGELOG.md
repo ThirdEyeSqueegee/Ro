@@ -1,3 +1,24 @@
+# v1.5.12
+
+- UPDATE SIZE: MEDIUM
+- Add HD Werewolf Retexture
+- Add Vampire Lord Demonic Retexture
+- Add aljos Apothecary Patches
+- Add Fluffy Wall Mounted Dead Animals
+- Add Cathedral - 3D Mountain Flowers - Alternate Textures
+- Add Animated Cart Canopy
+- Update Praedy's Staves AIO Patch Hub
+- Update Ferrum Nibenis - My Patches
+- Update Guardian Shield - God of War
+- Update Skyland Landscapes Parallax
+- Update Kratos Guardian Shield Animated
+- Update Vampire Lord Overhaul
+- Update Project ja-Kha'jay
+- Update SPID for Footprints fix
+- Remove Iconic's Vampire Lord Retexture
+- Remove Vampire Lord Demonic Retexture - 8K
+- Remove some redundant Apothecary patches
+
 # v1.5.11
 
 - UPDATE SIZE: MEDIUM
@@ -47,7 +68,6 @@
 - Add ElSopa - New Enchantment Textures
 - Add Mammoth Cheese Retexture
 - Add Medieval Spirits
-- Add Needled Tundra Shrub Take Two
 - Add Sowables of Skyrim - Scrumptious Cabbages
 - Add Sowables of Skyrim - Leeks
 - Add Visage of Mzund - My version
