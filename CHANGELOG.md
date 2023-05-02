@@ -15,7 +15,6 @@
 - Update Project ja-Kha'jay
 - Update SPID for Footprints fix
 - Remove Iconic's Vampire Lord Retexture
-- Remove Vampire Lord Demonic Retexture - 8K
 - Remove some redundant Apothecary patches
 
 # v1.5.11
