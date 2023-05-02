@@ -1,3 +1,26 @@
+# v1.5.13
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add New Creature Attack Animation - Riekling and Goblin
+- Add New Creature Animation - Lurker
+- Add New Creature Animation - Giant
+- Add New Creature Animation - Falmer
+- Add New Creature Animation - Troll
+- Add New Creature Animation - Frost Atronach
+- Add First Person Combat Animations Overhaul 2.0
+- Add First Person Combat Animations Overhaul - Dagger and Shield Fix
+- Add First Person Combat Animations Overhaul - Katanas patch for various mods
+- Add Precision Creatures
+- Update Detailed Carriages 2.0
+- Update More-Truly-Auri-El set
+- Update Infernorum - Fire Magic Sounds Overhaul
+- Update Fulminis - Shock Magic Sounds Overhaul
+- Update Nemesis Creature Behaviour Compatibility
+- Update Ro - Nemesis Output
+- Remove Squirrels of Skyrim
+- Remove Comprehensive First Person Animation Overhaul - CFPAO
+
 # v1.5.12
 
 - UPDATE SIZE: MEDIUM
