@@ -4,7 +4,7 @@
 
 # Ro - A Graphics-Focused Modlist
 
-## "What a grand and intoxicating innocence!"
+## "And the Scrolls have foretold, of black wings in the cold..."
 
 ### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Installation](https://github.com/ThirdEyeSqueegee/Ro/blob/main/INSTALLATION.md) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408) | [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist)
 
