@@ -16,14 +16,6 @@
 
 ## Do this AFTER you launch the game
 
-### Immersive Equipment Displays
-
-1. Once you load into the world, hit `backspace`.
-2. Click on `File` > `Import/export`.
-3. Select `Missile's IED Preset for Dummies` and click on import.
-4. A new dialogue box should open.
-5. Select "merge" at the bottom right of this dialog box and save.
-
 ### MCM Configuration
 
 - Go through the MCM settings and modify as you see fit, although everything has been preconfigured. You may want to look at the modpages for each mod before changing any settings.
