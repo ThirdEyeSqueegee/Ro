@@ -2,7 +2,6 @@
 
 - UPDATE SIZE: MEDIUM
 - Add HD Werewolf Retexture
-- Add Vampire Lord Demonic Retexture
 - Add aljos Apothecary Patches
 - Add Fluffy Wall Mounted Dead Animals
 - Add Cathedral - 3D Mountain Flowers - Alternate Textures
