@@ -1,3 +1,31 @@
+# v1.5.14
+
+- UPDATE SIZE: SMALL
+- Add Rudy HQ - Nordic Ruins Lever
+- Add WISPMOTHER
+- Add RUSTIC DAEDRA
+- Add Riekling Barrels SMIM
+- Add Rally's Riekling Outposts
+- Add Particle Lights for ENB - Riekling Outposts
+- Add ALT - The Snow Elves Throne
+- Add DLC2dunFrostmoonTriggerScript Optimization
+- Add Dwemer Tonal Weaponry
+- Add Dwemer Tonal Weaponry - AIO - Golden Dwemer Pipeworks Redone Patch
+- Add Shas' Fancy Dwemer Crossbows
+- Add Shas' Regal Crossbows
+- Add Immersive Display Overhaul
+- Add Showing off Stuff - Put random things on plaques
+- Add The Facebreaker - Meridia's Beacon on a Mace (Optional - Comedy)
+- Add Kanjs - Phoenix Feather
+- Add Ghosts of the Tribunal - Particle Lights for ENB Addon
+- Add Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+- Add Rudification - Rudy Candles Expanded
+- Update Snazzy Items for Khajiit Will Follow
+- Update Hokoron - Enemy Overhaul
+- Update More-Truly-Auri-El set
+- Update Precision Creatures
+- Update Ro - Nemesis Output
+
 # v1.5.13
 
 - UPDATE SIZE: SMALL
