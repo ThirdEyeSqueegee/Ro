@@ -1,3 +1,10 @@
+# v1.5.16
+
+- UPDATE SIZE: HOTFIX
+- Add Skyland Granite Mountains
+- Enable BOOBIES and THICC
+- Remove True Nordic Mountains
+
 # v1.5.15
 
 - UPDATE SIZE: SMALL
