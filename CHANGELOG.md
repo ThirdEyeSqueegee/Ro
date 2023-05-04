@@ -1,3 +1,19 @@
+# v1.5.15
+
+- UPDATE SIZE: SMALL
+- Add GKB Waves Reborn
+- Add True Nordic Mountains
+- Add Spear of Skyrim - Golden Dwemer Pipeworks Redone Patch
+- Add The Handy Icon Collection Collective
+- Add B.O.O.B.I.E.S
+- Update Detailed Carriages 2.0
+- Update Kratos Guardian Shield Animated
+- Update Caught Red Handed - Quest Expansion
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks
+- Remove Rum Induced Mountains
+- Fix lighting templates in certain locations
+
 # v1.5.14
 
 - UPDATE SIZE: SMALL
