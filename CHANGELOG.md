@@ -1,3 +1,19 @@
+# v1.5.17
+
+- UPDATE SIZE: SMALL
+- Update Remote Interactions
+- Update The Handy Icon Collection Collective
+- Update Aura's Inventory Tweaks
+- Update Hammer and Whetstone - Portable Tempering
+- Update Mortar and Pestle - Portable Alchemy
+- Update Praedy's Staves AIO Patch Hub
+- Update Caught Red Handed - Quest Expansion
+- Update Paradigm - A Quick Start Overhaul
+- Remove ElSopa Big Backpack
+- Remove Icy Mesh Remaster ENB Addon
+- Fix Riften Docks floating lanterns
+- Misc. load order fixes
+
 # v1.5.16
 
 - UPDATE SIZE: HOTFIX
