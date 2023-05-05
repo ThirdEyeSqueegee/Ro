@@ -1,3 +1,17 @@
+# v1.5.18
+
+- UPDATE SIZE: SMALL
+- Add Falmer Armors and Weapons Retexture
+- Add More Hircinic Aspects of Hircine - My optimized textures
+- Add Humble Beginnings - A Lightweight Class Mod
+- Update Paradigm - A Quick Start Overhaul
+- Update Don't Stay in The Water
+- Update ALT - The Snow Elves Throne
+- Update Gore
+- Update B.O.O.B.I.E.S
+- Update Unofficial eFPS patches
+- Update Skyland Animated Mead and Ale Bottles
+
 # v1.5.17
 
 - UPDATE SIZE: SMALL
