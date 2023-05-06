@@ -1,3 +1,19 @@
+# v1.6.3
+
+- UPDATE SIZE: SMALL
+- Add Animated Ice Floes
+- Add Kanjs - War Horns
+- Add RemoveAllItems Freeze Fix
+- Add Spaghetti's Solstheim - Tel Mithryn
+- Add Immortal Remnant - Redguard Elite Armor Variants
+- Add Skyland Granite Mountains - Darker
+- Update Sowables of Skyrim - Scrumptious Cabbages
+- Update Markarth Mossy Lite
+- Update Universal Cured Serana Eye Fix
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks
+- Update Khajiit Will Follow
+
 # v1.6.2
 
 - UPDATE SIZE: HOTFIX
