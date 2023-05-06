@@ -1,3 +1,8 @@
+# v1.6.1
+
+- UPDATE SIZE: HOTFIX
+- Add Deiform Alduin
+
 # v1.6.0
 
 - UPDATE SIZE: SMALL
