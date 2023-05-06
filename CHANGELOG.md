@@ -1,3 +1,8 @@
+# v1.6.2
+
+- UPDATE SIZE: HOTFIX
+- Remove Deiform Alduin
+
 # v1.6.1
 
 - UPDATE SIZE: HOTFIX
