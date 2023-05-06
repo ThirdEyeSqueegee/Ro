@@ -1,3 +1,18 @@
+# v1.6.0
+
+- UPDATE SIZE: SMALL
+- Add Stormcrown - A Shout Overhaul
+- Update Unofficial eFPS patches
+- Update More-Truly-Auri-El set
+- Update HotD Dragons - Conquest Trio
+- Update Mortar and Pestle - Portable Alchemy
+- Update Hammer and Whetstone - Portable Tempering
+- Remove Forceful Tongue - Shouts Overhaul
+- Remove Dragonborn - Shouts Perk Tree
+- Remove Narra as Yazakh
+- Remove Deiform Alduin
+- Remove The Practical Dwemechanic - A Remiel Replacer
+
 # v1.5.18
 
 - UPDATE SIZE: SMALL
