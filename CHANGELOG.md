@@ -1,3 +1,10 @@
+# v1.6.4
+
+- UPDATE SIZE: HOTFIX
+- Add Better tomboys DAR animations
+- Update Animated Ice Floes
+- Tweak Skyland Granite Mountains recolor
+
 # v1.6.3
 
 - UPDATE SIZE: SMALL
