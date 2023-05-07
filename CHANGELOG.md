@@ -1,3 +1,27 @@
+# v1.6.5
+
+- UPDATE SIZE: MEDIUM
+- Add Project ja-Kha'jay - Khajiit Will Follow Addon
+- Add SIRENROOT - Deluge of Deceit
+- Add Desecration
+- Add Hyperion - Restoration Sounds Overhaul
+- Update Ascension
+- Update Sowables of Skyrim - Leeks
+- Update Immersive Armors - Asdasfa Tweaks and Fixes
+- Update Khajiit Will Follow - Unique Perks for KWF Followers
+- Update Animated Ice Floes
+- Update Gore
+- Update Arclight
+- Update Adamant - A Perk Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update Mysticism - A Magic Overhaul
+- Update Stormcrown - A Shout Overhaul
+- Update Unofficial eFPS patches
+- Update Facegen Output
+- Update DynDOLOD
+- Remove eeekie's Khajiit Will Follow Replacer
+- Flag 57 plugins as ESL
+
 # v1.6.4
 
 - UPDATE SIZE: HOTFIX
