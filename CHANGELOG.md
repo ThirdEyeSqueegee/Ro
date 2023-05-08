@@ -1,3 +1,18 @@
+# 1.6.6
+
+- UPDATE SIZE: SMALL
+- Add Kabu's Really Gourd Plant Replacer
+- Add Desecration - Deadly Spell Impacts Decals Patch
+- Add Dawnstar - Fixed fences
+- Add Ancient Moons
+- Update Survival Mode Improved - SKSE
+- Update Better tomboys DAR animations
+- Update Detailed Carriages 2.0
+- Update Khajiit Will Follow
+- Update Facegen Output
+- Remove Better Gourd Plant
+- Remove Lorkhan's Vision - Moons
+
 # v1.6.5
 
 - UPDATE SIZE: MEDIUM
