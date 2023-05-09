@@ -1,3 +1,46 @@
+# v1.6.7
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: LAUNCH RESAVER (in Ro\Tools), LOAD YOUR LATEST SAVE, AND RUN "CLEAN" -> "REMOVE UNDEFINED ELEMENTS" AFTER UPDATING AND BEFORE LAUNCHING THE GAME
+- Add Hype's Farmhouse Door - Shibui Skyrim version by Xtudo - 4K-2K
+- Add Improved Theater
+- Add JK's Warmaiden's
+- Add Stormy's Wooden Megapints
+- Add Wooden Megapints Retextured
+- Add magicAttachAshPileOnDeath and Disintegrate Perk Fix
+- Add MQ104PlayerScript Fix
+- Add HD Remastered Imperial Forts - Complex Parallax
+- Add Cathedral - 3D Solstheim Grass
+- Add Blind people DAR animations
+- Update Desecration
+- Update Universal Cured Serana Eye Fix
+- Update SIRENROOT - Deluge of Deceit
+- Update Illustrious Whiterun
+- Update Stormcrown - A Shout Overhaul
+- Update Animated Ice Floes
+- Update The Dragon Cult - A Draugr Overhaul
+- Update Gore
+- Update Master Chef - The Art of Tamrielic Cooking
+- Update Project ja-Kha'jay - Khajiit Will Follow Addon
+- Update Paradigm - A Quick Start Overhaul
+- Update Facegen Output
+- Remove Rudy HQ - Standing Stones
+- Remove HQ Imperial Forts 4k-2k
+- Remove NPCs Names Distributor
+- Remove Ashlander Nomads Names
+- Remove Daedric Names
+- Remove Dovah Names
+- Remove Reachmen Tribes Names
+- Remove Tamrielic Names
+- Remove Unique Solstheim Grass
+- Remove Immersive Armors
+- Remove Immersive Armors Retexture and Mesh Fixes
+- Remove Immersive Armors - Asdasfa Tweaks and Fixes
+- Remove Immersive Armors - Replacer and Patches
+- Remove Immersive Armors SPID for the Replacer ESP
+- Nerf Mihail's pitbulls
+- Misc. load order fixes
+
 # 1.6.6
 
 - UPDATE SIZE: SMALL
