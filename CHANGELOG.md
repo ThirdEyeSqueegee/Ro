@@ -1,3 +1,9 @@
+# v1.6.8
+
+- UPDATE SIZE: HOTFIX
+- Add Immortal Remnant - Redguard Elite Reintegration Patches
+- Enable some plugins that were accidentally left disabled
+
 # v1.6.7
 
 - UPDATE SIZE: MEDIUM
