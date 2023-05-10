@@ -1,3 +1,20 @@
+# v1.6.9
+
+- UPDATE SIZE: SMALL
+- Add Horse-Slaying Saber
+- Add Hot Lava - Heat Distortion
+- Add Ro - Heavy Armory - Spear of Skyrim Patch
+- Update MQ104PlayerScript Fix
+- Update Blind people DAR animations
+- Update Universal Cured Serana Eye Fix
+- Update CoMAP - Common Marker Addon Project
+- Update Vampire Lord Overhaul
+- Update Khajiit Will Follow
+- Update ENBSeries
+- Remove CC Pets Addon - Spiders Spin Webs
+- Fix Solitude guard shield distribution
+- Tweak EVG Conditional Idles preset
+
 # v1.6.8
 
 - UPDATE SIZE: HOTFIX
