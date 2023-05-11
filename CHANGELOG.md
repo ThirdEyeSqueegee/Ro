@@ -1,3 +1,26 @@
+# v1.6.11
+
+- UPDATE SIZE: MEDIUM
+- Add RS Children Overhaul
+- Add RS Children - BUVARP SE RE
+- Add Realistic RS Children Overhaul
+- Add Prince and the Pauper - Realistic RS Children Patch
+- Add Lux - Illustrious Whiterun - Parallax'd
+- Add Lux - Riften of Reverie - Parallax'd
+- Add Lux Orbis - Riften of Reverie - Parallax'd
+- Add Environs - Hroggar's House
+- Add Wall mounted dead animals fixes
+- Add Fluffy Wall Mounted Dead Animals
+- Add The Black Door Revoiced
+- Add Dialogue Tweak - Eorlund Gray-Mane and Civil War Quartermasters
+- Add Ancient Nord Armors and Weapons Retexture
+- Update Environs - The Shrines of Talos
+- Update Dwemer Pipework Reworked
+- Update Audio Overhaul for Skyrim
+- Update Gore
+- Update Animated Ice Floes
+- Update Unofficial eFPS patches
+
 # v1.6.10
 
 - UPDATE SIZE: HOTFIX
