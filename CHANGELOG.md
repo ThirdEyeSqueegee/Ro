@@ -1,3 +1,11 @@
+# v1.6.10
+
+- UPDATE SIZE: HOTFIX
+- Update Animated Ice Floes
+- Remove Skyrim Objects SMIMed - Glazed and Nordic Pottery
+- Revert CoMAP to v3.4.2
+- Misc. load order fixes
+
 # v1.6.9
 
 - UPDATE SIZE: SMALL
