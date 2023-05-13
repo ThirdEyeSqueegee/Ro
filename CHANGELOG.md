@@ -1,3 +1,48 @@
+# v1.6.12
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: SAVE ANYWHERE EXCEPT SOLSTHEIM BEFORE UPDATING
+- Add Higher Poly Vanilla Wolfskull Altar
+- Add Kanjs - Skull of Corruption
+- Add SC - KS Hairdos Retextured
+- Add Perk Entry Point Extender
+- Add Atronach Friendly Fire
+- Add Spaghetti's Solstheim - AIO
+- Add Environs - Master Plugin
+- Add TAA Deblur
+- Add Grass Sampler Fix
+- Update Assorted mesh fixes
+- Update Audio Overhaul for Skyrim
+- Update Stormcrown - A Shout Overhaul
+- Update Dual Wield Parrying SKSE
+- Update Destination Weddings
+- Update Detailed Carriages 2.0
+- Update Fluffy Wall Mounted Dead Animals
+- Update Higher Poly Vanilla Alchemy Stations
+- Update Khajiit Will Follow
+- Update MergeMapper
+- Update Mossy Whiterun Stonefloor Redone
+- Update Vanilla Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Update Modular Armory
+- Update Lux Via
+- Update Flames of Coldharbour
+- Update Desecration
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update Environs - The Shrines of Talos
+- Update Environs - Kolskeggr
+- Update Hibernus - Frost Magic Sounds Overhaul
+- Update Audio Overhaul for Skyrim
+- Update Detailed Carriages 2.0
+- Update Natura - Spriggans
+- Update Environs - Hroggar's House
+- Update MQ104PlayerScript Fix
+- Update Arclight
+- Update Dragon War - A Dragon Overhaul
+- Update Stormcrown - A Shout Overhaul
+- Remove Spaghetti's Solstheim - Raven Rock
+- Remove Spaghetti's Solstheim - Tel Mithryn
+- Misc. load order fixes
+
 # v1.6.11
 
 - UPDATE SIZE: MEDIUM
