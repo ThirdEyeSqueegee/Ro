@@ -1,3 +1,10 @@
+# v1.6.13
+
+- UPDATE SIZE: SMALL
+- Update Lawless - A Bandit Overhaul
+- Update Flame Atronach SE - Variants by Aewin
+- Remove Grass Sampler Fix
+
 # v1.6.12
 
 - UPDATE SIZE: MEDIUM
