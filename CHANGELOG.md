@@ -1,3 +1,37 @@
+# v1.6.14
+
+- UPDATE SIZE: SMALL
+- Add Lux - Golden Dwemer Pipeworks Redone Patch
+- Add Statue of Kynareth
+- Add Sons of Skyrim - Markarth Guards in Golden Dwemer Pipeworks Style
+- Add Aetherial Crown
+- Add Aetherial Crown SE - Golden Dwemer Pipeworks Redone Patch
+- Add Icy Cave Remaster
+- Add DLC2PillarBuilderActorScript Tweak
+- Update Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Update Bloodmoon
+- Update Necrom
+- Update Stellaris
+- Update Icy Mesh Remaster
+- Update Vulcano
+- Update Arclight
+- Update Gesture Animation Remix
+- Update Immortal Remnant - Redguard Elite Reintegration Patches
+- Update Environs - Hroggar's House
+- Update Better tomboys DAR animations
+- Update Ro - IED Left Hand Mesh Fix
+- Update Ro - New Legion - Optimized Meshes
+- Update Ro - Sons of Skyrim - Optimized Meshes
+- Update ENBSeries
+- Update Gore
+- Update Humble Beginnings - A Lightweight Class Mod
+- Remove A Potato Plant
+- Remove Ro - Less Bright Potato Plant
+- Remove Skyrim Remastered - Caves
+- Remove Icy Caves
+- Tweak ENB config
+- Tweak BethINI config
+
 # v1.6.13
 
 - UPDATE SIZE: SMALL
