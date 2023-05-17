@@ -1,3 +1,28 @@
+# v1.6.15
+
+- UPDATE SIZE: SMALL
+- Add Conditional Expressions - Subtle Face Animations - Settings Loader
+- Add Kynareth Replaces Talos - Civil War Consequence
+- Add World Encounter Hostility Fix
+- Add Snazzy Items for Inigo
+- Add Snazzy Interiors - Whiterun House Battle-Born
+- Add Snazzy Interiors - Whiterun House Gray-Mane
+- Update Icy Cave Remaster
+- Update Illustrious Whiterun
+- Update Higher Poly Vanilla Alchemy Stations
+- Update Gore
+- Update Riften Docks Overhaul
+- Update Animated Ivy
+- Remove LamasTinyHUD (Optional - UI)
+- Remove LamasTinyHUD - Untarnished UI Skin (Optional - UI)
+- Remove More Immersive Activations (Optional - UI)
+- Remove Equipment Toggle (Optional - Gameplay)
+- Remove Immersive Spell Learning - DESTified (Optional - Gameplay)
+- Remove Smash Open SKSE - Lock Overhaul (Optional - Gameplay)
+- Remove Weather of World
+- Remove Comfy Ragged Flagon
+- Rework load order
+
 # v1.6.14
 
 - UPDATE SIZE: SMALL
