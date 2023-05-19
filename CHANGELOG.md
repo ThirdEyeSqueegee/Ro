@@ -1,3 +1,30 @@
+# v1.6.16
+
+- UPDATE SIZE: SMALL
+- Add ENB Light Inventory Fix (ELIF)
+- Add Vanilla Table Replacers
+- Add FYX - Vanilla Table Replacers
+- Add Snazzy Interiors Patch Collection
+- Add NAT.ENB III
+- Add Mists of Tamriel for NAT ENB
+- Add Maormer Seascale Set
+- Add Maormer Seascale Set - My Patches
+- Add Weather of World (Optional for Rudy ENB)
+- Add Nordic Jarl Longhouses
+- Update Paradigm - A Quick Start Overhaul
+- Update Stellaris
+- Update Lunaris
+- Update Kynareth Replaces Talos - Civil War Consequence
+- Update Flame Atronach SE - Variants by Aewin
+- Update BeastHHBB
+- Update Vanilla Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Update Icy Mesh Remaster
+- Update Stormcrown - A Shout Overhaul
+- Update Ferrum Nibenis SPID
+- Update Aetherius - A Race Overhaul
+- Update Icy Mesh Remaster
+- Rudy ENB for Obsidian Weathers is now optional
+
 # v1.6.15
 
 - UPDATE SIZE: SMALL
