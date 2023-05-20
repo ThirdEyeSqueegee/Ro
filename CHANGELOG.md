@@ -1,3 +1,19 @@
+# v1.6.17
+
+- UPDATE SIZE: SMALL
+- Add Statue of Kynareth - My patches
+- Add Diverse Foods
+- Add Nightingale Armor and Weapons Retexture
+- Update Mundus - A Standing Stone Overhaul
+- Update Aetherius - A Race Overhaul
+- Update Higher Poly Vanilla Alchemy Stations
+- Update World Encounter Hostility Fix
+- Update SIRENROOT - Deluge of Deceit
+- Update ElSopa Potions Redone - Less Emissive and Fixed Inventory Size
+- Remove Frankly HD Nightingale Armor and Weapons
+- Remove Frankly HD Imperial Armor and Weapons
+- Tweak ENB config
+
 # v1.6.16
 
 - UPDATE SIZE: SMALL
