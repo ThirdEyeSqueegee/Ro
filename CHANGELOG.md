@@ -1,3 +1,15 @@
+# v1.6.18
+
+- UPDATE SIZE: MEDIUM
+- Add Rudy ENB for NAT
+- Update Statue of Kynareth - My patches
+- Update Khajiit Has Wares
+- Update Icy Mesh Remaster
+- Update Animated Ice Floes
+- Update FYX - Vanilla Table Replacers
+- Remove Statue of Kynareth
+- Remove Statue of Kynareth - My patches
+
 # v1.6.17
 
 - UPDATE SIZE: SMALL
