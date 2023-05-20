@@ -2,7 +2,6 @@
 
 - UPDATE SIZE: MEDIUM
 - Add Rudy ENB for NAT
-- Update Statue of Kynareth - My patches
 - Update Khajiit Has Wares
 - Update Icy Mesh Remaster
 - Update Animated Ice Floes
