@@ -19,7 +19,6 @@
 - Update The Dragon Cult - A Draugr Overhaul
 - Update Snazzy Interiors Patch Collection
 - Update Rudy ENB for NAT 3
-- Update Arcane
 - Update Animated Ice Floes
 - Update ALT - The Snow Elves Throne
 - Update FYX - Vanilla Table Replacers
