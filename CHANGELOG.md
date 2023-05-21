@@ -1,3 +1,33 @@
+# v1.6.19
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Palaces - Dragonsreach
+- Add Arcane
+- Add Conditional Expressions Extended
+- Add Snazzy Interiors - Riften Snow-Shod Manor
+- Add Make Any Gore Twerk Shout (Optional - Comedy)
+- Add A Nirnroot
+- Update Unique Towns - Base Object Swapper
+- Update LOD Model Library for DynDOLOD
+- Update Environs - The Shrines of Talos
+- Update Conditional Expressions - Subtle Face Animations - Settings Loader
+- Update NAT.ENB III
+- Update Lunaris
+- Update CoMAP
+- Update Humble Beginnings - A Lightweight Class Mod
+- Update Use Those Blankets
+- Update The Dragon Cult - A Draugr Overhaul
+- Update Snazzy Interiors Patch Collection
+- Update Rudy ENB for NAT 3
+- Update Arcane
+- Update Animated Ice Floes
+- Update ALT - The Snow Elves Throne
+- Update FYX - Vanilla Table Replacers
+- Update Ferrum Nibenis - My Patches
+- Remove Less Bright Vvardenfell 3D Plume for ENB
+- Remove optional ENB
+- Remove Pilgrim - Sithis Patch
+
 # v1.6.18
 
 - UPDATE SIZE: MEDIUM
