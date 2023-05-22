@@ -1,3 +1,20 @@
+# v1.6.20
+
+- UDPATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add JK's Riften Outskirts
+- Add JK's Riften Outskirts Patch Collection
+- Update Dragon War - A Dragon Overhaul
+- Update Animated Ice Floes
+- Update Detailed Carriages 2.0
+- Update Diverse Foods - Base Object Swapper
+- Update Gore
+- Update CC's HQ Mines Redone Parallax
+- Update DynDOLOD
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+
 # v1.6.19
 
 - UPDATE SIZE: SMALL
