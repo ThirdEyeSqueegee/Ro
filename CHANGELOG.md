@@ -1,3 +1,15 @@
+# v1.6.21
+
+- UPDATE SIZE: SMALL
+- Add 4thUnknown's DB armor - Fixes and improvements for vanilla bodies
+- Update College of Winterhold HD - Parallax
+- Update Paradigm - A Quick Start Overhaul
+- Update FYX - Vanilla Table Replacers
+- Update Snazzy Interiors Patch Collection
+- Update Castle Volkihar HD Parallax
+- Update ENBSeries
+- Remove Mists of Tamriel
+
 # v1.6.20
 
 - UDPATE SIZE: LARGE
