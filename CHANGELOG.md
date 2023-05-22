@@ -1,3 +1,11 @@
+# v1.6.22
+
+- UPDATE SIZE: LARGE
+- Update Hand to Hand - An Adamant Addon
+- Update Stormcrown - A Shout Overhaul
+- Update DynDOLOD Output
+- Misc. load order fixes
+
 # v1.6.21
 
 - UPDATE SIZE: SMALL
