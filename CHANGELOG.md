@@ -1,3 +1,30 @@
+# v1.6.23
+
+- UPDATE SIZE: SMALL
+- Add Whale Bones on Coasts - Mihail's Shards of Immersion
+- Add Whale Bones on Coasts - My optimized textures
+- Add The Coachmen
+- Add Nordic UI Active Effects for SkyUI
+- Update Kabu's Really Gourd Plant Replacer
+- Update Vampire Lord Overhaul
+- Update Nordic Jarl Longhouses
+- Update Paradigm - A Quick Start Overhaul
+- Update Diverse Foods - Base Object Swapper
+- Update Conditional Expressions Extended
+- Update Bloodmoon
+- Update Illustrious Whiterun
+- Update Conditional Expressions - Subtle Face Animations - Settings Loader
+- Update Mundus - A Standing Stone Overhaul
+- Update Natura
+- Update Animated Ice Floes
+- Update Creation Club - Reintegrated
+- Update FYX - Vanilla Table Replacers
+- Update Better-Shaped Bows of the Heavens
+- Update Northern Farmhouses
+- Update Icy Cave Remaster
+- Remove Simple Scroll Transcribing
+- Remove Northern Farmhouses Patched
+
 # v1.6.22
 
 - UPDATE SIZE: LARGE
