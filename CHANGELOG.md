@@ -1,3 +1,57 @@
+# v1.6.24
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: SAVE IN AN EXTERIOR LOCATION BEFORE UPDATING
+- Add JK's Sinderion's Field Laboratory
+- Add JK's Elgrim's Elixirs
+- Add JK's The Temple of Mara
+- Add JK's Castle Dour
+- Add JK's Septimus Signus's Outpost
+- Add JK's The Bards College
+- Add JK's Temple of the Divines
+- Add JK's Arnleif and Sons Trading Company
+- Add JK's Arcadia's Cauldron
+- Add JK's Radiant Raiment
+- Add JK's Riverwood Trader
+- Add JK's The Bee and Barb
+- Add JK's Understone Keep
+- Add JK's Haelga's Bunkhouse
+- Add JK's Sky Haven Temple
+- Add JK's New Gnisis Cornerclub
+- Add JK's The Winking Skeever
+- Add JK's Palace of the Kings
+- Add JK's Temple of Talos
+- Add JK's The Bannered Mare
+- Add JK's Sadri's Used Wares
+- Add JK's Temple of Kynareth
+- Add JK's Temple of Dibella
+- Add JK's Mistveil Keep
+- Add JK's The Hag's Cure
+- Add JK's Silver-Blood Inn
+- Add JK's The Pawned Prawn
+- Add JK's Sleeping Giant Inn
+- Add JK's White Phial
+- Add JK's Candlehearth Hall
+- Add JK's Bits and Pieces
+- Add JK's Angeline's Aromatics
+- Add JK's The Drunken Huntsman
+- Add JK's Belethor's General Goods
+- Add JK's Interiors Patch Collection
+- Add JK's Guild HQ Interiors Patch Collection
+- Update Animated Ice Floes
+- Update TAA Deblur
+- Update Rudy HQ - More dramatic Red Mountain Plume
+- Update slightly Better EVIL Rock Cairns
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Distinct Interiors
+- Remove Distinct Interiors - Fixes
+- Remove Distinct Interiors Redux
+- Remove Distinct Interiors - FPS Fix
+- Remove Distinct Interiors Fixes - Whiterun and Player Homes Restored
+- Remove Distinct Interiors Patch Collection
+- Remove Immersive Display Overhaul
+- Remove Showing off Stuff - Put random things on plaques
+
 # v1.6.23
 
 - UPDATE SIZE: SMALL
