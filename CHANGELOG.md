@@ -1,3 +1,24 @@
+# v1.6.25
+
+- UPDATE SIZE: SMALL
+- Add Unique Towns - Nordic Jarl Longhouses Patch - Parallaxed
+- Add Hanging Dead Chickens - Mihail's Shards of Immersion
+- Add Mihail's Hanging Dead Chickens (BOS Version)
+- Add Dawnguard Armors and Weapons Retexture
+- Add CC Farming Rebalanced
+- Update Stormcrown - A Shout Overhaul
+- Update Skyrim Scenery - Main Menu Replacers
+- Update Icy Cave Remaster
+- Update Riften Docks Overhaul
+- Update World Encounter Hostility Fix
+- Update Gore
+- Update Adamant - A Perk Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update Conditional Expressions Extended
+- Update Paradigm - A Quick Start Overhaul
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Frankly HD Dawnguard Armor and Weapons
+
 # v1.6.24
 
 - UPDATE SIZE: SMALL
