@@ -1,3 +1,20 @@
+# v1.6.26
+
+- UPDATE SIZE: SMALL
+- Add Morthal Barrow
+- Add Journeyman - A Fast Travel Overhaul
+- Add Snazzy Interiors - Riften Black-Briar Manor
+- Update Blade and Blunt - A Combat Overhaul
+- Update ENBSeries
+- Update Snazzy Interiors Patch Collection
+- Update Aetherius - A Race Overhaul
+- Update Detailed Carriages 2.0
+- Update Remote Interactions
+- Update Nordic UI Active Effects for SkyUI
+- Update Diverse Foods - Base Object Swapper
+- Update NAT.ENB III
+- Remove Unlimited Fast Travel
+
 # v1.6.25
 
 - UPDATE SIZE: SMALL
