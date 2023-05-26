@@ -1,3 +1,15 @@
+# v1.6.27
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: SAVE ANYWHERE EXCEPT JORRVASKR BEFORE UPDATING
+- Add Ferrymen - New Clothing
+- Add Leviathan Animations II - Greatsword Power Attacks
+- Update Blade and Blunt - A Combat Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Remove No Disarm (Unequip Instead)
+- Remove Shouting Obliterates Skeletons
+- Remove JK's Jorrvaskr
+
 # v1.6.26
 
 - UPDATE SIZE: SMALL
