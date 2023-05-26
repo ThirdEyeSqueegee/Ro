@@ -1,7 +1,6 @@
 # v1.6.25
 
 - UPDATE SIZE: SMALL
-- Add Unique Towns - Nordic Jarl Longhouses Patch - Parallaxed
 - Add Hanging Dead Chickens - Mihail's Shards of Immersion
 - Add Mihail's Hanging Dead Chickens (BOS Version)
 - Add Dawnguard Armors and Weapons Retexture
