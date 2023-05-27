@@ -1,3 +1,25 @@
+# v1.6.28
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Palaces - Blue Palace
+- Add Leviathan Animations II - Greatsword Power And Sprint Attacks
+- Update Unofficial Skyrim Special Edition Patch
+- Update High Gate Ruins Puzzle Reset Fix
+- Update Morthal Barrow
+- Update Ferrymen - New Clothing
+- Update Blade and Blunt - A Combat Overhaul
+- Update Vulcano
+- Update Desecration
+- Update Stellaris
+- Update Necrom
+- Update Bloodmoon
+- Update Abyss
+- Update Lunaris
+- Update Natura
+- Update The Handy Icon Collection Collective
+- Remove HQ Fort Dawnguard 4k-2k
+- Remove Leviathan Animations II - Greatsword Power Attacks
+
 # v1.6.27
 
 - UPDATE SIZE: SMALL
