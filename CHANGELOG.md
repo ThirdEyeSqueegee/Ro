@@ -1,3 +1,35 @@
+# v1.6.29
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add The Ferrymen
+- Add Casting Bar
+- Add Custom Cubemaps
+- Add NPCs React To Invisibility
+- Add More Dialogue Options
+- Add Masque of Clavicus Vile
+- Update Unofficial Skyrim Special Edition Patch
+- Update Better Argonian Horns
+- Update Paradigm - A Quick Start Overhaul
+- Update The Handy Icon Collection Collective
+- Update Unofficial eFPS patches
+- Update Sowables of Skyrim - Leeks
+- Update FormList Manipulator - FLM
+- Update JK's Riften Outskirts Patch Collection
+- Update ENBSeries
+- Update Iconic Statues
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Lux - Illustrious Whiterun - Parallax'd
+- Remove Hummingbirds - Mihail Monsters and Animals
+- Remove Salt and Wind - Rough Hair for KS Hairdos Lite
+- Remove Frankly HD Masque of Clavicus Vile
+- Remove Unique Map Weather - Vanilla Additions
+- Remove Rudy HQ - More Lights for ENB - Deathbells and Nirnroots
+- Remove Amon - Skull Pedestal - HD Textures 4k
+- Remove TB's Better Foam
+- Tweak BethINI config
+- Misc. load order fixes
+
 # v1.6.28
 
 - UPDATE SIZE: SMALL
