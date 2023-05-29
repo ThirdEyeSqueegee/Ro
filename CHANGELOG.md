@@ -1,3 +1,122 @@
+# v1.7.0
+
+- UPDATE SIZE: LARGE
+- Add NPCs Names Distributor
+- Add Tamrielic Names
+- Add Reachmen Tribes Names
+- Add Ashlander Nomads Names
+- Add Dovah Names
+- Add Daedric Names
+- Add Artifacts of the Ancestors
+- Add Ascension 2
+- Add Inigo the Suave
+- Add The Dragon Cult - Expanded
+- Add Race Compatibility Dialogue - Bandit Lines Expansion
+- Add Race Compatibility Dialogue for Khajiit Will Follow
+- Add Kachunk - Creation Club Crossbow Distribution
+- Add Item organizer - remove sell and add items directly from the Inventory
+- Add Snazzy Bookcases - Base Object Swapper
+- Add Chico the Comedy Khajiit
+- Add Belethor's Sister - Quest
+- Add Subclasses of Skyrim
+- Update ENBSeries
+- Update Rudy ENB for NAT 3
+- Update Headhunter - Bounties Redone
+- Update Unofficial Skyrim Modder's Patch
+- Update Embers XD
+- Update The Handy Icon Collection Collective
+- Update Lux
+- Update NPCs React To Invisibility
+- Update Environs - Master Plugin
+- Update Environs - The Shrines of Talos
+- Update Environs - The Ruined Tundra Farmhouse
+- Update Environs - The Greenwood Shack
+- Update Environs - Whiterun Watchtower Doesn't Stay Broken
+- Update Environs - Kolskeggr
+- Update Environs - Riften Warehouse
+- Update Environs - Hroggar's House
+- Update Icy Mesh Remaster
+- Update Vanilla Scripting Enhancements
+- Update Paradigm - A Quick Start Overhaul
+- Update Detailed Carriages 2.0
+- Update Leviathan Animations II - Greatsword Power And Sprint Attacks
+- Update Immortal Remnant - Redguard Elite Reintegration Patches
+- Update Icy Cave Remaster
+- Update Rudy HQ - More dramatic Red Mountain Plume
+- Update Ro - IED Left Hand Mesh Fix
+- Update Facegen Output
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove ENB Lights For Effect Shaders
+- Remove Dynamic Weather and Time Based Detection
+- Remove Ascension
+- Remove Sundials and Moondials - Immersive Clocks
+- Remove Vision Quest - Dynamic Intoxication Effects
+- Remove Unofficial Vision Quest Patch Hub
+- Remove I'm Glad You're Here - a follower and spouse appreciation mod
+- Remove Improved Follower Dialogue - Lydia
+- Remove Improved Follower Dialogue - Lydia - Lipsync Minor Fix
+- Remove Improved Follower Dialogue - Lydia - INIGO (Minor Patch)
+- Remove Improved Follower Dialogue - Lydia and Lucien (Minor Patch)
+- Remove Rain Extinguishes Fires
+- Remove Pantheon - Worship and Prayer
+- Remove Capitals and Towns of Skyrim
+- Remove Hunter's Treehouse Player Home
+- Remove Pitbull Mastiffs - Mihail Monsters and Animals
+- Remove Handicapped Citizens - Mihail NPCs and Followers
+- Remove Vanilla Texture Paths for Mihail's Disabled Citizens
+- Remove Dovahnique's High Poly Inigo Replacer
+- Remove Archery Rebalance
+- Remove VioLens - A Killmove Mod
+- Remove VioLens - A Killmove Mod SE - Legacy Settings Loader
+- Remove Ro - moreHUD preset
+- Remove Simonrim Attack Speed Fix
+- Remove Adamant - Simonrim Attack Speed Fix - Creation Club Dawnfang Bloodthirst Patch
+- Remove GKB Waves Reborn
+- Remove Mannequin Management
+- Remove Bandit Hounds Overhaul
+- Remove Spells of the Madgod - Summonable ECSS Creatures
+- Remove Cathedral - 3D Dragons Tongue with ENB Light and Glow Map
+- Remove Soft Shadows
+- Remove Bright Waterfall Fix for ENB
+- Remove Bright Waterfall Fix for ENB Fix - Purple wind
+- Remove Solstheim Ash Storms with Glowing Embers
+- Remove Sun Reworked
+- Remove Twilight
+- Remove First Person Target Locking Fix
+- Remove Skyrim Project Optimization SE
+- Remove Lux - Riften of Reverie - Parallax'd
+- Remove Optional - Audio category
+- Remove Knight of the North
+- Remove Lock Related Loot
+- Remove Simply Reduced Loot
+- Remove Heavy Armory - New Weapons
+- Remove Heavy Armory - Resurgence Patches
+- Remove Heavy Armory - Thaumaturgy Patch
+- Remove Heavy Armory - New Weapons - Golden Dwemer Pipeworks Redone Patch
+- Remove Ro - Heavy Armory - Spear of Skyrim Patch
+- Remove New Armory Series - Lunar Steel Weapons -- A Silent Moons Camp Overhaul
+- Remove Miscellaneous Load Screen Text Fixes
+- Remove Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Remove Race Compatibility Dialogue for Xelzaz
+- Remove Xelzaz - Apothecary Patch
+- Remove Xelzaz' Telvanni Spellsword Armor 2K Retexture
+- Remove Coast and Marsh - HD Texture Replacer with Parallax
+- Remove Fall Forest - HD Texture Replacer with Parallax
+- Remove Field Grass - HD Texture Replacer with Parallax
+- Remove Pine Forest - HD Texture Replacer with Parallax
+- Remove Reach - HD Texture Replacer with Parallax
+- Remove River Stone - HD Texture Replacer with Parallax
+- Remove Serene Shores
+- Remove Tundra - HD Texture Replacer with Parallax
+- Remove Volcanic Tundra - HD Texture Replacer with Parallax
+- Remove Parallax Bridges and Roads 4k
+- Remove Parallax Riften Garden Walls
+- Remove TB's Improved Smoke
+- Remove Immersive War and Violence
+- Remove Riften City Grass Remover
+
 # v1.6.29
 
 - UPDATE SIZE: MEDIUM
