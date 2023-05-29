@@ -1,3 +1,8 @@
+# v1.7.1
+
+- UPDATE SIZE: HOTFIX
+- Add Dual Casting Fix
+
 # v1.7.0
 
 - UPDATE SIZE: LARGE
