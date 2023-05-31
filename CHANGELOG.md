@@ -1,3 +1,23 @@
+# v1.7.2
+
+- UPDATE SIZE: SMALL
+- Add Reading Is Bad SKSE
+- Update Artifacts of the Ancestors
+- Update Environs - Master Plugin
+- Update The Coachmen
+- Update Environs - Kolskeggr
+- Update Belethor's Sister - Quest
+- Update Lux
+- Update Environs - The Ruined Tundra Farmhouse
+- Update NPCs React To Invisibility
+- Update NPCs Names Distributor
+- Update Unique Towns - Base Object Swapper
+- Update Vampire Lord Overhaul
+- Update Paradigm - A Quick Start Overhaul
+- Update Embers XD
+- Update Vestige - An Artifact Overhaul
+- Tweak BethINI config
+
 # v1.7.1
 
 - UPDATE SIZE: HOTFIX
