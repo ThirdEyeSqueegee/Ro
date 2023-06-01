@@ -1,3 +1,33 @@
+# v1.7.3
+
+- UPDATE SIZE: SMALL
+- Add Open Animation Replacer
+- Add Dynamic Gamma SKSE
+- Add Pie 4K-8K by iimlenny
+- Add Bread 4K-8K by iimlenny
+- Add Ro - NPCs Names Distributor Preset
+- Update Reading Is Bad SKSE
+- Update Belethor's Sister - Quest
+- Update Weapon Styles - Draw-Sheathe animations
+- Update Skyrim on Skooma
+- Update Morthal Barrow
+- Update NPCs React To Invisibility
+- Update Gore
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Conditional Armor Type Animations
+- Update Vanargand Animations - Female Idle Walk and Run
+- Update Vanargand Animations - Male Idle Walk and Run
+- Update Vanargand Animations - Sprint
+- Update Goetia Animations - Female Idle Walk And Run
+- Update Goetia Animations - Male Idle Walk And Run
+- Update Goetia Animations - Sprint
+- Update Leviathan Animations II - Female Idle Walk And Run
+- Update Leviathan Animations II - Male Idle Walk And Run
+- Update Leviathan Animations II - Sprint
+- Update Ascension 2
+- Update Nemesis Output
+- Remove Dynamic Animation Replacer
+
 # v1.7.2
 
 - UPDATE SIZE: SMALL
