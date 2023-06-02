@@ -1,3 +1,27 @@
+# v1.7.4
+
+- UPDATE SIZE: MEDIUM
+- Add Snazzy Noble Wardrobes - Base Object Swapper
+- Add Skyrim Priority SE AE - skse plugin
+- Add DLC2AudioRepeaterActivator01Script Tweak
+- Add SkyUI 3D Item Offset Fix
+- Add Amon Textures HD AIO
+- Add Falmeri Frost Mare Mount - Mihail Monsters and Animals
+- Add Close-quarter Lectures
+- Update Dynamic Gamma SKSE
+- Update Pie 4K-8K by iimlenny
+- Update Bread 4K-8K by iimlenny
+- Update Belethor's Sister - Quest
+- Update Snazzy Interiors - Riften Black-Briar Manor
+- Update Weapon Styles - Draw-Sheathe animations
+- Update slightly Better EVIL Rock Cairns
+- Update Resaver
+- Update SIRENROOT - Deluge of Deceit
+- Update Conditional Armor Type Animations
+- Update Reading Is Bad SKSE
+- Update Nordic Faces
+- Remove individual Amon Textures mods
+
 # v1.7.3
 
 - UPDATE SIZE: SMALL

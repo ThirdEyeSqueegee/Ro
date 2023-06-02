@@ -1,3 +1,7 @@
+## Rule 11
+
+Modifying the list forfeits the ability to ask for support. If you modify the list, it's at your own risk.
+
 ## To add your own mods to the list:
 
 - Install a mod
