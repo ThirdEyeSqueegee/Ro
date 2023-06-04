@@ -1,3 +1,23 @@
+# v1.7.5
+
+- UPDATE SIZE: SMALL
+- Add Spaghetti's Palaces - Understone Keep
+- Add Snazzy Upper Wardrobes - Base Object Swapper
+- Add Alchemy Station Variants
+- Add The Dragon Cult - Priesthood
+- Update ENBSeries
+- Update Paradigm - A Quick Start Overhaul
+- Update Artifacts - Resurgence
+- Update Casting Bar
+- Update Lux
+- Update Snazzy Bookcases - Base Object Swapper
+- Update Take a Seat - New Sitting Animations
+- Update JK's Windhelm Outskirts
+- Update SkyUI 3D Item Offset Fix
+- Update Reading Is Bad SKSE
+- Remove JK's Understone Keep
+- Remove Dynamic Gamma SKSE
+
 # v1.7.4
 
 - UPDATE SIZE: MEDIUM
