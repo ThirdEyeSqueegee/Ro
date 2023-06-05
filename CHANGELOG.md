@@ -1,3 +1,37 @@
+# v1.7.6
+
+- UPDATE SIZE: SMALL
+- Add Seeking Out Sneaks - Hide Active Effects in Menu
+- Add Apothecary Food - Salmon Steak Unification for AE
+- Add Snazzy Common Wardrobes - Base Object Swapper
+- Add Snazzy Safes - Base Object Swapper
+- Add Falmeri Frost Mare Mount - My optimized textures
+- Add Corkbulb (Ammunition) Overhaul
+- Add Adoption Spouse and Moving Fixes
+- Add Festival Flags of Skyrim
+- Add New Armory Series - Imperial Silver Weapons and Armour
+- Add Patches for Immersive Sounds 3.0
+- Add Knight Armor
+- Add Elite Wolf Armor
+- Add Pirate Armor
+- Add Redguard Armor
+- Add Jug of Milk HD by iimlenny - My version
+- Update Blade and Blunt - A Combat Overhaul
+- Update Aetherius - A Race Overhaul
+- Update Mundus - A Standing Stone Overhaul
+- Update Survival Mode Improved - SKSE
+- Update Stony AF Markarth and Dwemer Ruins
+- Update Open Animation Replacer
+- Update The Dragon Cult - Priesthood
+- Update Delphine's Map Reveals Dragon Mounds
+- Update NAT.ENB III
+- Update Animated Ice Floes
+- Update Alchemy Station Variants
+- Update Prince and The Pauper Refine
+- Update Gore
+- Update The Handy Icon Collection Collective
+- Tweak BethINI config
+
 # v1.7.5
 
 - UPDATE SIZE: SMALL
