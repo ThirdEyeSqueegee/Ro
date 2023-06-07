@@ -1,3 +1,27 @@
+# v1.7.7
+
+- UPDATE SIZE: SMALL
+- Add Vampire Hunter Armor
+- Add Dynamic RaceMenu Interface Patcher (DRIP)
+- Add Thistle the Goat - A Courier Replacer (Optional - Comedy)
+- Add Ro - OAR Preset
+- Add Keyboard Shortcuts Fix
+- Add Rogue Master Detector
+- Add Female Hands Redone
+- Add RaceMenu - Untarnished UI Patch - DRIP Patch
+- Add Papyrus Debug Mode
+- Add First Person Animation Teleport Bug Fix
+- Update Gore
+- Update New Armory Series - Imperial Silver Weapons and Armour
+- Update Patches for Immersive Sounds 3.0
+- Update Animated Ice Floes
+- Update Detailed Carriages 2.0
+- Update NPCs Names Distributor
+- Update Reading Is Bad SKSE
+- Update Root Builder
+- Update Alchemy Station Variants - Base Object Swapper
+- Update Ro - Nemesis Output
+
 # v1.7.6
 
 - UPDATE SIZE: SMALL
