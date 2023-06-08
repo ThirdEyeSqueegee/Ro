@@ -1,3 +1,19 @@
+# v1.7.8
+
+- UPDATE SIZE: MEDIUM
+- Add Snazzy Interiors - Windhelm House of Clan Shattershield
+- Add Dwemer Armors and Weapons Retexture
+- Add Immersive Interactions FormList Manipulator patch (FLM)
+- Update Adamant - A Perk Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update Rogue Master Detector
+- Update Snazzy Interiors - Riften Snow-Shod Manor
+- Update Snazzy Interiors Patch Collection
+- Update Mod Organizer 2
+- Update Icy Mesh Remaster
+- Update King-Priest - Enhanced Dragon Priests
+- Update Paradigm - A Quick Start Overhaul
+
 # v1.7.7
 
 - UPDATE SIZE: SMALL
