@@ -1,3 +1,31 @@
+# v1.7.9
+
+- UPDATE SIZE: SMALL
+- Add Scorching of Skeevers
+- Add Spaghetti's Palaces - Mistveil Keep
+- Add Player Name Randomizer
+- Add Lux Via Kynareth Addon
+- Add GG's Impoverished Whiterun
+- Add Fluffy Beds and Bedrolls
+- Add Random death animation
+- Add Racial Abilities - I4 icons
+- Update Artifacts of the Ancestors
+- Update Open Animation Replacer
+- Update Rally's Textures - Shibui Skyrim Recolor
+- Update King-Priest - Enhanced Dragon Priests
+- Update NPCs Names Distributor
+- Update Survival Mode Improved - SKSE
+- Update Happy Little Logs
+- Update New Armory Series - Imperial Silver Weapons and Armour
+- Update Modular Armory
+- Update Look Around - Searching Animations For NPCs
+- Update Belethor's Sister - Quest
+- Update DynDOLOD Resources
+- Update Dynamic RaceMenu Interface Patcher (DRIP)
+- Update Destination Weddings
+- Update Adoption Spouse and Moving Fixes
+- Remove JK's Mistveil Keep
+
 # v1.7.8
 
 - UPDATE SIZE: MEDIUM
