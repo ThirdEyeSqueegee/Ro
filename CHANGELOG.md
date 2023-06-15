@@ -1,3 +1,100 @@
+# v1.8.0
+
+- UPDATE SIZE: LARGE
+- Add Statue of Kynareth
+- Add Skyrim Textures Redone - SkyHaven
+- Add Skyrim Textures Redone - SkyHaven Parallax
+- Add Strongholds - Dushnikh Yal
+- Add Enemies Respect Encounter Zones
+- Add Assorted Animation Fixes
+- Add Go To Bed - DAR patch
+- Add DynDOLOD DLL SE
+- Add Imperial Scout Armor
+- Add Bears of the North
+- Add Improved Camera
+- Add ALT - Crates
+- Add Useful Sweep Perk for Precision - Adamant
+- Add Ro - Scion - Improved Camera Patch
+- Add Additional Music
+- Update Better Argonian Horns
+- Update Subclasses of Skyrim
+- Update Snazzy Interiors Patch Collection
+- Update Blade and Blunt - A Combat Overhaul
+- Update Ro - IED Left Hand Mesh Fix
+- Update Reading Is Bad SKSE
+- Update Belethor's Sister - Quest
+- Update Adoption Spouse and Moving Fixes
+- Update Narrative Gameplay Consistent Dialogue Tweaks
+- Update Caveworm Plant Retexture
+- Update GG's Thieves Guild HQ Patch Collection
+- Update Natura
+- Update Natura - Spriggans
+- Update Dragon Armors and Weapons Retexture
+- Update Dragon War - A Dragon Overhaul
+- Update Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+- Update Iron Armors and Weapons Retexture
+- Update Orcish Armors and Weapons Retexture
+- Update Daedric Armors and Weapons Retexture
+- Update Ebony Armors and Weapons Retexture
+- Update Elven Armors and Weapons Retexture
+- Update The Choice is Yours
+- Update Fluffy Beds and Bedrolls
+- Update Animated Ice Floes
+- Update Imperial Armors and Weapons Retexture
+- Update Paradigm - A Quick Start Overhaul
+- Update Cooking Categories Improvement
+- Update Nemesis Output
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove JK's mods
+- Remove Lux Orbis - Illustrious Whiterun - Parallax'd
+- Remove Lux Orbis - Riften of Reverie - Parallax'd
+- Remove RedBag's Dragonsreach
+- Remove Northern Farmhouses
+- Remove Spaghetti's Towns AIO - Northern Farmhouses Patch
+- Remove Artifacts - The Breton Paladin
+- Remove Artifacts - The Ice Blade of the Monarch
+- Remove Close-quarter Lectures
+- Remove Dwemer Tonal Weaponry
+- Remove Dwemer Tonal Weaponry - AIO - Golden Dwemer Pipeworks Redone Patch
+- Remove several other weapons mods
+- Remove Frankly HD Stormcloak and City Guards
+- Remove Bard Magic Overhaul - Cast Like a Bard
+- Remove Heart of the Reach
+- Remove Legends of Aetherium
+- Remove Armor Rating Adjustment for Adamant
+- Remove Chico the Comedy Khajiit
+- Remove Vampire Outfit Overhaul
+- Remove Immersive Interactions FormList Manipulator patch (FLM)
+- Remove Riften of Reverie
+- Remove LOD Mesh Fixes for DynDOLOD
+- Remove Footprints
+- Remove SPID for Footprints
+- Remove SPID for Footprints fix
+- Remove SPID for Footprints - Player Footprints Fix
+- Remove Khajiit Will Follow
+- Remove Khajiit Will Follow - Unique Perks for KWF Followers
+- Remove Project ja-Kha'jay - Khajiit Will Follow Addon
+- Remove Snazzy Items for Khajiit Will Follow
+- Remove Race Compatibility Dialogue for Khajiit Will Follow
+- Remove Feminine Khajiit Textures
+- Remove Masculine Khajiit Textures
+- Remove Wood Chopping Blocks and Axes for Orc Strongholds
+- Remove Beating Daedra Sound Mod
+- Remove SMIM Minewood HD Texture Replacer
+- Remove Facegen Output
+- Remove NPCs with Faces
+- Remove RaceCompatibility with fixes for SSE
+- Remove Lost Races of Aetherius
+- Remove Race Compatibility Dialogue
+- Remove Race Compatibility Dialogue - Bandit Lines Expansion
+- Remove Race Compatibility Dialogue for Lucien
+- Remove Race Compatibility Dialogue for Remiel
+- Remove Akaviri Dragonguard Armor
+- Misc. load order fixes
+- Tweak ENB config
+
 # v1.7.9
 
 - UPDATE SIZE: SMALL
