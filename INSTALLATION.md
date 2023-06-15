@@ -17,8 +17,9 @@
 # Post-installation
 
 1. Read the [first-time setup guide](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md)
-2. Find `ModOrganizer.exe` in the folder you installed the modlist to
-3. Click the "Run" button on the top right in MO2 to launch Ro
+2. Read the [FAQ](https://github.com/ThirdEyeSqueegee/Ro/blob/main/FAQ.md)
+3. Find `ModOrganizer.exe` in the folder you installed the modlist to
+4. Click the "Run" button on the top right in MO2 to launch Ro
 
 # Updating
 

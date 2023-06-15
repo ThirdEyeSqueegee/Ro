@@ -24,9 +24,11 @@ Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/li
 
 **Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds.**
 
+**[Frequently Asked Questions](https://github.com/ThirdEyeSqueegee/Ro/blob/main/FAQ.md)**
+
 ### Technical notes:
 
-- Installation size: ~250 GB
+- Installation size: ~225 GB
 - PC requirements: This list is heavy on VRAM&mdash;a GPU with &ge;12 GB of VRAM is recommended
 - My specs for reference: Ryzen 5950X + RX 6900 XT + 32 GB 3600CL16 RAM
 
