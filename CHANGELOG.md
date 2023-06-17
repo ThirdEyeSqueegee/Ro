@@ -1,3 +1,32 @@
+# v1.8.1
+
+- UPDATE SIZE: SMALL
+- Add Crimson Ranger Retexture
+- Add Bosmer Armor Pack Retexture
+- Add Stendarr Rising - The Hall of the Vigilant Rebuild - Settings Loader
+- Add HD Remastered Bridges - Complex Parallax
+- Add Sure of Stealing
+- Add Spaghetti's Palaces - AIO
+- Update Glass Armors and Weapons Retexture
+- Update ENBSeries
+- Update Improved Camera
+- Update The Dragon Cult - Priesthood
+- Update Dragonactorscript infinite loop fix
+- Update Daedric Shrines - All in One - My Patches by Xtudo
+- Update Delayed Quest Starts
+- Update Stendarr Rising - The Hall of the Vigilant Rebuild
+- Update Immortal Remnant - Redguard Elite Armor Variants
+- Update ALT - Crates
+- Update Pirate Armor
+- Update Vampire Hunter Armor
+- Update Completionist
+- Update Casting Bar
+- Update GG's Impoverished Whiterun
+- Update Adoption Spouse and Moving Fixes
+- Update Dragon War - A Dragon Overhaul
+- Update Racial Abilities - I4 icons
+- Remove individual Spaghetti's Palaces mods
+
 # v1.8.0
 
 - UPDATE SIZE: LARGE
