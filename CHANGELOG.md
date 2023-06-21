@@ -1,3 +1,39 @@
+# v1.8.2
+
+- UPDATE SIZE: SMALL
+- Add Rudy HQ - Hay
+- Add ICFur's Tundra Scrubs Version 2
+- Add Zim's Trainers Expansion
+- Add Specialists of Skills - A Training Mod
+- Add Customizable Faster Woodcutting Animation
+- Add Dark Brotherhood Armors Retexture
+- Add Fish Plaque Fixes and Improvements
+- Add Poisoner's Aid
+- Add Statue of Mara
+- Update Reading Is Bad SKSE
+- Update Look Around - Searching Animations For NPCs
+- Update Natural Waterfalls
+- Update Sure of Stealing
+- Update Vestige - An Artifact Overhaul
+- Update Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+- Update Stony AF Markarth and Dwemer Ruins
+- Update Dwemer Pipework Reworked
+- Update Mythic Dawn Armor SE - My patches and fixes
+- Update Compass Navigation Overhaul
+- Update Dovahnique's Diverse Deadly Nightshade
+- Update Open Animation Replacer
+- Update Spell Perk Item Distributor
+- Update Assorted mesh fixes
+- Update Perk Entry Point Extender
+- Remove Cathedral - 3D Deathbell
+- Remove Cathedral - 3D Nightshade
+- Remove Deadly Nightshades - A Cathedral 3D Nightshade Recolor Set
+- Remove Diverse Cathedral Nightshade
+- Remove Spiffed Up Tundra Scrubs
+- Remove Rudy HQ - More Lights for ENB - Torchbugs and Moths
+- Remove Frankly HD Shrouded Armor
+- Misc. load order fixes
+
 # v1.8.1
 
 - UPDATE SIZE: SMALL
