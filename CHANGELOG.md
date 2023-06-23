@@ -1,3 +1,33 @@
+# v1.8.3
+
+- UPDATE SIZE: MEDIUM
+- Add Stats of Stealing
+- Add Skoglendi - A Grass Mod
+- Add Dynamic Animation Casting - NG
+- Add Jumping Costs Stamina
+- Add Universal Unwanted Effects Clearer
+- Add Bantam Guars - Mihail Monsters and Animals
+- Add Hanging Dead Bantam Guars - Echoes of Morrowind
+- Add Mihail Bantam Guars - Tweaks and Fixes
+- Add Guar Wars - Return of the Bantam 4K
+- Add Fat Bantam Guars (Optional - Comedy)
+- Add Snazzy Interiors - Windhelm House of Clan Cruel-Sea
+- Update Environs - The Shrines of Talos
+- Update Poisoner's Aid
+- Update Scorching of Skeevers
+- Update Statue of Mara
+- Update Narrative Gameplay Consistent Dialogue Tweaks
+- Update Reading Is Bad SKSE
+- Update Immortal Remnant - Redguard Elite Armor Variants
+- Update Arena - An Encounter Zone Overhaul
+- Update Aetherius - A Race Overhaul
+- Update Racial Abilities - I4 icons
+- Update Illustrious Whiterun
+- Update Cathedral - 3D Sword Ferns
+- Update Water for ENB
+- Update Blade and Blunt - A Combat Overhaul
+- Remove Delta's Repository
+
 # v1.8.2
 
 - UPDATE SIZE: SMALL
