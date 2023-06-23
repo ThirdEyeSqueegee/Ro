@@ -1,3 +1,18 @@
+# v1.8.4
+
+- UPDATE SIZE: MEDIUM
+- Add Croissants of Skyrim
+- Update Universal Unwanted Effects Clearer
+- Update Snazzy Interiors Patch Collection
+- Update Adamant - A Perk Overhaul
+- Update Project ja-Kha'jay
+- Update Immersive Rejections
+- Update Weapon Styles - Draw-Sheathe animations
+- Update Embers XD
+- Update Cathedral Assets Optimizer
+- Update Nemesis Output
+- Update Poisoner's Aid
+
 # v1.8.3
 
 - UPDATE SIZE: MEDIUM
