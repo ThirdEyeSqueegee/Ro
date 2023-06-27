@@ -1,3 +1,52 @@
+# v1.8.5
+
+- UPDATE SIZE: SMALL
+- Add Lockpicking for Barbarians
+- Add Pasties of Skyrim
+- Add Spaghetti's Orc Strongholds - Dushnikh Yal
+- Add Whiterun Objects SMIMed - Dragonsreach Stairs
+- Add Brawl Lines Expansion and Fixes
+- Add HQ vanilla tiny rocks
+- Add Snazzy Interiors - Windhelm Blacksmith
+- Add Skyrim Objects SMIMed - Farm Mills
+- Add ConsolePlusPlus
+- Add GoT The Black Dread Skull Replacer
+- Add Snazzy Interiors - Markarth Treasury House
+- Add Golden Dwemer Pipeworks Redone - Unofficial Update
+- Add Diverse Candles - Base Object Swapper
+- Add Dynamic Random Dragons
+- Update Embers XD
+- Update Pie 4K-8K by iimlenny
+- Update Bread 4K-8K by iimlenny
+- Update DynDOLOD DLL SE
+- Update Sure of Stealing
+- Update Improved Camera
+- Update Assorted mesh fixes
+- Update Conditional Armor Type Animations
+- Update Vanargand Animations - Male Idle Walk and Run
+- Update Vanargand Animations - Female Idle Walk and Run
+- Update Vanargand Animations - Sprint
+- Update Leviathan Animations II - Male Idle Walk And Run
+- Update Leviathan Animations II - Female Idle Walk And Run
+- Update Leviathan Animations II - Sprint
+- Update Goetia Animations - Male Idle Walk And Run
+- Update Goetia Animations - Female Idle Walk And Run
+- Update Goetia Animations - Sprint
+- Update Misc Dialogue Edits
+- Update Fists of Fury - Skyrim
+- Update Snazzy Interiors Patch Collection
+- Update Spinning Load Screens
+- Update Higher Poly Vanilla Torch Sconce
+- Update 3D Junipers - Trees and Berries
+- Update Artifacts of the Ancestors
+- Update GG's High Hrothgar fixed stairs
+- Update Worldspace Transition Tweaks
+- Update Dynamic RaceMenu Interface Patcher (DRIP)
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Fish Plaque Fixes and Improvements
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Vampire Hunter Armor
+
 # v1.8.4
 
 - UPDATE SIZE: MEDIUM
