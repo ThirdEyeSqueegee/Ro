@@ -1,6 +1,6 @@
 # v1.8.6
 
-- UPDATE SIZE: LARGE
+- UPDATE SIZE: MEDIUM
 - UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
 - Add Simplicity of Seeding - Better Hearthfires Planter Scripts
 - Add Fixed Mesh Lighting - 3D Junipers
