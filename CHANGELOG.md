@@ -1,3 +1,35 @@
+# v1.8.6
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Simplicity of Seeding - Better Hearthfires Planter Scripts
+- Add Fixed Mesh Lighting - 3D Junipers
+- Add Fabled Forests
+- Add Sanity's Frayed Edges (Optional - Comedy)
+- Add Hunters Not Bandits
+- Add Camera Persistence Fixes
+- Add Relics of the Crusader Improved
+- Add Debaser
+- Add Debaser - My patches
+- Add Adventurer's Magic Bag and Lantern
+- Add Chitin Armors Retexture
+- Add Archmage Khadgar's Robes
+- Update Missile's Apothecary Patches
+- Update Survival Mode Improved - SKSE
+- Update NPCs Names Distributor
+- Update C.O.I.N. - Coins of Interesting Natures
+- Update Ancient Nord Stalhrim
+- Update Versatile Item and Group Re-Assignment
+- Update Civil War Deserters
+- Update Project ja-Kha'jay
+- Update Assorted mesh fixes
+- Update Misc Dialogue Edits
+- Update Patches for Immersive Sounds 3.0
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Happy Little Trees
+- Remove Happy Little Trees - Alternate Cut Stumps
+
 # v1.8.5
 
 - UPDATE SIZE: SMALL
