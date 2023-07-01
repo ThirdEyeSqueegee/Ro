@@ -1,3 +1,46 @@
+# v1.8.7
+
+- UPDATE SIZE: SMALL
+- Add Random Male Wall Leaning Animations
+- Add MQ105SprintTriggerScript Fix
+- Add Pocket Mammoths
+- Add Mana - The Pocket Mammoth Pet
+- Add THICCEN - thiccer 'n' thiccer (Optional - Comedy)
+- Add Low Health Autosave
+- Add Snazzy Interiors - Markarth Nepos' House
+- Add Skill of Sneaking
+- Add Adamant - do not open revived creatures inventory
+- Add Stable Masters - New Clothing
+- Add Jarl Sitting Animation Replacer
+- Add Strongholds - Mor Khazgur
+- Add Spaghetti's Orc Strongholds - Largashbur
+- Add Cathedral - 3D Pine Shrubs
+- Add Photo Mode
+- Add Mountain Lions and Panthers - Mihail Monsters and Animals
+- Add Mountain Lions and Panthers - My optimized textures
+- Add A Dog's Life
+- Add Navigator - Navmesh Fixes
+- Add Resplendent Royals - Jarl's Court NPC Overhaul
+- Add Tragedian's Fabulous Followers
+- Add Dapper Deliveries - A Courier Overhaul
+- Update Lux
+- Update Lux Orbis
+- Update Embers XD
+- Update Completionist
+- Update Tamrielic Distribution
+- Update Simplicity of Seeding - Better Hearthfires and Farming CC Planter Scripts
+- Update Patches for Immersive Sounds 3.0
+- Update Fabled Forests
+- Update Snazzy Interiors Patch Collection
+- Update Dual Wield Parrying SKSE
+- Update Untarnished UI
+- Update Assorted mesh fixes
+- Update More plants and recipes
+- Update Adamant - A Perk Overhaul
+- Remove THICCEN - A Fat Chicken Replacer
+- Remove Fat Bantam Guars
+- Remove Draco's 3D Plants and Shrub Replacer
+
 # v1.8.6
 
 - UPDATE SIZE: MEDIUM
