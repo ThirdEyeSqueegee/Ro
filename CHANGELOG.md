@@ -1,3 +1,39 @@
+# v1.8.8
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Eat Tomes 4 Known Spells
+- Add Bonemold Armors and Weapons Retexture
+- Add Hanging Dead Pheasants Replacer- Mihail's Shards of Immersion
+- Add Hanging Dead Pheasants Replacer - My optimized textures
+- Add Hanging Dead Pheasants Replacer - Flora Fix Patch
+- Add HD Remastered Landscapes - Complex Terrain Parallax
+- Add ElSopa - HD Grindstone Redone - Hearthfire patch
+- Update Lockpicking for Barbarians
+- Update Angi's Target Sounds
+- Update Stats of Stealing
+- Update Adventurer's Magic Bag and Lantern
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Water for ENB
+- Update Ancient Nord Stalhrim
+- Update Cathedral - 3D Pine Shrubs
+- Update Northern Vanilla Farmhouses
+- Update Reading Is Bad SKSE
+- Update Dynamic Bow Animation
+- Update Debaser - My patches
+- Update Golden Dwemer Pipeworks Redone - Unofficial Update
+- Update Strongholds - Mor Khazgur
+- Update Carriage Drivers - New Clothing
+- Update Photo Mode
+- Update Brawl Lines Expansion and Fixes
+- Update Fists of Fury - Skyrim
+- Update Improved Camera
+- Update Diverse Candles - Base Object Swapper
+- Update Enhanced Death Cam
+- Update Folded Rag Diversification
+- Update Unmarked Locations Pack
+- Update xLODGen Output
+
 # v1.8.7
 
 - UPDATE SIZE: SMALL
