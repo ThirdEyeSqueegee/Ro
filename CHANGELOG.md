@@ -1,3 +1,20 @@
+# v1.8.9
+
+- UPDATE SIZE: MEDIUM
+- Add Dynamic Wait
+- Add Dynamic Wait - Settings Loader
+- Add Skyland Bits and Bobs - A Clutter Overhaul
+- Update Fabled Forests
+- Update Skoglendi - A Grass Mod
+- Update Open Animation Replacer
+- Update Photo Mode
+- Remove Business Ledger HD Retexture
+- Remove ElSopa - Papers HD
+- Remove Glorious Dummies
+- Remove Hanging Dead Pheasants Replacer - Mihail's Shards of Immersion
+- Remove Hanging Dead Pheasants Replacer - My optimized textures
+- Remove Hanging Dead Pheasants Replacer - Flora Fix Patch
+
 # v1.8.8
 
 - UPDATE SIZE: MEDIUM
