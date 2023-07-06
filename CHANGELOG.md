@@ -1,3 +1,24 @@
+# v1.8.10
+
+- UPDATE SIZE: MEDIUM
+- Add Ring-necked Pheasants - Mihail Monsters and Animals
+- Add Ring-necked Pheasants - My optimized textures
+- Add Woodsheds of Skyrim
+- Add Renthal's Reach Mountain Moss
+- Add Basic Dining Set Replacer
+- Add SD's Farmhouse Fences
+- Update Strongholds - Largashbur
+- Update Fabled Forests
+- Update Embers XD
+- Update Strongholds - Dushnikh Yal
+- Update NPC Animation Remix
+- Update Immersive folded hands
+- Update Conditional tavern cheering
+- Update Skyland Bits and Bobs - A Clutter Overhaul
+- Update Eat Tomes 4 Known Spells
+- Remove Tavern AI fix
+- Remove SMIM Woven Farm Fence Parallax
+
 # v1.8.9
 
 - UPDATE SIZE: MEDIUM
