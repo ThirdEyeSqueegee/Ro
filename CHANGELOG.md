@@ -1,3 +1,25 @@
+# v1.8.11
+
+- UPDATE SIZE: SMALL
+- Add Sorcerer - A Staff and Scroll Overhaul
+- Add Sorcerer Patch Page
+- Add CC's Camping Expansion - Settings Loader
+- Add Windhelm Occlusion Planes Fix
+- Add Mihail's Pheasants - Optimized Mesh
+- Add Ancient Falmer Armors and Weapons Retexture
+- Add aljo's Sorcerer Patches
+- Add HD Remastered Blended Roads
+- Update Particle Patch for ENB
+- Update Mysticism - A Magic Overhaul
+- Update Adamant - A Perk Overhaul
+- Update Hand to Hand - An Adamant Addon
+- Update Dynamic Wait
+- Update Dynamic Wait - Settings Loader
+- Update Woodsheds of Skyrim
+- Update Windhelm Occlusion Planes Fix
+- Update HD Remastered Bridges - Complex Parallax
+- Update Creation Club - Reintegrated
+
 # v1.8.10
 
 - UPDATE SIZE: MEDIUM
