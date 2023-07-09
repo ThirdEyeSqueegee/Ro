@@ -1,3 +1,34 @@
+# v1.8.12
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Unmarked Locations Pack - Forgotten Vale
+- Add Optimized Meshes - Chickens and Chicks- Mihail Monsters and Animals
+- Add slightly Better Honey Nut Treat
+- Add Spaghetti's Orc Strongholds - Narzulbur
+- Add NPC Stuck in Bleedout fix
+- Add Legacy of the Remnants
+- Update CC Staves - Mysticism Consistency Patch
+- Update aljo's Sorcerer Patches
+- Update Sorcerer Patch Page
+- Update Castle Volkihar HD Parallax
+- Update Adventurer's Magic Backpack and Lantern
+- Update Assorted mesh fixes
+- Update Skyrim Objects SMIMed - Noble Furniture
+- Update Water for ENB
+- Update Skyland Bits and Bobs - A Clutter Overhaul
+- Update Gladys the Corgi
+- Update Merlin the Corgi
+- Update Dual Wield Parrying SKSE
+- Update Simplicity of Snow
+- Update Skyrim's Got Talent - Improve As a Bard
+- Update Practical Female Iron Armor
+- Update ENBSeries
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Better Honey Nut Treats
+- Remove Khajiit Has Wares - A Caravan Camp Overhaul
+
 # v1.8.11
 
 - UPDATE SIZE: SMALL
