@@ -1,3 +1,31 @@
+# v1.8.13
+
+- UPDATE SIZE: MEDIUM
+- Add Optimized Meshes - Ring-necked Pheasants - Mihail Monsters and Animals
+- Add Ruined Book 2K-8K by iimlenny
+- Add Mihail House Cats - Named Cats
+- Add Snazzy Interiors - Markarth Guard Tower
+- Add Hanging Dead Pheasants Replacer - Mihail's Shards of Immersion
+- Add Optimized Meshes - Hanging Dead Pheasants Replacer - Mihail's Shards of Immersion
+- Add Optimized Meshes - Hanging Dead Chickens - Mihail's Shards of Immersion
+- Add The Heart of Dibella - Quest Expansion
+- Add Armory Extended - Bonemold Weapon Pack
+- Add Immersive Equipment Displays - Tutorials and presets
+- Add Default Face NPCs Fixed
+- Add Spectris - Illusion SFX Overhaul
+- Add Inmortui - Undead SFX Replacer
+- Update Skyland Bits and Bobs - A Clutter Overhaul
+- Update Woodsheds of Skyrim
+- Update Cathedral - 3D Pine Shrubs
+- Update Snazzy Interiors Patch Collection
+- Update Simplicity of Snow
+- Update NPC Stuck in Bleedout fix
+- Update Fabled Forests
+- Update New Armory Series - Imperial Silver Weapons and Armour
+- Update Paradigm - A Quick Start Overhaul
+- Remove Mihail's Pheasants - Optimized Mesh
+- Tweak BethINI config
+
 # v1.8.12
 
 - UPDATE SIZE: LARGE
