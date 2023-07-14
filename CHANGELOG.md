@@ -1,3 +1,24 @@
+# v1.8.14
+
+- UPDATE SIZE: SMALL
+- Add Civil War Champions - Reduced Cut
+- Add Green Water Cubemap Fix
+- Add Customizable Faster Mining Animation
+- Add Bleak Falls Barrow Web Mother - CC The Contest Addon
+- Update Bread 4K-8K by iimlenny
+- Update Armory Extended - Bonemold Weapon Pack
+- Update Optimized Meshes - Hanging Dead Chickens - Mihail's Shards of Immersion
+- Update College of Winterhold - Quest Expansion
+- Update Lockpicking for Barbarians
+- Update Embers XD
+- Update Dual Wield Parrying SKSE
+- Update Natural Waterfalls
+- Update Vanilla Dwarven Armour and Weapon - Golden Dwemer Pipeworks Redone Patch
+- Update Optimized Meshes - Chickens and Chicks- Mihail Monsters and Animals
+- Update Lux
+- Update Customizable Faster Woodcutting Animation
+- Remove Low Health Autosave
+
 # v1.8.13
 
 - UPDATE SIZE: MEDIUM
