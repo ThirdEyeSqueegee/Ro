@@ -1,3 +1,42 @@
+# v1.8.15
+
+- UPDATE SIZE: LARGE
+- Add Snazzy Interiors - Solitude Bryling's House
+- Add Skyforge Blunts (and Improvements)
+- Add Maxwell The Cat - Stone of Barenziah Replacer (Optional - Comedy)
+- Add Spaghetti's Orc Strongholds - AIO
+- Add Ambient Bird Sounds Expanded
+- Add Old People Randomly Say Oh Dear
+- Add FormList Patch Collection
+- Add Keyword Patch Collection
+- Add Aptitude - A Minimalistic Class Mod
+- Update Snazzy Interiors Patch Collection
+- Update Embers XD
+- Update The Only Cure - Quest Expansion
+- Update House of Horrors - Quest Expansion
+- Update Lux
+- Update Bandit Lines Expansion
+- Update Strongholds - Narzulbur
+- Update Strongholds - Largashbur
+- Update Civil War Lines Expansion
+- Update Woodsheds of Skyrim
+- Update Skyland AIO
+- Update Unmarked Locations Pack - Forgotten Vale
+- Update Default Face NPCs Fixed
+- Update Optimized Meshes - Hanging Dead Pheasants Replacer- Mihail's Shards of Immersion
+- Update Higher Poly Vanilla Alchemy Stations
+- Update Dual Wield Parrying SKSE
+- Update A Dog's Life
+- Update Dwemer Automatons - Golden Dwemer Pipeworks Redone Patch
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update DynDOLOD DLL SE
+- Update Vestige - An Artifact Overhaul
+- Update Base Object Swapper
+- Update Paradigm - A Quick Start Overhaul
+- Update RemoveAllItems Freeze Fix
+- Remove individual Spaghetti's Orc Strongholds mods
+
 # v1.8.14
 
 - UPDATE SIZE: SMALL
