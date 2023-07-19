@@ -1,3 +1,20 @@
+# v1.8.16
+
+- UPDATE SIZE: MEDIUM
+- Add FYX - Solitude Arch
+- Add Zero Bounty Hostility Fix
+- Add Remastered - Skyforge Steel Weapons Replacer
+- Add The Shivering Bestiary - Summonable ECSS Creatures for Mysticism
+- Add Survival Stews - SMIM Meshes
+- Add Stalhrim Armors and Weapons Retexture
+- Update Dwemer Automatons - Golden Dwemer Pipeworks Redone Patch
+- Update Paradigm - A Quick Start Overhaul
+- Update Riften Docks Overhaul
+- Update More-Truly-Auri-El set
+- Update PAPER
+- Update Dwemer Pipework Reworked
+- Remove Higher Poly Vanilla Torch Sconce
+
 # v1.8.15
 
 - UPDATE SIZE: LARGE
