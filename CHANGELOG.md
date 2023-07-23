@@ -1,3 +1,30 @@
+# v1.8.18
+
+- UPDATE SIZE: SMALL
+- Add Snazzy Interiors - Solitude Erikur's House
+- Add Higher Poly Vanilla Eldergleam Roots
+- Add Cathedral - 3D Happy Little Pine Shrubs and Solstheim Ash Shrub Add-on
+- Add Environs - Abandoned Abodes
+- Add Warmage of Shornhelm - Redone Spell Knight Armor for Thamauturgy
+- Add Select One Skip - Hold Key to Skip Quantity Menu
+- Add Female Bosmer Normal Map Fix
+- Add Vampires have Claws - Player Version
+- Update Sure of Stealing
+- Update Stats of Stealing
+- Update Skill of Sneaking
+- Update Universal Unwanted Effects Clearer
+- Update Snazzy Interiors - Solitude Bryling's House
+- Update Snazzy Interiors - Markarth Nepos' House
+- Update Snazzy Interiors - Markarth Treasury House
+- Update Snazzy Interiors - Windhelm House of Clan Cruel-Sea
+- Update Snazzy Interiors - Windhelm House of Clan Shattershield
+- Update Snazzy Interiors - Riften Black-Briar Manor
+- Update Snazzy Interiors - Riften Snow-Shod Manor
+- Update Snazzy Interiors - Whiterun House Gray-Mane
+- Update Snazzy Interiors - Whiterun House Battle-Born
+- Update Golden Dwemer Pipeworks Redone - Unofficial Update
+- Update NPCs Names Distributor
+
 # v1.8.17
 
 - UPDATE SIZE: LARGE
