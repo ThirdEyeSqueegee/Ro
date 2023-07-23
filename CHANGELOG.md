@@ -1,3 +1,45 @@
+# v1.8.17
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Higher Poly Vanilla Torch Sconce
+- Add Sharpen Other Swords II - AnimObject Swapper2 - GDPR Patch
+- Add Optimised Script for Simple Wearable Lanterns - Toggle Hotkey
+- Add Dynamic Activation Key
+- Add Immersive Interactions - Animated Actions
+- Add Immersive Interactions - Animated Actions - Legacy Settings Loader
+- Add Switch Camera During Dialogue
+- Add Spaghetti's Faction Halls - Jorrvaskr
+- Update Stalhrim Armors and Weapons Retexture
+- Update FormList Patch Collection
+- Update Object Categorization Framework
+- Update Assorted mesh fixes
+- Update FYX - Solitude Arch
+- Update Sons of Skyrim - My patches and fixes
+- Update Detailed Carriages 2.0
+- Update Lockpicking for Barbarians
+- Update Strongholds - Narzulbur
+- Update Strongholds - Mor Khazgur
+- Update Diverse Candles - Base Object Swapper
+- Update Vampire Feeding Tweaks
+- Update Stormy's Wooden Megapints or Vanilla Tankards - Base Object Swapper
+- Update Improved Camera
+- Update Aptitude - A Minimalistic Class Overhaul
+- Update Paradigm - A Quick Start Overhaul
+- Update Zero Bounty Hostility Fix
+- Update Fabled Forests
+- Update Embers XD
+- Update Strongholds - Largashbur
+- Update Conditional Expressions Extended
+- Update Jarl Sitting Animation Replacer
+- Update NPCs Names Distributor
+- Update Nemesis Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Wooden Megapints Retextured
+- Remove No Spinning Death Animation
+- Remove Happy Little Trees Add-On - DynDOLOD 3
+
 # v1.8.16
 
 - UPDATE SIZE: MEDIUM
