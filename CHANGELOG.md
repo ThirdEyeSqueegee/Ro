@@ -1,3 +1,35 @@
+# v1.8.19
+
+- UPDATE SIZE: SMALL
+- Add Spellbreaker Reforged
+- Add Random Swimming Animations
+- Add Stuck on Screen Load Door Prompt Fix
+- Add Simple Snow Improvements - Solstheim Ruins
+- Add CC Camping - Embers XD patch
+- Add Scheduling of Sleep - Sleep Menu Defaults and Customization
+- Update Improved Camera
+- Update Diverse Candles - Base Object Swapper
+- Update Sure of Stealing
+- Update Resaver
+- Update Yazakh - Custom-Voiced Orc Follower
+- Update Spaghetti's Orc Strongholds - AIO
+- Update FYX - 3D Shack Kit Walls
+- Update Conditional Expressions - Subtle Face Animations - Settings Loader
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update ENBSeries
+- Update Missing Follower Dialogue Edit
+- Update Snazzy Interiors Patch Collection
+- Update More plants and recipes
+- Update Environs - Abandoned Abodes
+- Update powerofthree's Papyrus Extender
+- Update Higher Poly Vanilla Torch Sconce
+- Update Festival Flags of Skyrim
+- Update Snazzy Interiors - Riften Black-Briar Manor
+- Update Embers XD
+- Update Synthesis
+- Update Ro - IED Left Hand Mesh Fix
+- Remove Bleak Falls Barrow Web Mother - CC The Contest Addon
+
 # v1.8.18
 
 - UPDATE SIZE: SMALL
