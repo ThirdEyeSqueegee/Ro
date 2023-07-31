@@ -1,3 +1,47 @@
+# v1.8.20
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Eastern Dwemer Towers of Solstheim
+- Add Eastern Dwemer Towers of Solstheim - Golden Dwemer Pipeworks Redone Patch
+- Add Shame of Skyrim
+- Add Vampire Armors and Weapons Retexture
+- Add Bleeding Edge - Bladed Weapons SFX Overhaul
+- Add Spaghetti's Faction Halls - Thieves Guild
+- Add Drengin's Blue Palace - Mesh Only Replacer
+- Add Bad To The Bone Riff when picking up a skull (Optional - Comedy)
+- Add Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- Add Immersive Death Cycle
+- Add ENB Particle Lights - Dwemer Lanterns
+- Add ENB Particle Lights - Dwemer Lanterns - Golden Dwemer Pipeworks Redone Patch
+- Add Stand still in RaceMenu
+- Add slightly Better Nordic Henges
+- Add Wall Basket Variants
+- Update ENBSeries
+- Update Relics of the Crusader Improved
+- Update Snazzy Interiors - Riften Black-Briar Manor
+- Update Embers XD
+- Update Assorted mesh fixes
+- Update Environs - The Ruined Tundra Farmhouse
+- Update NPCs Names Distributor
+- Update Fulminis - Shock Magic Sounds Overhaul
+- Update Lockpicking for Barbarians
+- Update Environs - Kolskeggr
+- Update Inmortui - Undead SFX Replacer
+- Update Strongholds - Dushnikh Yal
+- Update Female Player Animations
+- Update Male Player Animations
+- Update Snazzy Safes - Base Object Swapper
+- Update Immersive Interactions - Animated Actions
+- Update Slampire's Creation Cave - CC Reintegration
+- Update Mundus - A Standing Stone Overhaul
+- Update Aetherius - A Race Overhaul
+- Update Journeyman - A Fast Travel Overhaul
+- Update Headhunter - Bounties Redone
+- Update Unofficial Skyrim Creation Club Content Patches
+- Remove Higher Poly Vanilla Torch Sconce
+- Remove individual ferrari365 script fix mods
+
 # v1.8.19
 
 - UPDATE SIZE: SMALL
