@@ -1,3 +1,11 @@
+# v1.8.22
+
+- UPDATE SIZE: HOTFIX
+- Update Default Face NPCs Fixed
+- Update Detailed Carriages 2.0
+- Remove Wheeler - Quick Action Wheel Of Skyrim
+- Remove Wheeler - Untarnished UI Edit
+
 # v1.8.21
 
 - UPDATE SIZE: MEDIUM
