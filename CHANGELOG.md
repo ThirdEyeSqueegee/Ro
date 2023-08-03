@@ -1,3 +1,46 @@
+# v1.8.21
+
+- UPDATE SIZE: MEDIUM
+- Add Snazzy Ruins Chests - Base Object Swapper
+- Add EVG Animated Traversal
+- Add SkyClimb
+- Add Champion's Mettle
+- Add Soft Shadows
+- Add Snazzy Strongboxes - Base Object Swapper
+- Add SkyClimb - Settings Loader
+- Add Static Swaps Variety - Nordic Moss
+- Add dMenu
+- Add Wheeler - Quick Action Wheel Of Skyrim
+- Add Wheeler - Untarnished UI Edit
+- Add Static Swaps Variety - Fishing Poles
+- Add DVA - Dynamic Vampire Appearance
+- Add Dynamic Interface Patcher - DIP
+- Add RaceMenu - Untarnished UI - DIP Patch
+- Add Gift of the Underking
+- Add Simple Outfit System
+- Add Ro - Immersive Interactions Preset
+- Update ENBSeries
+- Update Blade and Blunt - A Combat Overhaul
+- Update Unique Northern Vanilla Farmhouses - Base Object Swapper
+- Update Shame of Skyrim
+- Update Default Face NPCs Fixed
+- Update GG's Impoverished Whiterun
+- Update Strongholds - Dushnikh Yal
+- Update Unofficial Skyrim Creation Club Content Patches
+- Update FormList Manipulator
+- Update Specialists of Skills - A Training Mod
+- Update Diverse Candles - Base Object Swapper
+- Update Croissants of Skyrim
+- Update Strongholds - Largashbur
+- Update Riften Docks Overhaul
+- Update Skyland Bits and Bobs - A Clutter Overhaul
+- Update Nemesis Output
+- Remove Skyland Animated Mead and Ale Bottles
+- Remove Skyland Noble Furniture
+- Remove Skyland Alchemy and Enchanting Tables
+- Remove Dynamic RaceMenu Interface Patcher - DRIP
+- Remove RaceMenu - Untarnished UI Patch - DRIP Patch
+
 # v1.8.20
 
 - UPDATE SIZE: MEDIUM
