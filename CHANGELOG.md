@@ -1,3 +1,10 @@
+# v1.8.23
+
+- UPDATE SIZE: HOTFIX
+- Add S.M.C. - SKYRIM MOTION CONTROL
+- Update Reading Is Bad SKSE
+- Fix dMenu failing to load
+
 # v1.8.22
 
 - UPDATE SIZE: HOTFIX
