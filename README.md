@@ -6,7 +6,7 @@
 
 ## "And the Scrolls have foretold, of black wings in the cold..."
 
-### [Changelog](https://github.com/ThirdEyeSqueegee/Ro/blob/main/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Installation](https://github.com/ThirdEyeSqueegee/Ro/blob/main/INSTALLATION.md) | [First-Time Setup](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408) | [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist)
+### [Changelog](/CHANGELOG.md) | [Discord](https://discord.gg/WF66mMu) | [Installation](/INSTALLATION.md) | [First-Time Setup](/SETUP.md) | [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/84408) | [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist)
 
 </div>
 <br>
@@ -22,9 +22,9 @@ Ro is an attempt to bring together the latest and greatest graphics mods and foc
 
 Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/lists/ro-a-graphics-focused-modlist) if you'd like to take a closer look at what's included. Join the [Lost Outpost Discord server](https://discord.gg/WF66mMu) for questions, bug reports, mod suggestions, or just to come hang out!
 
-**Please refer to [this](https://github.com/ThirdEyeSqueegee/Ro/blob/main/KEYBINDS.md) for some useful default keybinds.**
+**Please refer to [this](/KEYBINDS.md) for some useful default keybinds.**
 
-**[Frequently Asked Questions](https://github.com/ThirdEyeSqueegee/Ro/blob/main/FAQ.md)**
+**[Frequently Asked Questions](/FAQ.md)**
 
 ### Technical notes:
 
@@ -33,6 +33,10 @@ Find the full modlist over on [LoadOrderLibrary](https://loadorderlibrary.com/li
 - My specs for reference: Ryzen 5950X + RX 6900 XT + 32 GB 3600CL16 RAM
 
 ### Showcase videos:
+
+- biggie_boss Livestream [Part 1](https://www.youtube.com/watch?v=UzZu9CWvkFI), [Part 2](https://www.youtube.com/watch?v=zmUaxoftm3g)
+
+Note: The following videos showcase older versions of the list, which may not accurately reflect the current state of the list
 
 - [biggie_boss &ndash; YouTube](https://www.youtube.com/watch?v=loFsLilC1UY)
 - [Digital Dreams &ndash; YouTube](https://www.youtube.com/watch?v=5OabYOmb05I)

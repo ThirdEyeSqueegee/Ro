@@ -1,6 +1,6 @@
 ## Rule 11
 
-Modifying the list forfeits the ability to ask for support. If you modify the list, it's at your own risk.
+Modifying the list forfeits the right to ask for support. If you modify the list, it's at your own risk.
 
 ## To add your own mods to the list:
 
@@ -17,3 +17,4 @@ Modifying the list forfeits the ability to ask for support. If you modify the li
 - Create a copy of the `Ro` profile
 - Name it `[NoDelete] <your profile name>`
 - Select the profile you just created and use that from now on
+  - Note: using a `[NoDelete]` profile still requires you to add `[NoDelete]` to the name of every folder you've added or modifed

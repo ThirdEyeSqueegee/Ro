@@ -2,6 +2,11 @@
 
 ## Do this BEFORE you launch the game
 
+### Required Reading
+
+- [FAQ](/FAQ.md)
+- [Keybinds](/KEYBINDS.md)
+
 ### Screen Resolution
 
 - Set your screen resolution in `SSEDisplayTweaks.ini`, which can be found in the `SSE Display Tweaks` mod folder.
@@ -23,9 +28,3 @@
 ### MCM Configuration
 
 - Go through the MCM settings and modify as you see fit, although everything has been preconfigured. You may want to look at the modpages for each mod before changing any settings.
-
----
-
-### Character Presets
-
-You'll find a mod called `[NoDelete] Ro - Character Presets` under the NPCs and Faces separator. You can save your RaceMenu presets to this folder!
