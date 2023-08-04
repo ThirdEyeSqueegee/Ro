@@ -1,3 +1,21 @@
+# v1.8.24
+
+- UPDATE SIZE: SMALL
+- Add Wheeler - Quick Action Wheel Of Skyrim
+- Add Wheeler - Untarnished UI Edit
+- Add Snowy Statics Consistency
+- Add Simple Hunting Overhaul
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update Survival Mode Improved - SKSE
+- Update slightly Better Nordic Henges
+- Update Snazzy Safes - Base Object Swapper
+- Update Snazzy Strongboxes - Base Object Swapper
+- Update Iconic's Spiders of Skyrim Retexture
+- Update Snazzy Ruins Chests - Base Object Swapper
+- Update Lockpicking for Barbarians
+- Update DynDOLOD Resources
+- Update DynDOLOD
+
 # v1.8.23
 
 - UPDATE SIZE: HOTFIX
