@@ -1,3 +1,14 @@
+# v1.8.25
+
+- UPDATE SIZE: SMALL
+- Add Starfrost - A Survival Overhaul
+- Add Candlehearth - An Inn Overhaul
+- Update Sure of Stealing
+- Update Unofficial Skyrim Creation Club Content Patches
+- Update Mysticism - A Magic Overhaul
+- Remove Daedric Entity Restoration Project - D.E.R.P
+- Remove Daedric Entity Restoration Project - Reduced Cut & Integration Patch
+
 # v1.8.24
 
 - UPDATE SIZE: SMALL
