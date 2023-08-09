@@ -1,3 +1,44 @@
+# v1.8.26
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: AFTER UPDATING, LOAD INTO THE GAME AND IMPORT DEFAULT "USER" CONFIG FROM IMMERSIVE EQUIPMENT DISPLAYS MENU (BACKSPACE)
+- Add slightly Better Scrolls
+- Add FYX - Water Mesh Optimization
+- Add G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Add Menagerie - A Creation Club Pet Overhaul
+- Add Myrwatch - Tweaks and Enhancements
+- Add Strongbox Replacer
+- Add 3D Deer Skull Replacer
+- Add Vanilla Script (micro)Optimization 1.16a - Adoption Bug Fix
+- Update DynDOLOD
+- Update Sure of Stealing
+- Update Reading Is Bad SKSE
+- Update Immersive Equipment Displays
+- Update Navigator - Navmesh Fixes
+- Update Ascension 2
+- Update Subclasses of Skyrim
+- Update Press H to Horse
+- Update Missile's Apothecary Patches
+- Update Simple Hunting Overhaul
+- Update Better Reach Trees
+- Update C.O.I.N. - Coins of Interesting Natures
+- Update Survival Mode Improved - SKSE
+- Update Journeyman - A Fast Travel Overhaul
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update Dynamic Things Alternative - Base Object Swapper
+- Update Enemies Respect Encounter Zones
+- Update Starfrost - A Survival Overhaul
+- Update Keyword Item Distributor
+- Update Snazzy Ruins Chests - Base Object Swapper
+- Update Unofficial Skyrim Creation Club Content Patches
+- Update ENBSeries
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Snazzy Strongboxes - Base Object Swapper
+- Update My Aching Back - Mattresses for Dwemer Beds
+- Update Missing Follower Dialogue Edit
+- Update Immersive Equipment Displays - Tutorials and presets
+
 # v1.8.25
 
 - UPDATE SIZE: SMALL
