@@ -1,3 +1,35 @@
+# v1.8.27
+
+- UPDATE SIZE: MEDIUM
+- Add SkyClimb - No Marker
+- Add CapFrameX (framerate analysis tool, can be found in Ro\Tools)
+- Add Static Swaps Variety - Nature Moss
+- Add HelpExtender
+- Add Static Swaps Variety - Imperial Moss
+- Add ENB Dynamic Cubemaps (optional)
+- Add Guards and Stormcloaks Armors Retexture
+- Update Lockpicking for Barbarians
+- Update Snazzy Interiors - Windhelm House of Clan Cruel-Sea
+- Update Snazzy Interiors - Solitude Erikur's House
+- Update DynDOLOD
+- Update Animated Forge Water
+- Update Default Face NPCs Fixed
+- Update 3D Deer Skull Replacer
+- Update Golden Dwemer Pipeworks Redone - Unofficial Update
+- Update Candlehearth - An Inn Overhaul
+- Update Press H to Horse
+- Update Fabled Forests
+- Update Better Reach Trees
+- Update Weapon Styles - Draw-Sheathe animations
+- Update Embers XD
+- Update Flute Animation Fix
+- Update FYX - Water Mesh Optimization
+- Update Zero Bounty Hostility Fix
+- Update G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Update Simple Hunting Overhaul
+- Update Nemesis Output
+- Fix silver candle missing textures
+
 # v1.8.26
 
 - UPDATE SIZE: SMALL

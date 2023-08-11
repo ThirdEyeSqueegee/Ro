@@ -1,5 +1,6 @@
 # Default Keybinds
 
+- `C`: Climb ([SkyClimb](https://www.nexusmods.com/skyrimspecialedition/mods/97253))
 - `H`: Summon horse
 - `L`: Toggle lantern
 - `V`: Dual wield parry (`Back/Wait` button on controller)
