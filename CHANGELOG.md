@@ -1,3 +1,58 @@
+# v1.8.28
+
+- UPDATE SIZE: SMALL
+- Add Werewolf Totem Skull Replacer
+- Add Khajiit Has Patches
+- Add FYX - Windhelm Graveyard
+- Add Windhelm Entrance Offset Fix - Base Object Swapper
+- Add Awesome Skeleton Death Sounds (Optional - Comedy)
+- Add Wheeler Colored Icons
+- Add Unique Eastmarch Windhelm Bridges - Base Object Swapper
+- Add Creation Club Basket Distribution - Base Object Swapper
+- Add Carry Your Carcasses
+- Add Carry Your Carcasses With Animation
+- Add Rumble Additions
+- Add Open Animation Replacer - IED conditions
+- Add Weapon Styles - Draw-Sheathe animations for IED
+- Add Jankevdv's 2K Archery Targets
+- Add Archery Target Retexture
+- Add Diverse Archery Targets - Base Object Swapper
+- Add Ro - Update Checker
+- Add Beard Mask Fix
+- Add Daedric Armor and Weapon - Multilayer Parallaxed
+- Add Media Keys Fix SKSE
+- Update Assorted Animation Fixes
+- Update EVG Animated Traversal
+- Update DynDOLOD
+- Update Synthesis
+- Update Assorted mesh fixes
+- Update Alchemy Station Variants - Base Object Swapper
+- Update Narrative Gameplay Consistent Dialogue Tweaks
+- Update Instantly Skip Dialogue NG
+- Update College of Winterhold - Quest Expansion
+- Update Simplicity of Snow
+- Update Embers XD
+- Update YAR - Yuril's Additional Resources
+- Update RMB SPIDified - Core
+- Update Use Those Blankets
+- Update Water for ENB
+- Update ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On
+- Update G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Update Lux Orbis Misc Patches
+- Update Simple Hunting Overhaul
+- Update Immersive Equipment Displays
+- Update Nemesis Output
+- Update Security Overhaul SKSE - Lock Add-ons
+- Update Static Swaps Variety - Nordic Moss
+- Update Resaver
+- Update B.O.O.B.I.E.S (aka Immersive Icons)
+- Update ENBSeries
+- Remove HelpExtender
+- Remove Weapon Styles - Draw-Sheathe animations
+- Remove IED - Weapons Repositioner
+- Remove Keyboard Shortcuts Fix
+- Remove Rudy HQ - More Lights for ENB - Daedric weapons
+
 # v1.8.27
 
 - UPDATE SIZE: MEDIUM
