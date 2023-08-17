@@ -1,3 +1,20 @@
+# v1.8.29
+
+- UPDATE SIZE: SMALL
+- Add Modlist Update Checker
+- Add Benches of Skyrim - Take a seat and unwind
+- Update Poisoner's Aid
+- Update Embers XD
+- Update Narrative Gameplay Consistent Dialogue Tweaks
+- Update Wheeler Colored Icons
+- Update Diverse Archery Targets - Base Object Swapper
+- Update Static Swaps Variety - Imperial Moss
+- Update Simplicity of Snow
+- Update Word Wall Transparency Fix for ENB
+- Update Fists of Fury - Skyrim
+- Update Champion's Mettle
+- Fix Simple Hunting Overhaul freezes (thanks dan__xz!)
+
 # v1.8.28
 
 - UPDATE SIZE: SMALL
