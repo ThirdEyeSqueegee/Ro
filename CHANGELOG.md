@@ -1,3 +1,27 @@
+# v1.8.30
+
+- UPDATE SIZE: SMALL
+- Add Mesh patches for Lux and Lux Orbis
+- Add Kanjs - Dugnagol Warhammer
+- Add Kanjs - Dugnagol Warhammer - Golden Dwemer Pipeworks Redone Patch
+- Update FYX - 3D Shack Kit Walls
+- Update Lockpicking for Barbarians
+- Update Benches of Skyrim - Take a seat and unwind
+- Update Vulcano
+- Update Unique Eastmarch Windhelm Bridges - Base Object Swapper
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update LOD Model Library for DynDOLOD
+- Update Static Swaps Variety - Nature Moss
+- Update Water for ENB
+- Update Security Overhaul SKSE - Some More Locks
+- Update FYX - Windhelm Graveyard
+- Update Strongholds - Dushnikh Yal
+- Update G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Update ENBSeries
+- Update ERM - Enhanced Rocks and Mountains
+- Remove Skyland Granite Mountains
+- Fix double bed missing textures
+
 # v1.8.29
 
 - UPDATE SIZE: SMALL
@@ -13,7 +37,7 @@
 - Update Word Wall Transparency Fix for ENB
 - Update Fists of Fury - Skyrim
 - Update Champion's Mettle
-- Fix Simple Hunting Overhaul freezes (thanks dan__xz!)
+- Fix Simple Hunting Overhaul freezes (thanks dan\_\_xz!)
 
 # v1.8.28
 
