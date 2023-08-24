@@ -1,3 +1,68 @@
+# v1.8.31
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR BEFORE UPDATING
+- Add Crows and Ravens - Mihail Monsters and Animals
+- Add Nordic Stonewalls
+- Add Thieves Guild Armors Retexture
+- Add Vampire Armor Expansion
+- Add Spaghetti's Faction Halls - Dark Brotherhood
+- Add Load Screen Shading Fix
+- Add Vampire Loading Screen Eye Fix
+- Add Pilgrim - Quixel Retexture
+- Add Children of the Pariah - An Orc NPC Overhaul
+- Add Fashions of The Huntsmen
+- Add RMB SPIDified - Fashions of the Huntsmen
+- Add Balaur - Dragon Vocal Replacer
+- Add Dynamic Gamma SKSE (Optional - Gameplay)
+- Add Naked Dead NPC Fix
+- Add Snazzy Interiors - Falkreath Dengeir's House
+- Add Sandwiches of Skyrim
+- Add DynDOLOD DLL NG
+- Update Snazzy Common Wardrobes - Base Object Swapper
+- Update Icy Mesh Remaster
+- Update Embers XD
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update XP32 Maximum Skeleton Special Extended - XPMSSE
+- Update Modlist Update Checker
+- Update Open Animation Replacer - IED Conditions
+- Update Water for ENB
+- Update Weapon Styles - Draw-Sheathe animations for IED
+- Update RMB SPIDified - Core
+- Update dMenu
+- Update Immersive Equipment Displays
+- Update Animated Forge Water
+- Update aljos Apothecary Patches
+- Update Nordic Stonewalls
+- Update Cathedral 3D Mountain Flowers - Base Object Swapper
+- Update NPC Stuck in Bleedout fix
+- Update Additional Music
+- Update Ambient Bird Sounds Expanded (SRD)
+- Update Simplicity of Snow
+- Update Daedric Armor and Weapon - Multilayer Parallaxed
+- Update Remiel - Custom Voiced Dwemer Specialist and Companion
+- Update Misc Effects ENB Light
+- Update ENBSeries
+- Update ERM - Enhanced Rocks and Mountains
+- Update Skyland AIO
+- Update Sure of Stealing
+- Update Candlehearth - An Inn Overhaul
+- Update Photo Mode
+- Update Wheeler - Quick Action Wheel Of Skyrim
+- Update Fabled Forests
+- Update Environs - The Ruined Tundra Farmhouse
+- Update Environs - Hroggar's House
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Update xLODGen
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Update Nemesis Output
+- Remove Ravens - Mihail Monsters and Animals
+- Remove Frankly HD Thieves Guild Armors
+- Remove DynDOLOD DLL SE
+
 # v1.8.30
 
 - UPDATE SIZE: SMALL
