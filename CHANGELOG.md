@@ -1,3 +1,49 @@
+# v1.8.32
+
+- UPDATE SIZE: SMALL
+- Add Tomato 2K-8K by iimlenny
+- Add Kill Caps Lock NG
+- Add Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+- Add Sconces of Solstheim - Improved DLC2 Braziers - Golden Dwemer Pipeworks Redone Patch
+- Add Markarth Fixed AF - Golden Dwemer Pipeworks Patches
+- Add Items Stolen Bug Fix
+- Add ElSopa - Shields Redone - Part I
+- Add Diverse Catches - Base Object Swapper
+- Add Spaghetti's Faction Halls - College of Winterhold
+- Add Dragon Hunting - Quest Rewards and Alchemy Ingredients
+- Add ElSopa - Shields Redone - Part I - My patches
+- Add ElSopa - Shields Redone - Golden Dwemer Pipeworks Redone Patch
+- Add Mu Skeleton Editor
+- Add Female Equipment Scale Fix
+- Update DynDOLOD DLL NG
+- Update DynDOLOD Resources
+- Update Sons of Skyrim - My patches and fixes
+- Update Wheeler Colored Icons
+- Update Sure of Stealing
+- Update Sandwiches of Skyrim
+- Update Modlist Update Checker
+- Update Dragon War - A Dragon Overhaul
+- Update Static Mesh improvement Mod - SMIM - Quality Addon
+- Update Dynamic Gamma SKSE (Optional - Gameplay)
+- Update Naked Dead NPC Fix
+- Update Press H to Horse
+- Update Environs - Hroggar's House
+- Update The Handy Icon Collection Collective
+- Update Particle Patch for ENB
+- Update Dynamic Activation Key
+- Update Water for ENB
+- Update Snazzy Interiors - Riften Snow-Shod Manor
+- Update Skill of Sneaking
+- Update Skyrim's Got Talent - Improve As a Bard
+- Update C.O.I.N. - Coins of Interesting Natures
+- Update Zero Bounty Hostility Fix
+- Update Sharpen Other Swords II - AnimObject Swapper
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update Default Face NPCs Fixed
+- Update CapFrameX
+- Update DynDOLOD
+- Remove Stats of Stealing
+
 # v1.8.31
 
 - UPDATE SIZE: LARGE
