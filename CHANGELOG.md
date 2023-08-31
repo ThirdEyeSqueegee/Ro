@@ -1,3 +1,45 @@
+# v1.8.33
+
+- UPDATE SIZE: SMALL
+- Add Locked Empty Container Activate Text Fix
+- Add Forsworn Armors and Weapons Retexture
+- Add Container Item Distributor
+- Add Cozy Dragonsreach Balcony
+- Add Immersive Winterhold Jail
+- Add Ships On The Horizon
+- Add KiLoader for Skyrim
+- Add ENB Extender for Skyrim
+- Add Silent Horizons 2 - Universal Core
+- Add Ro - Photo Mode Output
+- Add Ro - KiLoader Output
+- Update Immersive Death Cycle
+- Update Dynamic Activation Key
+- Update Vestige - An Artifact Overhaul
+- Update S.M.C. - SKYRIM MOTION CONTROL
+- Update Naked Dead NPC Fix
+- Update Embers XD
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Snazzy Interiors - Solitude Erikur's House
+- Update Diverse Catches - Base Object Swapper
+- Update Snazzy Interiors Patch Collection
+- Update Nordic Stonewalls
+- Update Vampire Feeding Tweaks
+- Update The Handy Icon Collection Collective
+- Update Detailed Carriages 2.0
+- Update Stretched Snow Begone Definitive Edition
+- Update RMB SPIDified - Core
+- Update DynDOLOD Resources
+- Update Instantly Skip Dialogue NG
+- Update LOD Model Library for DynDOLOD
+- Update Mu Skeleton Editor
+- Update Simple Hunting Overhaul
+- Update Base Object Swapper
+- Update Keyword Item Distributor
+- Update DynDOLOD
+- Remove RUSTIC FORSWORN
+- Rudy ENB for NAT is now optional
+
 # v1.8.32
 
 - UPDATE SIZE: SMALL
