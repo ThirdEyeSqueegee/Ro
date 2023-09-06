@@ -1,3 +1,42 @@
+# v1.8.34
+
+- UPDATE SIZE: MEDIUM
+- Add Paired Animation Improvements
+- Add Torch Permanent Replacer
+- Add Organic Player Animations
+- Add Snazzy Exteriors - Riften Snow-Shod Manor
+- Update Open Animation Replacer
+- Update ENB Extender for Skyrim
+- Update KiLoader for Skyrim
+- Update Silent Horizons 2 - Universal Core
+- Update Container Item Distributor
+- Update Water for ENB
+- Update Diverse Catches - Base Object Swapper
+- Update Icy Windhelm
+- Update Press H to Horse
+- Update DynDOLOD
+- Update The Dragon Cult - A Draugr Overhaul
+- Update Female Equipment Scale Fix
+- Update Vampire Armor Expansion
+- Update Immersive Equipment Displays
+- Update Open Animation Replacer - IED Conditions
+- Update Narrative Gameplay Consistent Dialogue Tweaks
+- Update House of Horrors - Quest Expansion
+- Update Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
+- Update Embers XD
+- Update Simple Hunting Overhaul
+- Update Navigator - Navmesh Fixes
+- Update Unofficial eFPS patches
+- Update Wheeler Colored Icons
+- Update Object Categorization Framework
+- Update Aura's Inventory Tweaks for SkyUI
+- Update Skyrim Landscape and Water Fixes
+- Update Fully Harvest Hanging Carcasses and Coin Purses
+- Update RMB SPIDified - Sons of Skyrim
+- Update Strongholds - Dushnikh Yal
+- Update Crash Logger SSE AE VR - PDB support
+- Update Chapter II - Jeremy Soule Inspired Music
+
 # v1.8.33
 
 - UPDATE SIZE: SMALL
