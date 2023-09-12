@@ -1,3 +1,51 @@
+# v1.8.35
+
+- UPDATE SIZE: MEDIUM
+- Add QuickLoot EE - Hunterborn support
+- Add Reanimated NPC Animations - Unofficial Addon
+- Add FYX - Hrothgar Steps Collisions
+- Add Vanargand Animations II - Female Idle Walk And Run
+- Add Backpack Repositioner - Immersive Equipment Displays
+- Add Spaghetti's Faction Halls - High Hrothgar
+- Add Diverse Bird's Nests - Base Object Swapper
+- Add FYX - Nordic Doors and Traps Collisions
+- Add Snazzy Exteriors - Bryling's Garden
+- Update Snazzy Exteriors - Riften Snow-Shod Manor
+- Update RMB SPIDified - Core
+- Update RMB SPIDified - New Legion
+- Update RMB SPIDified - Sons of Skyrim
+- Update RMB SPIDified - Misc Patch Hub
+- Update RMB SPIDified - Guard Armor Replacer
+- Update Embers XD
+- Update G.I.R.T.H. - Gildergreen Is Really Thicc HD
+- Update Object Categorization Framework
+- Update Snazzy Interiors - Solitude Erikur's House
+- Update Aura's Inventory Tweaks
+- Update Resaver
+- Update Additional Music
+- Update Animated Ice Floes
+- Update Ryn's Karthspire
+- Update Misc Effects ENB Light
+- Update Dragon War - A Dragon Overhaul
+- Update Worldspace Transition Tweaks
+- Update DynDOLOD
+- Update DynDOLOD Resources
+- Update Completionist - Skyrim Completion Tracker
+- Update FYX - Windhelm Graveyard
+- Update Water for ENB
+- Update Better Third Person Selection (Optional - UI)
+- Update BeastHHBB
+- Update Navigator - Navmesh Fixes
+- Update Remote Interactions
+- Update Simple Snow Improvements - Skyrim
+- Update Completionist
+- Update Immersive folded hands
+- Update Container Item Distributor
+- Remove Spaghetti's Faction Halls - College of Winterhold
+- Remove QuickLoot EE
+- Remove Vanargand Animations - Female Idle Walk and Run
+- Remove CapFrameX
+
 # v1.8.34
 
 - UPDATE SIZE: MEDIUM
