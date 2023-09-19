@@ -1,3 +1,111 @@
+# v1.9.0
+
+- UPDATE SIZE: LARGE
+- Add Artificer - An Artifact Overhaul
+- Add Madmen - A Forsworn Overhaul
+- Add Gourmet - A Cooking Overhaul
+- Add Gourmet Patch Page
+- Add Missile's Gourmet Patches
+- Add Subclasses of Skyrim 2
+- Add Wheeler Icon Embellishment - Naturally Exquisite Refinement
+- Add Ancient Argonian Armor
+- Add Ancient Argonian Armor - My patches
+- Add FYX - Imperial Doors Collisions
+- Add Vanargand Animations II - Male Idle Walk And Run
+- Add No Furniture Camera
+- Add Tel Mithryn Overhaul - High Poly and Improved Meshes
+- Add QuickLoot EE
+- Add Skyland Animated Mead and Ale Bottles
+- Update Apothecary - An Alchemy Overhaul
+- Update Slampire's Creation Cave - CC Reintegration
+- Update Diverse Candles - Base Object Swapper
+- Update Gore
+- Update Saints and Seducers - Mysticism Rebalance
+- Update Stormcrown - A Shout Overhaul
+- Update Sil Gahrot - Improved Shouts Learning
+- Update Diverse Archery Targets - Base Object Swapper
+- Update Simple Hunting Overhaul
+- Update Sandwiches of Skyrim
+- Update aljos Apothecary Patches
+- Update Soups of Skyrim - Cooking Pot Containers Contain Food
+- Update Resaver
+- Update Additional Music
+- Update Desecration
+- Update Abyss
+- Update Arcane
+- Update Natura - Spriggans
+- Update Arclight
+- Update Vulcano
+- Update Stellaris
+- Update Necrom
+- Update Flames of Coldharbour
+- Update Bloodmoon
+- Update Lunaris
+- Update Natura
+- Update Inquisition
+- Update NPCs Names Distributor
+- Update Gift of the Underking
+- Update B.O.O.B.I.E.S (aka Immersive Icons)
+- Update The Dragon Cult - A Draugr Overhaul
+- Update Legacy of the Remnants
+- Update CC Alternative Armors - Quest Removal Enchanted Variants and Proper Distribution for Thaumaturgy
+- Update Lawless - A Bandit Overhaul
+- Update The Dragon Cult - Expanded
+- Update Subdivide and Smooth with complementary mesh fixes - Hagraven
+- Update Relics of the Crusader Improved
+- Update Thaumaturgy - An Enchanting Overhaul
+- Update QuickLoot EE - Hunterborn support
+- Update Immersive Death Cycle
+- Update Improved Camera
+- Update Object Categorization Framework
+- Update Missing Follower Dialogue Edit
+- Update RMB SPIDified - New Legion
+- Update RMB SPIDified - Misc Patch Hub
+- Update Skyrim Anniversary Edition Content - Golden Dwemer Pipeworks Redone Patch
+- Update Backpack Repositioner - Immersive Equipment Displays
+- Update RMB SPIDified - Guard Armor Replacer
+- Update True Directional Movement
+- Update Missile's CC Goblins Addon
+- Update RMB SPIDified - Core
+- Update NPC Animation Remix
+- Update Rally's Sparkling Torchbugs
+- Update Diverse Bird's Nests - Base Object Swapper
+- Update Alchemy Station Variants - Base Object Swapper
+- Update CritterSpawn Congestion Fix
+- Update RMB SPIDified - Sons of Skyrim
+- Update Synthesis
+- Update DynDOLOD Resources
+- Update DynDOLOD
+- Update xLODGen Output
+- Update TexGen Output
+- Update DynDOLOD Output
+- Remove Cooking Categories Improvements
+- Remove Vestige - An Artifact Overhaul
+- Remove BeastHHBB
+- Remove Huntsman - A Hunting Expansion
+- Remove Brewer - An Alcohol Brewing Mod
+- Remove Merchant - A Trading Expansion
+- Remove Master Chef - The Art of Tamrielic Cooking
+- Remove SB - Lightweight Economy Overhaul
+- Remove SIRENROOT - Deluge of Deceit
+- Remove Solitude Lighthouse Fix
+- Remove Forsworn Gravesingers
+- Remove Forsworn Skinchangers
+- Remove Apothecary - Food and Drink Addon
+- Remove Elytra and Bliss Bug ENB Light
+- Remove Aptitude - A Minimalistic Class Mod
+- Remove Subclasses of Skyrim
+- Remove Skyrim On Skooma - Apothecary - Food and Drink Addon Patch
+- Remove Apothecary Food - Salmon Steak Unification for AE
+- Remove Kabu's Really Gourd Plant Replacer
+- Remove Ring of Namira - Improved
+- Remove Canis Hysteria - The Werewolf Disease
+- Remove White Phial - Tweaks and Enhancements
+- Remove Mysticism - USSEP Container Patch
+- Remove Artifacts of the Ancestors
+- Remove Vanargand Animations - Male Idle Walk and Run
+- Remove QuickLoot EE - Hunterborn support
+
 # v1.8.35
 
 - UPDATE SIZE: MEDIUM
