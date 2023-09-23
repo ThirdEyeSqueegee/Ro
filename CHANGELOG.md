@@ -1,3 +1,45 @@
+# v1.9.1
+
+- UPDATE SIZE: MEDIUM
+- Add Taller Posts for Farmhouse Walkways
+- Add Diverse Firewood - Base Object Swapper
+- Add Iconic's Werewolf and Werebear Retexture
+- Add RMB SPIDified - Regional Keyword Framework
+- Add Dragon Priests Retexture
+- Update Gore
+- Update Simonrim I4 Addons
+- Update Container Item Distributor
+- Update Stellaris
+- Update Artificer - An Artifact Overhaul
+- Update Natura - Spriggans
+- Update Object Categorization Framework
+- Update Thaumaturgy - An Enchanting Overhaul
+- Update Mortar and Pestle - Portable Alchemy
+- Update The Dragon Cult - Priesthood
+- Update Skyrim on Skooma
+- Update Flames of Coldharbour
+- Update Desecration
+- Update Champion's Mettle
+- Update BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
+- Update Dragon War - A Dragon Overhaul
+- Update Legacy of the Remnants
+- Update Gift of the Underking
+- Update Relics of the Crusader Improved
+- Update Arclight
+- Update Arcane
+- Update Vulcano
+- Update Necrom
+- Update Bloodmoon
+- Update Abyss
+- Update Lunaris
+- Update Natura
+- Update Missing Follower Dialogue Edit
+- Update Inquisition
+- Update Naked Dead NPC Fix
+- Remove Dragon Priest Retexture
+- Remove HD Werewolf Retexture
+- Remove Frankly HD Miraak
+
 # v1.9.0
 
 - UPDATE SIZE: LARGE
