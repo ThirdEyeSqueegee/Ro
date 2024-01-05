@@ -1,3 +1,147 @@
+# v1.10.0
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: CLEAN INSTALL THE LATEST VERSION OF SKYRIM (V1.6.1130) + CC CONTENT BEFORE INSTALLING THE MODLIST
+- Add Additional Dremora faces
+- Add Arachnid Brutality
+- Add Argonian Crests
+- Add Armory of the Dragon Cult - Dragon Priest Armor
+- Add Aurum - Alteration SFX Replacer
+- Add Axarien's Animations - The Nightingales - Karliah Brynjolf
+- Add Backported Extended ESL Support
+- Add Better Two-Handed Axe Position - IED-OAR
+- Add BUVARP SE RE - Chronicles of the College
+- Add Capture Warmer (Dynamic Cubemaps)
+- Add Catch of the Day - Fish Hang in Inns too - Base Object Swapper
+- Add Children of the Hist - An Argonian NPC Overhaul
+- Add Crone - Hagraven SFX Replacer
+- Add Description Framework
+- Add Descriptions for Various Mods
+- Add Deuteranomaly TrueHUD Preset
+- Add Deuteranopia TrueHUD Preset
+- Add Diverse Dragon Priests - Fathom's Creature Series
+- Add Diverse Farm Fences - Base Object Swapper
+- Add Dremora Lines Expansion
+- Add Dynamic Torch Idle Animations
+- Add ECSS - Mysticism Rebalance
+- Add ElSopa - Training Dummies Redone
+- Add Embers XD - Fire Them Sparks
+- Add ENB Light Detection Fix
+- Add Fabled Forests - Floating Trees fix BOS version
+- Add Fallen - Falmer SFX
+- Add Falmer Huts - Animated
+- Add Farmhouse Floor Retexture
+- Add Fluffy Hanging and Floor Pelts
+- Add Fluffy Spiders
+- Add Fluted Armor
+- Add Fluted Armor - My patches
+- Add FYX - Campfire Reacts to the Wind - EmbersXD Edition
+- Add FYX - Palace of The Kings
+- Add FYX - Sparks of Fire reacts to the Wind
+- Add Gourmet - Diverse Foods Patch
+- Add Gravestones 2k-4k
+- Add Guard Dialogue Overhaul Creation Club Patch (KID)
+- Add HeadpartWhitelist
+- Add Heartfire Oven with ENB and Smoke for EmbersXD
+- Add Immersive Equipment Displays - Extra Skeleton Nodes
+- Add Immersive Tweaks - Animal Behaviour
+- Add Imperial Tents - Animated
+- Add Improved Wall Baskets - Meshes and Textures
+- Add JS Embalming Tools
+- Add JS Solitude Sewer Cover
+- Add JS Unique Utopia - Rings
+- Add Kanjs - Master Spell Tomes
+- Add Kanjs - Oghma Infinium Animated
+- Add Large Nordic Tent Replacer for Skyland - Animated
+- Add Less Repetitive Farmhouse Wood and Stonewalls for Northern Vanilla Farmhouses
+- Add Loot Spillage NG
+- Add Markarth Silver Blood Inn Door - Golden Dwemer Pipeworks Redone Patch
+- Add Medieval Chests 2K-8K by iimlenny
+- Add Mihail's CC Zombies Overhaul
+- Add Mihail's CC Zombies Overhaul - My optimized textures
+- Add Moon Amulet
+- Add More realistic fur and antlers for Hagraven Clutter
+- Add More realistic fur and antlers for wall Mounted Male Elks
+- Add Nameless Saber
+- Add Nameless Saber - My patches
+- Add Necrotic
+- Add Nordic Chair 2K-8K by iimlenny
+- Add Nordic Chair by iimlenny - My optimized textures
+- Add NordwarUA Armours - ENB Dynamic Cubemaps - Sons of Skyrim etc
+- Add NPCs React To Frenzy
+- Add Obscure's College of Winterhold - Rudy HQ Miscellaneous Patch
+- Add Orc Settlements Enhanced
+- Add Overlooked Dungeon Objects Retextures
+- Add Oxygen Meter 2 - UntarnishedUI Patch
+- Add Pond Critter Fish Retexture
+- Add Press E to Heal Followers
+- Add Proper Mod-Added Torch Support
+- Add Rally's Feather and Ink
+- Add Rally's Road Signs
+- Add RMB SPIDified - Sforzinda Imitations Stripped
+- Add Scared of Shootings - NPCs react to aiming bows
+- Add Servitor - Atronach SFX Replacer
+- Add Shovels Bury Bodies
+- Add Shrubbery Symphony - Enhanced Greenery
+- Add Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+- Add Skullbreaker - Blunt Weapons SFX
+- Add Skyland Windows - A Pane in the Glass
+- Add Skyrim Remastered - Unreal Ice
+- Add Skyrim's Got Talent - Adamant Bard Perks Synergy
+- Add slightly Better Honey in a Jar
+- Add slightly Better Large Antlers
+- Add Small Nordic Tent - Animated
+- Add Snazzy Interiors - Markarth Endon's House
+- Add Snazzy Interiors - Morthal Falion's House
+- Add Snazzy Interiors - Vittoria Vici's House
+- Add Snazzy Interiors - Windhelm Viola Giordano's House
+- Add Snazzy Silver Inkwells - Base Object Swapper (BOS)
+- Add Sons of Skyrim - More Patches
+- Add Sons of Skyrim 2.0 - Golden Dwemer Pipeworks Redone Patch
+- Add Sons of Skyrim v2.0 - My patches and fixes
+- Add Sowables of Skyrim - Wheat
+- Add Spaghetti's Faction Halls - AIO
+- Add Splendid Mechanized Dwemer Door from GDOS - Golden Dwemer Pipeworks Redone Patch
+- Add Subdivide and Smooth - Vines
+- Add Tel Mithryn Overhaul - Exterior and Interior Improvements
+- Add Texture Improvements for Dovahnique's Vendor Carts
+- Add Thaumaturgy - USSEP Patch
+- Add Tritanopia TrueHUD Preset
+- Add Unique Armors and Weapons Retexture
+- Add Unmarked Locations Pack - Soul Cairn
+- Add Unofficial Simonrim I4 Icons
+- Add Vanargand Animations II - Sprint
+- Add Vanargand Animations II - Unarmed Non Combat Locomotion
+- Add Webmother Brutality
+- Add Whiterun Has Walls
+- Add Windmills have Windows
+- Remove Animated Small Nordic Tent Replacer
+- Remove Better Chests
+- Remove Dynamic Bow Animation
+- Remove Elite Wolf Armor
+- Remove HD Remastered Landscapes
+- Remove Imperial Scout Armor
+- Remove Knight Armor
+- Remove Pelts - Complex Parallax Occlusion
+- Remove Pirate Armor
+- Remove Rally's Manhole of Solitude
+- Remove Rally's Quill and Inkwell
+- Remove Redguard Armor
+- Remove RUSTIC WINDOWS
+- Remove Saints and Seducers - Mysticism Rebalance
+- Remove Skyland Animated Mead and Ale Bottles
+- Remove Skyrim Anniversary Edition Content - Dwarven Armored Mudcrab - GDPR Patch
+- Remove Skyrim Remastered - Glaciers and Ice
+- Remove Skyrim Remastered - Glaciers and Ice - IMR Edition
+- Remove Small Nordic Tent Replacer
+- Remove Sons of Skyrim - Markarth Guards in Golden Dwemer Pipeworks Style
+- Remove Sons of Skyrim - My patches and fixes
+- Remove Spaghetti's Faction Halls - Dark Brotherhood
+- Remove Spaghetti's Faction Halls - High Hrothgar
+- Remove Spaghetti's Faction Halls - Jorrvaskr
+- Remove Spaghetti's Faction Halls - Thieves Guild
+- Remove Vanargand Animations - Sprint
+
 # v1.9.1
 
 - UPDATE SIZE: MEDIUM
