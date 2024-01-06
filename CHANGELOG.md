@@ -1,3 +1,8 @@
+# v1.10.1
+
+- UPDATE SIZE: SMALL
+- Fix install error
+
 # v1.10.0
 
 - UPDATE SIZE: LARGE
