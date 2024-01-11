@@ -1,3 +1,30 @@
+# v1.10.2
+
+- UPDATE SIZE: MEDIUM
+- Add Pronouns (Optional - Gameplay)
+- Add Unmarked Locations Pack - Solstheim
+- Add Road Signs Overhaul 2.0
+- Add Roasted Cow Replacer - Mihail's Shards of Immersion
+- Add Roasted Cow Replacer - My optimized textures
+- Add Ancient Atmoran Remains - Mihail's Shards of Immersion
+- Add Ancient Atmoran Remains - My optimized textures
+- Add Giant Club Variety - Mihail Weapons and Shields
+- Add Giant Club Variety - My optimized textures
+- Add Reindeer Herds - Mihail Monsters and Animals
+- Add Mihail's CC Goblins Overhaul
+- Add Mihail's CC Goblins Standalone-ified
+- Add Mihail's CC Goblins Overhaul - My optimized textures
+- Add Crows and Ravens - My optimized textures
+- Add House Cats - My version
+- Add Names for Xtudo's Version of Mihail's Housecats
+- Add Item Equip Restrictor
+- Add Cathedral - 3D Tundra Shrubs
+- Add Rainbows over Waterfalls
+- Add Cathedral 3D Tundra Shrubs - Alternate Textures
+- Add Conditional Dog Barking
+- Remove Loot Spillage
+- Remove Mihail House Cats - Named Cats
+
 # v1.10.1
 
 - UPDATE SIZE: SMALL
