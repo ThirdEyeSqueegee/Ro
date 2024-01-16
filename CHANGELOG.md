@@ -1,3 +1,23 @@
+# v1.10.3
+
+- UPDATE SIZE: LARGE
+- Add Unique Border Gates Fixes
+- Add HD Remastered Landscapes
+- Add Divines Prayer Animations
+- Add Completionist - BCS Lost Library Patch
+- Add Khajiiti Apex Armory -awg's tweaks
+- Add Adventurer HDT-SMP Armor
+- Add Adventurer Armor - My Version
+- Add SarcasticDragon's Snarky Loading Screens (Optional - Comedy)
+- Add SkyPatcher
+- Add Extra thiccc High Poly Thickets and Dead Shrubs
+- Remove Capture Warmer (Dynamic Cubemaps)
+- Remove Atlantean Landscape -Snow-
+- Remove ProjectedDiffuse Patch - Atlantean Landscape Snow 4k
+- Remove HeadpartWhitelist
+- Remove Cathedral - 3D Thicket and Dead Shrub
+- Remove TB's 3D Nettles
+
 # v1.10.2
 
 - UPDATE SIZE: MEDIUM
