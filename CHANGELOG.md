@@ -1,3 +1,18 @@
+# v1.10.5
+
+- UPDATE SIZE: SMALL
+- Add Dracula Flow Mudcrabs (Optional - Comedy)
+- Add Atlantean Landscape -Snow-
+- Add ProjectedDiffuse Patch - Atlantean Landscape Snow - 4k
+- Add ElSopa - Safe And Strongbox Redone
+- Add Striding Silt Strider
+- Add Vanargand Animations II - Unarmed Pugilism Stance
+- Add Diverse Campfires
+- Add To Your Face
+- Add Andrealphus' Jobs Overhaul
+- Add Paraphernalia - VRAMr (Optional)
+- Remove Strongbox Replacer
+
 # v1.10.4
 
 - UPDATE SIZE: SMALL
