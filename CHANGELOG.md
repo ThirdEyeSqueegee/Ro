@@ -1,3 +1,42 @@
+# v1.10.6
+
+- UPDATE SIZE: MEDIUM
+- Add Rally's Common Furniture
+- Add More realistic fur and antlers for Hearthfire Elks
+- Add Animated Ships
+- Add Windhelm Brazier Replacer
+- Add Windhelm Brazier Replacer - Base Object Swapper
+- Add Cathedral - 3D Stonecrop
+- Add New Nodes for Axe and Dagger IED-OAR
+- Add Robes Retexture
+- Add Face Sculptor Expanded
+- Add ElSopa - Gem Holders Redone
+- Add CC Crossbows - Thaumaturgy Patch
+- Add Sky Reflection Fix
+- Add S.M.C. - SKYRIM MOTION CONTROL - MCM
+- Add Behavior Data Injector Universal Support
+- Add Dual Wielding Unlocker
+- Add I4 Shout Icons Overhaul
+- Add I4 Weapon Icons Overhaul
+- Add Inquisition - Custom I4 Icons
+- Add Natura - Custom I4 Icons
+- Add Scion - Custom I4 Icons
+- Add Lunaris - Custom I4 Icons
+- Add Stellaris - Custom I4 Icons
+- Add Abyss - Custom I4 Icons
+- Add Vulcano - Custom I4 Icons
+- Add Necrom - Custom I4 Icons
+- Add Arclight - Custom I4 Icons
+- Add Arcane - Custom I4 Icons
+- Add Flames of Coldharbour - Custom I4 Icons
+- Add Necrotic - Custom I4 Icons
+- Add Desecration - Custom I4 Icons
+- Add Bloodmoon - Custom I4 Icons
+- Add W.I.O. - Wheeler Icons Overhaul
+- Remove ICFur's Tundra Scrubs Version 2
+- Remove Soulgem Stand Redone
+- Remove Wheeler Colored Icons
+
 # v1.10.5
 
 - UPDATE SIZE: SMALL
