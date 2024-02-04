@@ -1,3 +1,8 @@
+# v1.10.7
+
+- UPDATE SIZE: HOTFIX
+- Add Behavior Data Injector
+
 # v1.10.6
 
 - UPDATE SIZE: MEDIUM
