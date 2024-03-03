@@ -1,3 +1,65 @@
+# v1.10.8
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION AND DELETE THE KILOADER FOLDER IN %LOCALAPPDATA% BEFORE UPDATING
+- Add Animated Coffins
+- Add MTD - More Thalmor Dossiers
+- Add East Empire Company Armor
+- Add Terrain Parallax Blending Fix
+- Add FYX 3D Stockades - Compatibility Tweaks
+- Add Diverse Hearthfire Ovens
+- Add Bethesda Plugin Manager for Mod Organizer
+- Add Plague of the Dead - Mysticism Rebalance - Crash Fix
+- Add CC Staves - Mysticism Consistency Patch - Vendor Inventory Adjusted
+- Add CC Goblins - Gogh's Camp
+- Add Arc's MeadBarrel Redux
+- Add Arc's Kettle REDUX
+- Add Boats - Operational Animated Travel
+- Add Rally's Celestial Canvas
+- Add Snowy Carts for Snowy Regions
+- Add Old People Sounds All In One
+- Add Disk Cache Enabler
+- Add Gallows Hall - Pilgrim Tweaks
+- Add Pirate-King - A Velehk Sain Overhaul and Expansion
+- Add AWD - Alduins Wall - Descriptions
+- Add Simplicity of Stalking - Automatically Follow NPCs
+- Add Snowy Ships for Snowy Regions
+- Add wd - Barrels
+- Add Spell Knight Armors Retexture
+- Add Photo Mode - Untarnished UI Patch
+- Add Arcs Kitchen Redux
+- Add UIExtensions - Untarnished UI Patch
+- Add Rally's Orc Furniture
+- Add Dawnstar - The Hawking Horker
+- Add Dynamic Horse Petting Animations for Immersive Interactions
+- Add Dareni's Spells - Merchants
+- Add NPCs Take Cover - Smarter Anti-Cheese AI
+- Add Wildwood Echoes
+- Add Blackreach Eerie Ambience
+- Add Murder of Songbirds
+- Add Whales Off The Coast
+- Add Fancy Sleeping Tree Replacer
+- Add Ysmir Armor
+- Add Rally's Upper Furniture
+- Add Ysmir Armor - My patches SE by Xtudo
+- Add New Directions for Road Signs - Base Object Swapper
+- Add Swords of the Sanctum - Spell Knight Expansion and Distribution
+- Add Completionist Creation Club and Unofficial Patches
+- Add Arcs Tankard Redux
+- Add Fabled Forests Patch Compendium
+- Add Pyramid Utils
+- Add Nordic Winds
+- Add Shouting Provokes Dragons
+- Add Toggle UI
+- Add Open Animation Replacer - Dialogue Plugin
+- Add Player Character Gestures
+- Remove Old People Randomly Say Oh Dear
+- Remove Heartfire Oven with ENB and Smoke for EmbersXD
+- Remove FYX - SMIM Barrel - New Metal and Wood Texture 4K - Barrel01 Variant
+- Remove Road Signs Overhaul 2.0
+- Remove Subdivide and Smooth - Unique Trees
+- Remove Myrwatch - Tweaks and Enhancements
+
 # v1.10.7
 
 - UPDATE SIZE: HOTFIX
