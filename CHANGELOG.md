@@ -1,3 +1,15 @@
+# v1.10.9
+
+- UPDATE SIZE: SMALL
+- Add Lux - Patch Hub
+- Add Dungeon Sounds Overhaul
+- Add Skoll - Werebeast SFX Overhaul
+- Add Winterhold - The Bubbling Brew
+- Add Stacks of Septims - 3d Coin Piles
+- Add Spaghetti's AIO Overhauls - Unofficial Patch Collection
+- Remove Stormy's Wooden Megapints
+- Remove FYX - Palace of The Kings
+
 # v1.10.8
 
 - UPDATE SIZE: LARGE
