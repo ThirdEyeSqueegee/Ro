@@ -1,3 +1,25 @@
+# v1.10.10
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add Blended Roads Redone
+- Add Comprehensive First Person Animation Overhaul - CFPAO
+- Add Subtitles
+- Add Sanguinum - Vampire Magic SFX
+- Add Ambient Warfare
+- Add Arcs Chillrend Redux
+- Add Cerveza Cristal - Meridia's Beacon Replacer (Optional - Comedy)
+- Add Rally's Noble Furniture
+- Add Mastodon - Mammoth SFX Overhaul
+- Remove Spaghetti's Orc Strongholds - AIO
+- Remove Simplicity of Stalking - Automatically Follow NPCs
+- Remove HD Remastered Blended Roads
+- Remove First Person Combat Animations Overhaul 2.0
+- Remove First Person Combat Animations Overhaul - Dagger and Shield Fix
+- Remove First Person Combat Animations Overhaul - Katanas patch for various mods
+- Remove Terrain Parallax Blending Fix
+- Remove Capture Warmer (Dynamic Cubemaps)
+
 # v1.10.9
 
 - UPDATE SIZE: SMALL
