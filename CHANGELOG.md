@@ -1,3 +1,23 @@
+# v1.10.11
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add Improved Solitude Windmill
+- Add Improved Solitude Walls
+- Add Schoolsacks of Simonrim - A CC Backpack Overhaul
+- Add Improved Solitude Arch
+- Add High Quality Ivy Replacer - Base Object Swapper
+- Add Canyon Wind - Tundra Ambience Track
+- Add Pinewood Tone - Forest Ambience Track
+- Add Horse Behaviour Improvements
+- Add Whispering Tomes of Apocrypha
+- Add Skyrim Food Expansion
+- Add slightly Better Nordic Burial Cairns
+- Add Born in a Barn - Door Curtains for Shacks
+- Remove FYX - The first Rampart and Watchtower of Solitude
+- Remove FYX - Solitude Arch
+- Remove Simple CC Backpack Rebalance
+
 # v1.10.10
 
 - UPDATE SIZE: LARGE
