@@ -1,3 +1,20 @@
+# v2.0.3
+
+- UPDATE SIZE: SMALL
+- Add Skyblivion Lockpick menu
+- Remove Immersive Better Bow Positioning
+- Remove LightsOn
+- Remove Vivid Weathers - Definitive Edition
+- Remove Silent Horizons 2 - Shader Core
+- Remove Picta Realis
+- Remove Picta Realis - Water for ENB Shades of Skyrim and Lux Patch
+
+# v2.0.2
+
+- UPDATE SIZE: SMALL
+- Add Rip n Tear - Blood Textures
+- Fix Picta Realis mods not showing up on user end
+
 # v2.0.1
 
 - UPDATE SIZE: HOTFIX
