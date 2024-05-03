@@ -1,3 +1,154 @@
+# v2.0.0
+
+- UPDATE SIZE: LARGE
+- Add Dawnguard - Tweaks and Enhancements
+- Add ENB Worldspace Weatherlists
+- Add ImGui Icons - Untarnished UI
+- Add FYX - Candlehearth Hall Chimney
+- Add RedBag's Falkreath - Pinewatch Addon
+- Add ImGui Icons
+- Add Improved Camera - Patch Collection
+- Add Wash That Blood Off 2
+- Add Menu Zoom
+- Add Dialogue History
+- Add Alchemy XP Fix
+- Add Language Fixes SKSE
+- Add Magic Sneak Attacks
+- Add CC Goblins Expanded
+- Add Flora Additions - Cypress
+- Add Flora Additions - Willows
+- Add Flora Additions - Waterplants
+- Add Winterhold - Smelt Cellar
+- Add Static Swaps Variety - AIO
+- Add .1130 ResourcePack fixes
+- Add Cypresses - Improved textures and 3D LODs
+- Add Willows - Improved textures and 3D LODs
+- Add Precision Default Weapon Trail Replacer
+- Add Andrealphus' Jobs Overhaul - Sons of Skyrim - SkyPatcher
+- Add Vanargand Animations II - Unarmed Normal And Power Attacks
+- Add slightly Better Hawk Feathers
+- Add Divide and Conquer - A Noble Divider Replacer
+- Add Better Dragonflies
+- Add slightly Better Hagraven Feathers
+- Add High Quality Ivy for Tree Stumps and Logs
+- Add Fluffy Beds for Rally's Common and Upper Class Furniture
+- Add Conjuration Limit Fix
+- Add Slow Time Unbound
+- Add Shout Recovery Utilities
+- Add Magic Casting Utilities
+- Add Staff Blocking and Bashing
+- Add Modlist Maintenance Utility
+- Add Brawling - No Hitting Bystanders
+- Add Dynamic EVGAT SkyClimb and Parkour animations
+- Add Dynamic EVGAT SkyClimb and Parkour animations - Settings Loader
+- Add Lux via - Patch Hub
+- Add Unmarked Locations Pack- All In One
+- Add Unmarked Locations Pack- All In One - Patch Hub
+- Add Dustman's Cairn Farkas Scene Fix
+- Add Dynamic Crafting Animations
+- Add Infiltration - Quest Expansion
+- Add Creation Club Home Requirements
+- Add RMB SPCH - Cloaks of Skyrim
+- Add Grendel - Troll Audio
+- Add Arcs Spell Tome Redux
+- Add Arcs Bear Trap redux
+- Add RMB SPCH - Stormcloak Guard Shield Fix
+- Add Ivory Bow
+- Add Ivory Bow - My patches SE by Xtudo
+- Add Sprites or Specters - Patches
+- Add Sconces of Skyrim - Markarth Braziers Improved - Golden Dwemer Pipeworks Redone Patch
+- Add Burning Bodies Always Trigger Oil Traps
+- Add Andrealphus Scene Tweaks
+- Add Simple Hunting Overhaul MCM Helper
+- Add Blended Roads Parallax Meshes
+- Add Take a Nap - Sleep on Chairs
+- Add Unique Wooden Bridges - Base Object Swapper
+- Add Unique Wooden Bridges - High Quality Ivy Add-On
+- Add Forest Fragments - Forest Debris Expansion
+- Add Dialogue History - Untarnished UI Patch
+- Add Immersive Fishing
+- Add Nordic Stonewall Terraces
+- Add Snazzy Diverse Carriages - Base Object Swapper
+- Add Snazzy Drelas' Cottage
+- Add Snazzy Model Ship
+- Add Murmurs and Mead
+- Add Ribbit Remix
+- Add Revenant Spirits of the Soul Cairn
+- Add Vanguard - Bash Behaviours Updated
+- Add Bards Ghostly Instruments Fix
+- Add Falmer 'Dialogue' Overhaul - Echolocation
+- Add Volkiharbor - Harkon and Valerica Replacer
+- Add Seranade - A(nother) Serana Replacer
+- Add Draugr One-Handed Movement
+- Add Precious Objects Complex Material and Dynamic Cubemap
+- Add Hearthfire Has Snow
+- Add Argonian Creation Extended - A.C.E.
+- Add Dynamic Looting and Harvesting Animations
+- Add Immersive Better Bow Positioning - IED-OAR
+- Add Lights On - Wearable Lanterns for Immersive Equipment Displays
+- Add Guards pose with weapons IED-OAR
+- Add Slope Stutter Movement Fix
+- Add Another Nordic Imperial Stable Stonewalls Replacer
+- Add Thieves Guild Alternative Endings
+- Add Aptrgangr - Draugr Voice Overhaul
+- Add HD Eyes
+- Add Trophy - Rim Lighting Fix
+- Add NPC Infinite Block Fix - SkyPatched
+- Add Rally's Barsets
+- Add Lux Orbis - Patch Hub
+- Add Mistwatch Trapdoor Fix
+- Add Dynamic Cubemaps - Metals
+- Add Rally's Dark Elf Furniture
+- Add MfgFix NG
+- Add Aetherium Forge Destroys Items
+- Add Security Overhaul SKSE - Regional Locks - Golden Dwemer Pipeworks Redone Patch
+- Add Security Overhaul SKSE - Lock Variations - Golden Dwemer Pipeworks Redone Patch
+- Add Nightmares of Skyrim
+- Add Untarnished UI - Casting Bar 3 Patch
+- Add My Aching Back - Mattresses for Dwemer Beds - Golden Dwemer Pipeworks Redone Patch
+- Add Paraglider - Lite
+- Add Paragliding - Alternate Acquisition
+- Add WiZkiD Hunter's Camp Overhaul
+- Add Offset Movement Animation
+- Add Vivid Weathers - Definitive Edition
+- Add Silent Horizons 2 - Shader Core
+- Add Picta Realis
+- Add Picta Realis - Water for ENB Shades of Skyrim and Lux Patch
+- Add Papyrus Ini Manipulator
+- Add Flora Additions - Snow Gum
+- Add Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper
+- Add Skipper - The modular quest skipper mod
+- Add No Grass In Objects
+- Add slightly Better Sabre Cat Eyes
+- Add Medieval Wines for Dungeons and Tombs
+- Add Additional Skyland Parallax
+- Add Persistent Favorites
+- Add Modern first-person animation overhaul
+- Add SRW0 Caves Complex Parallax
+- Add SRW0 Undead
+- Add TMD Jars of Skyrim
+- Remove Improved Dragonfly
+- Remove Dark Elf Lantern ENB Light - Animated Glow
+- Remove Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+- Remove Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+- Remove Iconic's Ashman Retexture
+- Remove NordwarUA Improved Upscaled Textures
+- Remove Immersive Interactions - Animated Actions
+- Remove Immersive Interactions - Animated Actions - Legacy Settings Loader
+- Remove Dynamic Horse Petting Animations for Immersive Interactions
+- Remove Comprehensive First Person Animation Overhaul - CFPAO
+- Remove Hanging moss by Mari
+- Remove Cave Roots
+- Remove Draugr.by.Kajuan
+- Remove Ryn's Dragon Mounds
+- Remove A Dog's Life
+- Remove Shame of Skyrim
+- Remove Fashions of the Fourth Era
+- Remove Sforzinda's Fashions of the Fourth Era - NERFED
+- Remove Imitations
+- Remove RMB SPIDified - Sforzinda Imitations Stripped
+- Remove Sforzinda Imitations Stripped Down (ESP replacer)
+
 # v1.10.11
 
 - UPDATE SIZE: LARGE
