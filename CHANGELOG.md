@@ -1,3 +1,8 @@
+# v2.0.1
+
+- UPDATE SIZE: HOTFIX
+- Fix WJ install error
+
 # v2.0.0
 
 - UPDATE SIZE: LARGE
