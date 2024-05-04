@@ -1,3 +1,15 @@
+# v2.0.4
+
+- UPDATE SIZE: SMALL
+- Add Fire Ignites Arrows
+- Add Hotkey Reminder
+- Add Iconic's Falmer Eye Gem Retexture
+- Add LORKHAN - Soundtrack Replacer
+- Remove MEMOSPORE - UI Sound Effects
+- Remove Additional Music
+- Remove Chapter II - Jeremy Soule Inspired Music
+- Remove The Northerner Diaries - Immersive Edition (music by Jeremy Soule)
+
 # v2.0.3
 
 - UPDATE SIZE: SMALL
