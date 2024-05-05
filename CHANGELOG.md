@@ -1,3 +1,14 @@
+# v2.0.5
+
+- UPDATE SIZE: SMALL
+- Add Markarth Fixed AF - Golden Dwemer Pipeworks Redone FULL Patch
+- Add Skyblivion Lockpick Menu - Hand to Hand Patch
+- Add Flora Additions - Mugo Pine
+- Add ALT - Windhelm Entrance - Defensive Towers
+- Add Skyland AIO (Not Only) - Better Imperial Forts
+- Remove Super Hi-Res Music Pack
+- Remove Unique Thane Weapons
+
 # v2.0.4
 
 - UPDATE SIZE: SMALL
