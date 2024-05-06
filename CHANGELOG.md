@@ -1,3 +1,15 @@
+# v2.0.6
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Skybound Underhang Camp
+- Add Untarnished UI - More Informative Console
+- Add Skyblivion Lockpick Menu - Untarnished UI Patch
+- Add Untarnished UI - Favorite Menu Consistency Fix
+- Add Mugo Pine - Small Fixes and Improvements
+- Add Snow Gums - Small Improvements and 3D LODs
+- Add Skyking Riften Complex Parallax Texture Overhaul
+
 # v2.0.5
 
 - UPDATE SIZE: SMALL
