@@ -1,3 +1,12 @@
+# v2.0.7
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: IF USING LOVER STONE OR SHADOW STONE, SWITCH TO A DIFFERENT STANDING STONE BEFORE UPDATING
+- Add Dragon Breath VFX Edit
+- Remove Skyblivion Lockpick menu
+- Remove Skyblivion Lockpick Menu - Hand to Hand Patch
+- Remove Skyblivion Lockpick Menu - Untarnished UI Patch
+
 # v2.0.6
 
 - UPDATE SIZE: SMALL
