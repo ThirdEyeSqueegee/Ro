@@ -1,3 +1,13 @@
+# v2.0.8
+
+- UPDATE SIZE: SMALL
+- Add Praedy's Staves - Golden Dwemer Pipeworks Redone Patch
+- Add Cathedral - 3D Grass Library
+- Add Ivarstead Source
+- Add Modern Wait Menu
+- Remove Silent Horizons 2 - Universal Core
+- Remove Better Third Person Selection (Optional - UI)
+
 # v2.0.7
 
 - UPDATE SIZE: SMALL
