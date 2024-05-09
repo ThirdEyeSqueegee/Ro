@@ -3,11 +3,11 @@
 1. Clean install Skyrim to a location _outside_ `Program Files`. Make sure you delete the `Skyrim Special Edition` folder in `Appdata\Local` before reinstalling
 2. Launch Skyrim through Steam and download the Creation Club content
 3. Exit Skyrim after the Creation Club content has been downloaded
-4. Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+4. Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 
 # Installation
 
-1. Download [Wabbajack](https://www.wabbajack.org/) and place it in a folder away from your Skyrim installation and outside of any protected folders, something like `D:\Wabbajack`
+1. Download [Wabbajack](https://www.wabbajack.org) and place it in a folder away from your Skyrim installation and outside of any protected folders, something like `D:\Wabbajack`
 2. Launch Wabbajack and go to "Browse Modlists"
 3. Click the download button for Ro
 4. Click the run button
