@@ -1,3 +1,40 @@
+# v2.0.9
+
+- UPDATE SIZE: SMALL
+- Add Flora Additions - Boxwood
+- Add Modern Wait Menu - Untarnished UI Patch
+- Add Kome's Inventory Tweaks
+- Add The Royal Seat - A Noble Seating Replacer
+- Add Dynamic Activation Key - MCM
+- Add Dynamic Activation Key - Addons Collection
+- Add Go to bed
+- Add Go to bed - Settings Loader
+- Add LOD Unloading Bug Fix - Settings Loader
+- Add Shovels Bury Bodies - Settings Loader
+- Add Simple Offence Suppression MCM - Block Friendly Fire - Settings Loader
+- Add Storm Lightning for SSE and VR (Minty Lightning 2019) - Settings Loader
+- Add Immersive Death Cycle - Configurable MCM
+- Add Survival Control Panel - Settings Loader
+- Add Quest Journal Fix for SkyUI
+- Add moreHUDIE Untarnished UI Patch
+- Add Untarnished UI - Oxygen Meter 2 Patch
+- Add Dynamic Wait SKSE
+- Add Fangs of Akavir - Dawnfang and Bloodthirst Rebalanced for Thaumaturgy
+- Add Skyrim Badly Translated (Optional - Comedy)
+- Add Big Fuck-Off Golden Spoon Melee (Optional - Comedy)
+- Add Unarmed Hotkey SKSE
+- Add Nordic Ruins Tower Rework
+- Add SkyPatcher - Ronan's Smaller Mihail Pigeons
+- Add Cloaks of the Nords
+- Add NPCs Names Distributor - Patches for Various Mods
+- Remove Simple Outfit System
+- Remove Aura's Inventory Tweaks
+- Remove Oxygen Meter 2 - UntarnishedUI Patch
+- Remove Dynamic Wait
+- Remove Dynamic Wait - Settings Loader
+- Remove Jumping Costs Stamina
+- Remove Immersive HD Banners
+
 # v2.0.8
 
 - UPDATE SIZE: SMALL
