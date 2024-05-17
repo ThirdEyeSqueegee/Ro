@@ -1,3 +1,35 @@
+# v2.0.10
+
+- UPDATE SIZE: MEDIUM
+- Add Volkihar Soundscape Overhaul
+- Add No Console Spam
+- Add FYX - Windhelm Docks Entrance Consistency
+- Add Universal (SKSE) Rim Lighting Fix
+- Add Hunters Loot - and skin animals
+- Add Aurora Borealis Localized In Your Kitchen (Optional - Comedy)
+- Add Immersive Hunting Animations
+- Add Faithful Faces
+- Add Faithful Faces - Creation Club
+- Add Faithful Faces - Saints and Seducers Extended Cut
+- Add Object Categorization Framework - Some KID Patches - I4
+- Add Farkas the Bread Thief and Vilkas the Knitter
+- Add Rainsong
+- Add GuardsTalk
+- Add Guard Dialogue Overhaul Redux
+- Add The Standing Sound Stones
+- Add Sword Sheath on Left Hand - IED-OAR
+- Add Flora Additions - Aloe and Agave
+- Add Aloe and Agave - Alternative Textures
+- Add Aloe Vera - Apothecary Consistency
+- Add Music Type Distributor
+- Add Sun and Stone Atronachs - A Mysticism Addon
+- Add Statue of Kynareth - My patches
+- Add Fabled Forests x Orc Strongholds - BOS Patch
+- Add 3D Nordic Imperial Stable Stonewalls Replacer
+- Add Statue of Mara - My Interior patches
+- Remove Guard Dialogue Overhaul
+- Remove Another Nordic Imperial Stable Stonewalls Replacer
+
 # v2.0.9
 
 - UPDATE SIZE: SMALL
