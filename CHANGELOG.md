@@ -1,3 +1,15 @@
+# v2.0.11
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Dawnfire ENB
+- Add Ghosts of the Tribunal Retexture
+- Add Skyking Signs
+- Add Skyking Unique Signs
+- Remove SkyFix SE - HD Blacksmith Signs
+- Remove WiZkiD Signs
+- Remove WiZkiD Specific Signs
+
 # v2.0.10
 
 - UPDATE SIZE: MEDIUM
