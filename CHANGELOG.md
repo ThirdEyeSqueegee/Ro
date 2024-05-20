@@ -1,3 +1,20 @@
+# v2.1.0
+
+- UPDATE SIZE: LARGE
+- Add I4 Armor Icons Overhaul
+- Add High Poly Trama Roots
+- Add Improved Imbuing Chamber - ENB Light
+- Add Lockpicking - Fart on success (Optional - Comedy)
+- Add Book Covers Skyrim Updated
+- Add Skeuomorphism of Skyrim - Immersive Plaque Reading Interface
+- Add Khajiit Has Tents
+- Remove Faithful Faces
+- Remove Faithful Faces - Creation Club
+- Remove Faithful Faces - Saints and Seducers Extended Cut
+- Remove Book Covers Skyrim
+- Remove The Choice is Yours - Book Covers Skyrim Patch
+- Remove No Grass In Objects
+
 # v2.0.11
 
 - UPDATE SIZE: MEDIUM
