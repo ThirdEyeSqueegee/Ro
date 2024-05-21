@@ -1,3 +1,8 @@
+# v2.1.2
+
+- UPDATE SIZE: HOTFIX
+- Fix ENB config
+
 # v2.1.1
 
 - UPDATE SIZE: SMALL
