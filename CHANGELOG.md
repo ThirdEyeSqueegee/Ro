@@ -1,3 +1,20 @@
+# v2.1.1
+
+- UPDATE SIZE: SMALL
+- Add Snazzy Interiors - Morvayn Manor
+- Add Khajiit Has Tents Animated
+- Remove Aetherial Crown SE - Golden Dwemer Pipeworks Redone Patch
+- Remove Iconic's Alduin's Wall Retexture
+- Remove Rally's Barsets
+- Remove Optimized Meshes - Hanging Dead Pheasants Replacer - Mihail's Shards of Immersion
+- Remove Webmother Brutality
+- Remove Optimized Meshes - Hanging Dead Chickens - Mihail's Shards of Immersion
+- Remove 4thUnknown - Ancient Shrouded Armor Replacer
+- Remove Khajiiti Apex Armory - awg's tweaks
+- Remove ENB Particle Lights - Dwemer Lanterns
+- Remove Particle Lights for ENB - Nordic Ruins Candles
+- Remove Gourmet - Diverse Foods Patch
+
 # v2.1.0
 
 - UPDATE SIZE: LARGE
