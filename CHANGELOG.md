@@ -1,3 +1,13 @@
+# v2.1.3
+
+- UPDATE SIZE: SMALL
+- Add Pinecones
+- Remove Adventurer's Magic Bag and Lantern
+- Remove Ferrum Nibenis SPID
+- Remove Improved Camera
+- Remove Improved Camera Patch Collection
+- Fix bugged faces for some NPCs
+
 # v2.1.2
 
 - UPDATE SIZE: HOTFIX
