@@ -1,3 +1,12 @@
+# v2.1.5
+
+- UPDATE SIZE: MEDIUM
+- Add Nordic Faces - Immersive Characters Overhaul
+- Remove Faithful Faces
+- Remove Faithful Faces - Creation Club
+- Remove Faithful Faces - Saints and Seducers Extended Cut
+- Remove Shrubbery Symphony - Enhanced Greenery
+
 # v2.1.4
 
 - UPDATE SIZE: MEDIUM
