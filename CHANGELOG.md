@@ -1,3 +1,25 @@
+# v2.1.4
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: SELECT THE APPROPRIATE FSMP VERSION IN THE "UTILITIES" SECTION BASED ON YOUR CPU
+- Add Oddments and Miscellanea - Assorted Mesh Replacers
+- Add Vigil Enforcer Retexture
+- Add More Realistic Antlers for Reindeer
+- Add Steeds of Skyrim - Visual Horse Overhaul
+- Add FSMP - Faster HDT-SMP
+- Add SMP-NPC crash fix
+- Add Glorious Doors of Skyrim - Missing Door Sounds
+- Add AHHHHH - LOCKPICK BREAKING SOUND (Optional - Comedy)
+- Add Cave Rocks Improved
+- Add Faithful Faces
+- Add Faithful Faces - Creation Club
+- Add Faithful Faces - Saints and Seducers Extended Cut
+- Remove Khajiit Has Patches
+- Remove Nordic Faces - Immersive Characters Overhaul
+- Remove Skyrim Food Expansion
+- Fix Kharjo missing outfit
+- Fix attack speed increasing at 0 stamina
+
 # v2.1.3
 
 - UPDATE SIZE: SMALL
