@@ -3,7 +3,7 @@
 1. Clean install Skyrim to a location _outside_ `Program Files`. Make sure you delete the `Skyrim Special Edition` folder in `Appdata\Local` before reinstalling
 2. Launch Skyrim through Steam and download the Creation Club content
 3. Exit Skyrim after the Creation Club content has been downloaded
-4. Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
+4. Install the latest [Visual C++ Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) (both x86 and x64)
 
 # Installation
 
