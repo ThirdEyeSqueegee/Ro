@@ -1,3 +1,20 @@
+# v2.1.6
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Pfuscher UV fixes
+- Add Cathedral - 3D Stonecrop - 75 Percent Size
+- Add Grab And Throw
+- Add Trolls
+- Add NPCs Learn to Aim (Skill-Based Aiming)
+- Remove Amsvartner Warhammer
+- Remove Baltimore Weapons
+- Remove Dovah Nord Weapons
+- Remove Evening Star
+- Remove Knight Sword
+- Remove Sarta - Leather Wrapped Sword
+- Remove Voam Sword
+
 # v2.1.5
 
 - UPDATE SIZE: MEDIUM
