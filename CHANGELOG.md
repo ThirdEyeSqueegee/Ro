@@ -1,3 +1,11 @@
+# v2.1.7
+
+- UPDATE SIZE: SMALL
+- Add Unique Towns - Addon
+- Add Snazzy Honningbrew Meadery
+- Remove Revenant Spirits of the Soul Cairn
+- Remove Dawnguard - Tweaks and Enhancements
+
 # v2.1.6
 
 - UPDATE SIZE: SMALL
