@@ -1,3 +1,18 @@
+# v2.1.8
+
+- UPDATE SIZE: SMALL
+- Add Thalmor Embassy - Texture variance - Bug fixes - Proper LOD
+- Add Pelage - CC Saturalia Addon
+- Add EVG CLAMBER - Slope Animations
+- Add Crafting Camera Fix
+- Add GG's Temple of Kynareth
+- Add Precision magic trails
+- Remove SkyClimb
+- Remove SkyClimb - Settings Loader
+- Remove SkyClimb - No Marker
+- Remove Dynamic EVGAT SkyClimb and Parkour animations
+- Remove Dynamic EVGAT SkyClimb and Parkour animations - Settings Loader
+
 # v2.1.7
 
 - UPDATE SIZE: SMALL
