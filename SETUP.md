@@ -10,6 +10,7 @@
 ### Screen Resolution
 
 - Set your screen resolution in `SSEDisplayTweaks.ini`, which can be found in the `SSE Display Tweaks` mod folder. The default resolution is `2560x1440`.
+- Set the framerate limit to 1 less than your monitor's refresh rate (or half of your monitor's refresh rate if using Lossless Scaling) in `SSEDisplayTweaks.ini`. The default limit is 82, set up for use with Lossless Scaling's frame generation.
 
 ### Optional mods
 
