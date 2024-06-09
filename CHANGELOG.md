@@ -1,3 +1,31 @@
+# v2.1.9
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: SET THE FRAMERATE LIMIT IN SSEDISPLAYTWEAKS.INI TO 1/2 OR 1/3 OF YOUR MONITOR'S REFRESH RATE IF USING LOSSLESS SCALING 2x/3x; OTHERWISE SET IT TO YOUR MONITOR'S REFRESH RATE
+- Add High Quality Ivy for SD's Farmhouse Fences in Riverwood
+- Add Spaghetti's Mods - NavCut Addon
+- Add Who Killed the Dragon - World Encounter
+- Add Higher Poly Vanilla Oil Lamp Trap
+- Add Crusader - A Simonrim Uncapper Profile
+- Add Icy Windhelm - Lux Orbis Patch
+- Add Frogs - Mihail Monsters and Animals
+- Add Vanilla Eating Animation Fixes
+- Add Show Follower Carry Weight
+- Add Khajiit Have Zoomies
+- Add Cabbage Plant - A Cabbage Mod Add-on
+- Add Froggy Chair (Optional - Comedy)
+- Add Froggy Chairs in player homes (Optional - Comedy)
+- Add Pilgrim - Khajiit Has Tents Patch
+- Add NPCs Learn to Barter
+- Add GG's Complex Silverware
+- Add Mihail Frogs - Optimized Low Poly
+- Add Utenlands Nordic Tents
+- Add Animated Ice Bergs
+- Add Simply Serana - a visual replacer
+- Remove Boats - Operational Animated Travel
+- Remove Dust Effects
+- Remove Seranade - A(nother) Serana Replacer
+
 # v2.1.8
 
 - UPDATE SIZE: SMALL
