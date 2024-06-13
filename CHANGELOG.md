@@ -1,3 +1,12 @@
+# v2.1.10
+
+- UPDATE SIZE: SMALL
+- Add Falmer Servant Lines Expansion
+- Add Honi the Frost Atronach Cat - Mihail Monsters and Animals
+- Add Touch of Detail - Chicken Coops
+- Add Revenant Spirits of the Soul Cairn
+- Fix CTDs on reload(?)
+
 # v2.1.9
 
 - UPDATE SIZE: SMALL
