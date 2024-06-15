@@ -1,3 +1,14 @@
+# v2.1.11
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add Solstheim Exterior Soundscapes
+- Add 3D Dwemer Sun - Subterranean Object SMIMed - Blackreach
+- Add DynDOLOD DLL SE
+- Add 3D Dwemer Sun - Subterranean Object SMIMed - Blackreach - Golden Dwemer Pipeworks Redone Patch
+- Remove DynDOLOD DLL NG
+- Fix CTDs on reload
+
 # v2.1.10
 
 - UPDATE SIZE: SMALL
