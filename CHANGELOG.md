@@ -1,3 +1,16 @@
+# v2.1.13
+
+- UPDATE SIZE: SMALL
+- Add Study the Stars - A Standing Stone Travel Mod
+- Add QuickLootIE - A QuickLoot EE Fork
+- Add Diverse Windmill Sails - Base Object Swapper
+- Remove QuickLoot EE
+- Remove QuickLoot EE - Settings Loader
+- Remove Mortar and Pestle - Portable Alchemy
+- Remove Hammer and Whetstone - Portable Tempering
+- Remove Andrealphus' Jobs Overhaul - Sons of Skyrim - SkyPatcher
+- Fix CTDs on reload (actually for real this time, promise)
+
 # v2.1.12
 
 - UPDATE SIZE: SMALL
