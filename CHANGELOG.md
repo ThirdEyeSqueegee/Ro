@@ -1,3 +1,10 @@
+# v2.1.12
+
+- UPDATE SIZE: SMALL
+- Add H.I.T.S. - Hands Itch To Steal - A Silverware Worthy Of The Nords
+- Add Riposte - Parry SFX
+- Fix CTDs on reload (for real this time)
+
 # v2.1.11
 
 - UPDATE SIZE: LARGE
