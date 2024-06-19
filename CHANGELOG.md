@@ -1,3 +1,40 @@
+# v2.1.15
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: IF WEARING ANY FASHIONS OF THE HUNTSMEN ARMOR, UNEQUIP IT BEFORE UPDATING
+- Add Aegis Anuad
+- Add Aegis Anuad - My patches
+- Add Easthold Totemic Set
+- Add Easthold Totemic Set - My Patches
+- Add Wayrest Sellsword Set
+- Add Wayrest Sellsword Set - My patches
+- Add River Watch Set
+- Add River Watch Set - My patches
+- Add Eastern Brassplate Set
+- Add Eastern Brassplate Set - My Patches
+- Add Eastern Brassplate Set - Golden Dwemer Pipeworks Redone Patch
+- Add Balfieran Knight Set
+- Add Balfieran Knight Set - My patches
+- Add Crown Plate Set
+- Add Crown Plate Set - My patches
+- Add Rihad Swordsman Set
+- Add Rihad Swordsman Set - My patches
+- Add Bloodskal Blade 4
+- Add Sea Turtles - Mihail Monsters and Animals
+- Add No Grass In Objects
+- Add Pandora Behaviour Engine+
+- Remove Bloodskal Blade 3
+- Remove Study the Stars - A Standing Stone Travel Mod
+- Remove Nemesis Unlimited Behavior Engine
+- Remove Fashions of The Huntsmen
+- Remove RMB SPIDified - Fashions of the Huntsmen
+- Nerf archery and 2H damage inflicted on the player by NPCs
+
+# v2.1.14
+
+- UPDATE SIZE: HOTFIX
+- Fix Nemesis output
+
 # v2.1.13
 
 - UPDATE SIZE: SMALL
