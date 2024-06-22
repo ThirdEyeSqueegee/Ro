@@ -1,3 +1,18 @@
+# v2.1.16
+
+- UPDATE SIZE: SMALL
+- Add Valkyn's Armory - Unique Gear for The Cause
+- Add Touch of Detail - Shack Doors
+- Add Beef Unending - A Civil War Replacer
+- Add Real Water for Wash Basins
+- Add Pelts 'o' Plenty - Fur Pelt Cloaks
+- Add Fluffy Pelts 'o' Plenty - Fur Pelt Cloaks
+- Add More Realistic Antlers for Carry Your Carcasses
+- Add Real Water in Buckets
+- Remove Dialogue History
+- Remove Dialogue History - Untarnished UI Patch
+- Fix missing texture for wall-mounted goats
+
 # v2.1.15
 
 - UPDATE SIZE: SMALL
