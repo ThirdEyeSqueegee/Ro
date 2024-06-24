@@ -1,3 +1,15 @@
+# v2.1.17
+
+- UPDATE SIZE: SMALL
+- Add HotD Dragons - Caraxes
+- Add Snippy - Droid Follower - Golden Dwemer Pipeworks Redone Patch (Optional - Comedy)
+- Add Green Thumb Riverwood - A Riverwood Flora Overhaul
+- Remove NordwarUA Armours - ENB Dynamic Cubemaps - Sons of Skyrim etc
+- Remove Dawnfire ENB
+- Fix Dragonborn DLC ingredients appearing too large in inventory
+- Fix player movement speed
+- Significantly increase interior and nighttime brightness
+
 # v2.1.16
 
 - UPDATE SIZE: SMALL
