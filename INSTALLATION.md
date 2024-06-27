@@ -19,7 +19,7 @@
 
 1. Read the [first-time setup guide](/SETUP.md)
 2. Read the [FAQ](/FAQ.md)
-3. Find `ModOrganizer.exe` in the folder you installed the modlist to
+3. Find `ModOrganizer.exe` in the folder you installed the modlist to and launch it
 4. Click the "Run" button on the top right in MO2 to launch Ro
 
 # Updating
