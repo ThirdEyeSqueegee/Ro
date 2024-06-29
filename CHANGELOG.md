@@ -1,3 +1,8 @@
+# v2.1.19
+
+- UPDATE SIZE: HOTFIX
+- Remove Modlist Maintenance Utility
+
 # v2.1.18
 
 - UPDATE SIZE: SMALL
