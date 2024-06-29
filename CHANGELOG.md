@@ -1,3 +1,18 @@
+# v2.1.18
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Simple Portable Cooking
+- Add Woodcutting Tweaks
+- Add Camping Plus Plus - A CC Camping Overhaul
+- Add Spaghetti's Faction Halls - AIO - No Fort Dawnguard or Thieves Guild
+- Add Auto Resolution
+- Remove CC's Camping Expansion
+- Remove CC's Camping Expansion - Settings Loader
+- Remove Spaghetti's Overhauls - Unofficial Patch Collection
+- Remove Simonrim I4 Addons
+- Fix clutter conflicts in Hall of the Vigilant and Thieves Guild HQ
+
 # v2.1.17
 
 - UPDATE SIZE: SMALL
