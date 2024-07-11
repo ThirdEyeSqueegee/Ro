@@ -1,3 +1,11 @@
+# v2.2.1
+
+- UPDATE SIZE: SMALL
+- UPDATE INSTRUCTIONS: IF USING AN ULTRAWIDE MONITOR, ENABLE "Untarnished UI - Ultrawide Fix" AND "Untarnished UI - Ultrawide Fix - COCKS Patch" IN THE "OPTIONAL - UI" SECTION
+- Add Chico The Comedy Khajiit - Reborn (Optional - Comedy)
+- Add Untarnished UI - Ultrawide Fix (Optional - UI)
+- Remove Untarnished UI - Unsquished Fix - Constructible Object Custom Keyword System
+
 # v2.2.0
 
 - UPDATE SIZE: LARGE
