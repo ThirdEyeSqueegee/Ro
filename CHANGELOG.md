@@ -1,3 +1,98 @@
+# v2.2.0
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Spaghetti's Faction Halls - Castle Volkihar
+- Add Spaghetti's Faction Halls - Fort Dawnguard
+- Add Spaghetti's Faction Halls - Castle Dour
+- Add Spaghetti's Faction Halls - Bard's College
+- Add Spaghetti's Faction Halls - Sky Haven Temple
+- Add Spaghetti's Faction Halls - High Hrothgar
+- Add Spaghetti's Faction Halls - Dark Brotherhood
+- Add Spaghetti's Faction Halls - Companions
+- Add NavFix - Helgen Riverwood Crossroads
+- Add Destroy The Dark Brotherhood - Quest Expansion
+- Add Mini Patches and Tweaks
+- Add The Practical Dwemechanic - A Remiel Replacer
+- Add Walking Stick - Walk with staves or polearms
+- Add Just Bite - Dynamic Activation Key Patch For Vampire Mods
+- Add Draugrs - New models and textures
+- Add Draugrs - My patches
+- Add First Person Interactions
+- Add Dragon Priest Hood Variants
+- Add Ascend - Hidden Peaks of Skyrim
+- Add Terrain Parallax Blending Fix
+- Add Combat Music Fix NG Updated
+- Add Whiterun Has Walls Redone
+- Add Dear Diary DM and Paper (Squish) Fixes
+- Add Untarnished UI 1.1.6 - Unsquished Fix
+- Add Untarnished UI - Unsquished Fix - More Fixes
+- Add Untarnished UI - Unsquished Fix - Constructible Object Custom Keyword System
+- Add Untarnished UI - Unsquished - C.o.c.k.s and Completionist Patch
+- Add Inner Sanctum - Snow Elf Ruins Overhaul
+- Add So This Aint Right (S.T.A.R.)
+- Add Baby Mammoths - Mihail Monsters and Animals
+- Add Quiet Mammoth Babies - No Camera Shake
+- Add Classic Paintings Compilation for Skyrim interiors
+- Add 3D Dwemer Sun - Subterranean Object SMIMed - Lux patch and ENB Particle Patch patch
+- Add The Dragonborn's Bestiary
+- Add The Dragonborn's Bestiary - Addons
+- Add DCA - Dragon Combat Animations
+- Add Alchemy Plus
+- Add Easy Console Commands
+- Add Player Name Randomizer - Show in UI
+- Add Animunculi Override - Dwemer Automaton Hacking Minigame
+- Add Evolving Locations - Lucky Shack
+- Add The Dragonborn's Bestiary - Untarnished UI Patch
+- Add The Dragonborn's Bestiary - Sun Spells Addon
+- Add Skibidi Black-Briar (Optional - Comedy)
+- Add Roadsigns Redone
+- Add Potema Revoiced
+- Add Bears of the North Patches
+- Add Dead bears of the north
+- Add Divine Crusader Retexture
+- Add DLC2 Miraak BossFightScript Fix
+- Remove Spaghetti's Faction Halls - AIO - No Fort Dawnguard or Thieves Guild
+- Remove Spaghetti's Faction Halls
+- Remove Lawless - A Bandit Overhaul
+- Remove Madmen - A Forsworn Overhaul
+- Remove Dark Brotherhood Revengeance
+- Remove Immortal Remnant - Redguard Elite Reintegration Patches
+- Remove Natura - Spriggans
+- Remove Instincts - Animal Taming in Skyrim
+- Remove Benches of Skyrim - Take a seat and unwind
+- Remove Nightmares of Skyrim
+- Remove Remote Interactions
+- Remove Remote Interactions - Settings Loader
+- Remove Taunt Your Enemies - Taunting Matters
+- Remove Andrealphus' Jobs Overhaul
+- Remove Dawnguard - Hall of Vigilant Requirement
+- Remove Delayed Quest Starts
+- Remove Backported Extended ESL Support
+- Remove dTry Plugin Updates
+- Remove Combat Music Fix SKSE
+- Remove Whiterun Has Walls
+- Remove Whiterun Defensive Stockade Walls
+- Remove Custom Window
+- Remove Simple Offence Suppression MCM - Block Friendly Fire
+- Remove Simple Offence Suppression MCM - Block Friendly Fire - Settings Loader
+- Remove Fires Hurt RE
+- Remove Fire Hurts NG
+- Remove Auto Resolution
+- Remove Paraphernalia - VRAMr
+- Remove Dismember Those Chaurus - Mihail's Shards of Immersion
+- Remove Dismember Those Mudcrabs - Mihail's Shards of Immersion
+- Remove Aloe Vera - Apothecary Consistency
+- Remove Cathedral - 3D Mountain Flowers - Alternate Textures
+- Remove Static Swaps Variety
+- Remove Discord Rich Presence
+- Remove NordWarUA's Vanilla Armor Replacers
+- Remove NordWarUA's Vanilla Armor and Weapon Expansion - Standalone Plugin
+- Remove Vampire Armor Expansion
+- Remove Rally's Road Signs
+- Fix staves displaying incorrectly on weapon racks
+- Disable NPC distribution for Dareni's spells
+
 # v2.1.19
 
 - UPDATE SIZE: HOTFIX
