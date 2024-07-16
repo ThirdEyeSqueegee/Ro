@@ -1,3 +1,26 @@
+# v2.2.2
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: CLEAR MO2 OVERWRITE FOLDER AFTER UPDATING
+- Add Fixed Meshes for Rugnarok
+- Add Skeleton Replacer HD - Necromantic Grimoire
+- Add Meridia Revised - A New Voice
+- Add Less Terrible Ruins Sconce
+- Add Metallurgy - Consistency Patches and Collision Fix
+- Add Orcish Lanterns for Orc Strongholds - Largashbur
+- Add Sorcerer - Arms of Chaos - Creation Club (CC) Integration
+- Add Evolving Locations - Riverside Shack
+- Add Lively Cart Driver Animations
+- Add The Dragonborn's Bestiary - Untarnished UI Patch (21x9) (Optional - UI)
+- Remove Markarth Fixed AF - GDPR Patch
+- Remove Golden Dwemer Pipeworks Redone - Patches
+- Remove JS Attunement Sphere and Lexicons - Glowmapped
+- Remove JS Dwemer Artifacts - Glowmapped
+- Remove JS Dwemer Control Cube - Glowmapped
+- Remove JS Dwemer Puzzle Cube - Glowmapped
+- Remove 3D Dwemer Sun - Subterranean Object SMIMed - Lux patch and ENB Particle Patch patch
+- Remove Cloaks of the Nords
+
 # v2.2.1
 
 - UPDATE SIZE: SMALL
