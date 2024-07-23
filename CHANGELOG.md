@@ -1,3 +1,8 @@
+# v2.2.4
+
+- UPDATE SIZE: HOTFIX
+- Remove Skyrim Badly Translated (Optional - Comedy)
+
 # v2.2.3
 
 - UPDATE SIZE: MEDIUM
