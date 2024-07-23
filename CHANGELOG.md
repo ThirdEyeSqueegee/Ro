@@ -1,3 +1,29 @@
+# v2.2.3
+
+- UPDATE SIZE: MEDIUM
+- Add Argonian Reptilian Feet - awg Extensions
+- Add Encounter Zone Informer
+- Add The Dragonborn's Bestiary - Small Addons
+- Add Frost VFX Edit
+- Add Flame VFX Edit
+- Add Wizarding Traversal Magic
+- Add Evolving Locations - Cliffside Retreat
+- Add Lightning VFX Edit
+- Add Warmaiden's Logpile Fix
+- Add Lunar Guard Armor and Battleaxe - Inventory Fixes
+- Add Sorcerer - Scroll Enchanters for Court Wizards
+- Add Pulcharmsolis Load Screen Fixes
+- Add More Silver and Dwemer Kitchenware
+- Add Rally's Solstheim Landscapes
+- Add Rally's Solstheim Landscapes Complex Terrain Parallax Edition
+- Add Cooking in Kettles on Campfires
+- Add Whimsical Wizards - Winterhold College NPC Overhaul
+- Add Diverse Snowberry Wreaths
+- Add Skyland Complex Parallax Material
+- Remove Daedric Armor and Weapon - Multilayer Parallaxed
+- Remove QUI
+- Fix Solstheim landscape textures
+
 # v2.2.2
 
 - UPDATE SIZE: MEDIUM
