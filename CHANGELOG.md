@@ -1,3 +1,41 @@
+# v2.2.5
+
+- UPDATE SIZE: LARGE
+- UPDATE INSTRUCTIONS: SAVE IN AN INTERIOR LOCATION BEFORE UPDATING
+- Add New Female Guard Voices
+- Add Settling of Squad - Set Follower Home
+- Add The Dragonborn's Bestiary - Dragon Priests
+- Add Pretty Pilgrim - Daedric Shrines And Pilgrim
+- Add The Dragonborn's Bestiary - Race Based Identification Addon
+- Add DynDOLOD DLL NG
+- Add WAVY Waterfalls Effect
+- Add Praedys College of Winterhold - Complex Material
+- Add Wiki and Map Integration
+- Add Stay At The System Page NG
+- Add GATE TO SOVNGARDE (GTS) - Small Mods and Resources
+- Add Dismembering Framework
+- Add Snazzy Interiors - Rorik's Manor
+- Add Diverse Cairn Banners
+- Add Skyrim Search SE - Simply find your missing followers
+- Add DogDogGo - Dogs Track Down NPCs
+- Add Escape The Crash Guy (Optional - Comedy)
+- Add Slightly Brighter Water Effects Brightness and Reflection Fix
+- Add DF - Humanoid Dismem-brie-ment Asset Pack (Optional - Comedy)
+- Add Dismembering Framework - Creature Asset Pack - My patches
+- Add Catches Cook on Campfires
+- Add Skyland Bits and Bobs Complex Parallax Material
+- Add Salmon Retex - Fins Patch
+- Add OnMagicEffectApply Replacer
+- Add Untarnished UI - QuickLoot IE Patch
+- Add Untarnished UI - C.O.C.K.S 21x9 Ultrawide Patch (Optional - UI)
+- Remove TAA Flicker Fixer
+- Remove Pilgrim - Daedric Shrines AIO Tweaks
+- Remove DynDOLOD DLL SE
+- Remove Improved Alternate Conversation Camera (Optional - UI)
+- Remove Overlooked Dungeon Objects Retextures
+- Remove Fare Thee Well - Spouses and Children Give Blessings
+- Remove QuickLoot EE - Settings Loader
+
 # v2.2.4
 
 - UPDATE SIZE: HOTFIX
