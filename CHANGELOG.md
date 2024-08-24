@@ -1,3 +1,26 @@
+# v2.2.6
+
+- UPDATE SIZE: MEDIUM
+- UPDATE INSTRUCTIONS: PLEASE SEE [FIRST-TIME SETUP INSTRUCTIONS](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md), SPECIFICALLY THE [PARALLAXGEN SECTION](https://github.com/ThirdEyeSqueegee/Ro/blob/main/SETUP.md#ParallaxGen)
+- Add Security Overhaul SKSE - Extra Locks
+- Add Brother may I have some Oats audio replacer (Optional - Comedy)
+- Add Dynamic Interface Patcher - Various Patches and Experiments
+- Add Snazzy Interiors - Karthwasten Hall
+- Add Distant Rolling Thunder
+- Add Skyking Ash Piles and Dust Piles
+- Add Roosters - Mihail Monsters and Animals
+- Add ERM - Complex Parallax Materials
+- Add Stony AF Markarth Complex Parallax Material
+- Add Dwemer Pipework Reworked Complex Parallax Material
+- Add ParallaxGen - Dynamic Mesh Patcher
+- Remove New Female Guard Voices
+- Remove ElSopa HD - Remade Better Dust Piles
+- Remove Dear Diary Squish Fixes
+- Remove Untarnished UI 1.1.6 - Unsquished Fix
+- Remove Untarnished UI - Unsquished - C.o.c.k.s and Completionist Patch
+- Remove Untarnished UI - Ultrawide Fix
+- Remove Untarnished UI - C.O.C.K.S. Ultrawide Patch
+
 # v2.2.5
 
 - UPDATE SIZE: LARGE

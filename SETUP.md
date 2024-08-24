@@ -13,7 +13,23 @@
 
 ### Ultrawide support
 
-- If you have an ultrawide monitor, enable `Untarnished UI - Ultrawide Fixes` and `Untarnished UI - Ultrawide Fix - COCKS Patch` in the `Optional - UI` section.
+1. Enable the `Dynamic Interface Patcher - Various Patches and Experiments - Universal UI Unsquisher` version corresponding to your monitor's aspect ratio (found in the `Optional - UI` section)
+2. Unhide `DIP` in MO2's executables menu and click "Run"
+   1. ![Edit MO2 Executables](/assets/edit_mo2_executables.png)
+   2. ![Unhide DIP](/assets/unhide_dip.png)
+3. Select the patch you enabled in step 1 and click "Patch!"
+4. Close the window
+
+### ParallaxGen
+
+1. Select ParallaxGen in MO2's executables menu and click "Run"
+   1. ![ParallaxGen](/assets/parallaxgen.png)
+2. Press `Enter` once ParallaxGen launches to begin mesh patching
+3. Wait for ParallaxGen to finish; press `Enter` to close the window when ParallaxGen finishes running
+4. Cut-paste the `Ro\Tools\ParallaxGen\ParallaxGen_Output` folder to `Ro\mods`
+5. Refresh MO2 and enable the newly-created `ParallaxGen_Output` mod
+   1. ![Refresh MO2](/assets/refresh_mo2.png)
+6. Place the `ParallaxGen_Output` mod at the very end of the modlist (overwriting everything)
 
 ### Optional mods
 
