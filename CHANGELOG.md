@@ -1,3 +1,13 @@
+# v2.2.7
+
+- UPDATE SIZE: HOTFIX
+- Add Dear Diary Squish Fixes
+- Add Untarnished UI 1.1.6 - Unsquished Fix
+- Add Untarnished UI - Unsquished - C.o.c.k.s and Completionist Patch
+- Add Untarnished UI - Ultrawide Fix (Optional - UI)
+- Add Untarnished UI - C.O.C.K.S. Ultrawide Patch
+- Remove Dynamic Interface Patcher - Various Patches and Experiments
+
 # v2.2.6
 
 - UPDATE SIZE: MEDIUM
