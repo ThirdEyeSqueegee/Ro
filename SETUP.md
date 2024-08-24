@@ -30,6 +30,7 @@
 5. Refresh MO2 and enable the newly-created `ParallaxGen_Output` mod
    1. ![Refresh MO2](/assets/refresh_mo2.png)
 6. Place the `ParallaxGen_Output` mod at the very end of the modlist (overwriting everything)
+7. Rename the mod to `[NoDelete] ParallaxGen_Output` (this will ensure that it doesn't get deleted when you update the modlist)
 
 ### Optional mods
 
