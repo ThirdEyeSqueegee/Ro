@@ -1,3 +1,16 @@
+# v2.2.8
+
+- UPDATE SIZE: MEDIUM
+- Add BENDr
+- Remove Skyland Complex Parallax Material
+- Remove Skyland Bits and Bobs Complex Parallax Material
+- Remove Stony AF Markarth Complex Parallax Material
+- Remove ERM - Complex Parallax Materials
+- Remove Praedys College of Winterhold - Complex Material
+- Remove Nordic Stonewalls Complex Parallax Material
+- Remove Dwemer Pipework Reworked Complex Parallax Material
+- Remove ParallaxGen
+
 # v2.2.7
 
 - UPDATE SIZE: HOTFIX
