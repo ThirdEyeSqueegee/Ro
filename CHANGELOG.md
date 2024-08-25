@@ -1,3 +1,8 @@
+# v2.2.9
+
+- UPDATE SIZE: SMALL
+- Fix squished crafting menu
+
 # v2.2.8
 
 - UPDATE SIZE: MEDIUM
