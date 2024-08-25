@@ -1,3 +1,10 @@
+# v2.2.10
+
+- UPDATE SIZE: HOTFIX
+- Remove Rudification - Rudy Candles Expanded
+- Fix mountain textures
+- Fix Nordic dungeon lighting issues(?)
+
 # v2.2.9
 
 - UPDATE SIZE: SMALL
