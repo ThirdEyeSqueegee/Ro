@@ -1,3 +1,13 @@
+# v2.2.11
+
+- UPDATE SIZE: SMALL
+- Add Underground - Complex Parallax Addon
+- Add HD Stone Quarry and Clay Deposit
+- Add One Click Power Attack NG
+- Add Untarnished UI - C.O.C.K.S. and Completionist - Ultrawide Patch (Optional - UI)
+- Add Mihail's Rooster Proportions
+- Add Cooking Pots SMIMed aka Slightly Better Cooking Pots
+
 # v2.2.10
 
 - UPDATE SIZE: HOTFIX
