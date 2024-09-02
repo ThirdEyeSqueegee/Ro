@@ -1,3 +1,21 @@
+# v2.2.12
+
+- UPDATE SIZE: MEDIUM
+- Add Katariah Ship Stairs Fix
+- Add Arc's Gem Holder Redux
+- Add Praedy's Apocrypha
+- Add Detailing the Eldrich - Higher-Res Apocrypha - Temple of Miraak - Black Books
+- Add Hermaeus Mora - Eyes Water and Tentacles - My HD version
+- Add Apocryphal Library
+- Add Higher Poly Vanilla Windcaller Tomb and Horn
+- Add Root Weeds Redone
+- Add The Sounds of Towns and Cities
+- Add Mountains of the Northlands
+- Remove Shibui Skyrim
+- Remove ElSopa - Gem Holders Redone
+- Remove Nemesis Creature Behavior Compatiblity
+- Remove ERM - Mountain Texture Pack
+
 # v2.2.11
 
 - UPDATE SIZE: SMALL
