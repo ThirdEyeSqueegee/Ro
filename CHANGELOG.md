@@ -1,3 +1,9 @@
+# v2.2.14
+
+- UPDATE SIZE: HOTFIX
+- Add Open Animation Replacer - Detection Plugin
+- Remove Flute Animation Fix
+
 # v2.2.13
 
 - UPDATE SIZE: LARGE
