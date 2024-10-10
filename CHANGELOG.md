@@ -1,3 +1,54 @@
+# v2.2.13
+
+- UPDATE SIZE: LARGE
+- Add True Directional Movement Lock-on Fixes
+- Add Housecarls Pre-Thaneship
+- Add ChickenMike's Random Assortment of Patches (C.R.A.P.)
+- Add Pig Iron Set
+- Add Praedy's Chantry of Auriel
+- Add Armors of the Velothi Pt. I
+- Add Armors of the Velothi Pt. II
+- Add Tonal Arsenal - Miscellaneous Weapon Sounds Skypatched
+- Add Praedy's Tel Mithryn
+- Add 7000 Steps of Sanctum
+- Add Visage of Mzund - My version - Golden Dwemer Pipeworks Redone Patch
+- Add moreHUD Untarnished UI smol Patch
+- Add Diverse Tanning Racks
+- Add JS Badges of Office
+- Add Local Map Upgrade
+- Add Snazzy Black Briar Lodge
+- Add Dismembering Framework - Creature Asset Pack - The Dragon Cult Draugr
+- Add Particle Lights - FYX Temple of Mara Ornament
+- Add Untarnished UI - C.O.C.K.S. and Completionist (32x9) (Optional - UI)
+- Add Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes
+- Add Armors of the Velothi Pt. II - My patches
+- Add Sensible Oculory Solution - Logical Mzark Puzzle
+- Add Sensible Oculory Solution - Logical Mzark Puzzle - Golden Dwemer Pipeworks Redone Patch
+- Add Spider Eggs and Sacs Replacer - Mihail's Shards of Immersion
+- Add Orc Exiles - Bilegulch Stronghold
+- Add A Shrine of Azura at The Shrine of Azura
+- Add Snazzy Interiors - Riften Bolli's House
+- Add Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key
+- Add Soul Cairn Gravestone and Spire Sizes Randomized
+- Add Solidification of Sap - An amber retexture
+- Add Beginner Bard Animations - For Skyrim's Got Talent
+- Add Subtleties of Skyrim - Red Mountain Lava - Distant Ships - Vvardenfell Mushroom
+- Add Subtleties of Skyrim - Red Mountain Lava - Distant Ships - My optimized textures
+- Add Peasant Dreams - A Common Bed Replacer
+- Add Grain Mill Animation Fix
+- Add ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
+- Add Snazzy Interiors - Dawnstar Brina's House
+- Add Better Forgotten Vale Portal Textures - Cubemaps - Environment maps
+- Add Vampires Cast No Shadow
+- Add ENB Lights For Effect Shaders
+- Add Savefile Grouping Fix
+- Add Spongebob footsteps on water (Optional - Comedy)
+- Remove Weathered Buckets Retexture
+- Remove Diverse Werewolves Collection
+- Remove Armors of the Velothi Pt. I - My version
+- Remove Particle Lights for ENB - Paragon Gems
+- Remove Modular Armory - xavbio Patches
+
 # v2.2.12
 
 - UPDATE SIZE: MEDIUM
