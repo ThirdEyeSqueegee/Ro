@@ -1,3 +1,9 @@
+# v2.2.15
+
+- UPDATE SIZE: HOTFIX
+- Remove TAA Deblur
+- Fix ENB AA config
+
 # v2.2.14
 
 - UPDATE SIZE: HOTFIX
